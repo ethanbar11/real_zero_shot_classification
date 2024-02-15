@@ -1,0 +1,1137 @@
+{
+    "Chihuahua": [
+        "It is a small breed of dog",
+        "The color of the dog is typically brown, tan, or white",
+        "The dog has large, round eyes",
+        "The dog has large, erect ears",
+        "The dog has a short, smooth coat",
+        "The dog has a pointed muzzle",
+        "The dog has a curled tail",
+        "The dog has a compact body shape"
+    ],
+    "Japanese Spaniel": [
+        "The dog has a small, compact body",
+        "The dog has a short, flat face",
+        "The dog has a long, silky coat",
+        "The dog has a tail that curls over its back",
+        "The dog has large, round eyes",
+        "The dog has a black nose",
+        "The dog has long, feathered ears",
+        "The dog has a friendly and alert expression"
+    ],
+    "Maltese Dog": [
+        "The dog has a small, compact body",
+        "The dog has a long, silky white coat",
+        "The dog has a rounded skull and a black nose",
+        "The dogs have dark, round eyes",
+        "The dog has long, floppy ears",
+        "The dog has a tail that curls over its back",
+        "The dog has a friendly and alert expression"
+    ],
+    "Pekinese": [
+        "The dog has a small, compact body",
+        "The dog has a flat, wrinkled face",
+        "The dog has a double coat with a mane of fur around the neck",
+        "The dog has a short, pushed-in nose",
+        "The dog has large, round, dark eyes",
+        "The dog has a curled tail",
+        "The dog has a distinctive \"rolling\" gait"
+    ],
+    "Shih-Tzu": [
+        "The dog has a small, compact body",
+        "The dog has a short, flat face",
+        "The dog has a long, flowing coat",
+        "The dog has a tail that curls over its back",
+        "The dog has round, dark eyes",
+        "The dog has a black nose",
+        "The dog has floppy ears",
+        "The dog has a friendly and alert expression"
+    ],
+    "Blenheim Spaniel": [
+        "The dog has a medium-sized, well-proportioned body",
+        "The dog has a white coat with object markings",
+        "The dog has long, floppy ears",
+        "The dog has a friendly and gentle expression",
+        "The dog has a wagging tail",
+        "The dog has a feathered coat on the ears, chest, legs, and tail",
+        "The dog has a slightly rounded skull and a well-defined stop between the eyes"
+    ],
+    "Papillon": [
+        "The dog has distinctive butterfly-shaped ears",
+        "The dog has a long, flowing coat with fringed fur on the ears and tail",
+        "The dog has a small, delicate build",
+        "The dog has a plumed tail that curls over its back",
+        "The dog has a friendly and alert expression",
+        "The dog has a white blaze on its face",
+        "The dog has a black nose and dark, expressive eyes"
+    ],
+    "Toy Terrier": [
+        "The dog is small in size, typically weighing less than 7 pounds",
+        "The dog have a short, smooth coat in various colors such as black, brown, or white",
+        "The dog have pointed ears that stand erect",
+        "The dog have an alert and lively expression in the eyes",
+        "The dog have a compact and well-proportioned body",
+        "The dog\n- Tail is typically docked",
+        "The dog is often seen in a sitting or standing position with a confident stance"
+    ],
+    "Rhodesian Ridgeback": [
+        "The dog has a distinctive ridge of hair along its back",
+        "The dog has a muscular and athletic build",
+        "The dog has a short, shiny coat that is typically a light to red wheaten color",
+        "The dog has a strong, powerful head with a deep muzzle",
+        "The dog has a black nose and dark, intelligent eyes",
+        "The dog has a tail that tapers to a point",
+        "The dog has a confident and alert expression"
+    ],
+    "Afghan Hound": [
+        "The dog has a long, flowing coat",
+        "The dog has a distinctive topknot of hair on its head",
+        "The dog has a long, narrow muzzle",
+        "The dog has a slender, athletic build",
+        "The dog has a graceful and elegant posture",
+        "The dog has a tail with a curl at the end",
+        "The dog has a regal and dignified expression"
+    ],
+    "Basset Hound": [
+        "The dog has a long body and short legs",
+        "The dog has loose, wrinkled skin",
+        "The dog has long, droopy ears",
+        "The dog has a droopy, sad-looking expression",
+        "The dog has a white-tipped tail",
+        "The dog has a tri-color coat (black, white, and brown)",
+        "The dog has a strong, sturdy build",
+        "The dog has a deep, melodious bark"
+    ],
+    "Beagle": [
+        "The dog has a medium-sized, compact body",
+        "The dog has a short, smooth coat with a combination of white, black, and brown coloring",
+        "The dog has long, droopy ears",
+        "The dog has a distinct white-tipped tail",
+        "The dog has a friendly and alert expression",
+        "The dog has a strong sense of smell and may be seen sniffing the ground",
+        "The dog has a friendly and sociable demeanor"
+    ],
+    "Bloodhound": [
+        "The dog has a large, wrinkled and droopy face",
+        "The dog has long, floppy ears",
+        "The dog has a deep, resonant bark",
+        "The dog has a distinctive brown and black coat",
+        "The dog has a strong, muscular build",
+        "The dog has a keen sense of smell",
+        "The dog has a long, droopy tail",
+        "The dog has a friendly and gentle expression"
+    ],
+    "Bluetick": [
+        "The dog has a short, glossy coat that is predominantly blue with black spots",
+        "The dog has long, droopy ears",
+        "The dog has a muscular build and a deep chest",
+        "The dog has a distinctive howl or bay",
+        "The dog has a white-tipped tail",
+        "The dog has a black nose and dark, expressive eyes",
+        "The dog has a strong, athletic stance",
+        "The dog has a friendly and alert expression"
+    ],
+    "Black-and-tan Coonhound": [
+        "The dog has a black and tan coat color",
+        "The dog has long, floppy ears",
+        "The dog has a muscular build",
+        "The dog has a deep chest and strong legs",
+        "The dog has a long, tapered tail",
+        "The dog has a distinctive face with a long muzzle and expressive eyes"
+    ],
+    "Walker Hound": [
+        "The dog has a short, smooth coat",
+        "The dog has a long, droopy ears",
+        "The dog has a strong, muscular build",
+        "The dog has a deep chest",
+        "The dog has a long, tapered tail",
+        "The hound has a black, white, and tan coloration",
+        "The dog has a strong sense of smell and a keen hunting instinct"
+    ],
+    "English Foxhound": [
+        "The dog has a medium to large size with a muscular build",
+        "The hound have a short and dense coat, usually tricolor (black, white, and tan)",
+        "The hound have long and floppy ears",
+        "The dog's tail is long and held high",
+        "The dog's eyes are large and brown",
+        "The dog have a long and narrow muzzle",
+        "The dog has a friendly and alert expression"
+    ],
+    "Redbone": [
+        "The dog has a short, smooth coat that is typically red in color",
+        "The dog has a muscular build and a sleek, athletic appearance",
+        "The dog has a distinctive, square-shaped head with long, floppy ears",
+        "The dog has a deep chest and strong, straight legs",
+        "The dog has a tail that is often carried high and wagging",
+        "The dog has a friendly and alert expression in its eyes",
+        "The dog has a gentle and confident demeanor"
+    ],
+    "Borzoi": [
+        "It is a large breed of dog",
+        "The color of the dog is typically white, tan, or grey",
+        "The dogs have a long, narrow head and muzzle",
+        "The dog has a long, silky coat",
+        "The dog has a slender, graceful build",
+        "The dog has a deep chest and a tucked-up abdomen",
+        "The dog has a long, curved tail",
+        "The dog has a regal and elegant appearance"
+    ],
+    "Irish Wolfhound": [
+        "It is a large breed of dog",
+        "The dog is typically grey, brindle, red, black, white, or fawn",
+        "The dog has a long, wiry coat",
+        "The dog has a long, muscular body",
+        "The dog has a long, narrow head",
+        "The dog has a deep chest",
+        "The dog has a long, curved tail",
+        "The dog has a calm and dignified expression"
+    ],
+    "Italian Greyhound": [
+        "It is a small, slender dog breed",
+        "The color of the dog is typically grey, black, fawn, or blue",
+        "The dog has a long, narrow head and muzzle",
+        "The dog has a sleek, short coat",
+        "The dog has a deep chest and tucked abdomen",
+        "The dog has long, slender legs",
+        "The dog has a curved tail",
+        "The dog has a graceful and elegant appearance"
+    ],
+    "Whippet": [
+        "It is a medium-sized dog breed",
+        "The color of the dog is typically white, fawn, blue, or black",
+        "The dog has a sleek and muscular build",
+        "The dog has a long, narrow head and muzzle",
+        "The dog has a deep chest and tucked-up abdomen",
+        "The dog has a short, smooth coat",
+        "The dog has long legs and a graceful gait",
+        "The dog has a distinctive tail, long and tapering towards the end"
+    ],
+    "Ibizian Hound": [
+        "The dog has a slender and athletic build",
+        "The dog has a short coat that is typically red, white, or a combination of both",
+        "The dog has large, erect ears",
+        "The dog has a long, narrow muzzle",
+        "The dog has a deep chest and a tucked-up abdomen",
+        "The dog has a graceful and elegant appearance",
+        "The dog has a smooth and effortless gait"
+    ],
+    "Norwegian Elkhound": [
+        "The dog has a thick, double coat that is grey with black tips",
+        "The dog has a strong, muscular build",
+        "The dog has a wedge-shaped head with erect ears",
+        "The dog has a curled tail that is carried over the back",
+        "The dog has a keen, alert expression",
+        "The dog has a medium-sized, sturdy frame",
+        "The dog have a confident and dignified stance"
+    ],
+    "Otterhound": [
+        "The dog has a large, shaggy coat",
+        "The dog has a long, narrow head with a prominent beard and mustache",
+        "The dog has a deep chest and strong, muscular body",
+        "The dog has webbed feet",
+        "The dog has a long, thick tail",
+        "The dog has a distinctive, melodious bark",
+        "The dog has a friendly and alert expression"
+    ],
+    "Saluki": [
+        "The dog has a long, slender body",
+        "The dog has a long, narrow head with a slightly arched skull",
+        "The dog has long, floppy ears",
+        "The dog has a smooth and silky coat",
+        "\nThe dog has a tail with a slight curve",
+        "The dog has a deep chest and a narrow waist",
+        "The dog has a graceful and elegant appearance"
+    ],
+    "Scottish Deerhound": [
+        "The dog has a large, muscular build",
+        "The dog has a long, narrow head with a slightly arched skull",
+        "The dog has a long, straight or slightly curved tail",
+        "The dog has a rough, wiry coat",
+        "The dog has a deep chest and strong, straight legs",
+        "The dog has a dark mask around the eyes and ears",
+        "The dog has a gentle and dignified expression",
+        "The dog has a grey, brindle, or fawn coat color"
+    ],
+    "Weimaraner": [
+        "The dog has a sleek, silver-grey coat",
+        "The dog has a distinctive head shape with long, floppy ears",
+        "The dog has a muscular build and a graceful, athletic stance",
+        "The dog has piercing, amber or blue-grey eyes",
+        "The dog has a long, docked tail",
+        "The dog has a friendly and intelligent expression",
+        "The dog has a distinctive, sleek and elegant appearance"
+    ],
+    "Staffordshire Bullterrier": [
+        "The dog has a muscular and stocky build",
+        "The dog has a short coat that can be various colors such as red, fawn, white, black, or blue",
+        "The dog has a broad head and strong jaws",
+        "The dog has a short, broad muzzle",
+        "The dog has a distinct \"tiger\" or \"brindle\" stripe pattern on its coat",
+        "The dog has a wide chest and strong, powerful legs",
+        "The dog has a confident and alert expression",
+        "The dog has a tail that is often described as \"crank\" or \"stumpy\""
+    ],
+    "American-Staffordshire Terrier": [
+        "The dog has a muscular build",
+        "The dog has a short coat that can be any color",
+        "The dog have a broad head and strong jaws",
+        "The dog has a medium-sized, deep chest",
+        "The dog has a short tail",
+        "The dog has a confident and alert expression",
+        "The dog has a friendly and intelligent demeanor"
+    ],
+    "Bedlington Terrier": [
+        "The dog has a distinctive lamb-like appearance with a curly, woolly coat",
+        "The dog has a slender, graceful build with a deep chest",
+        "The dog has a narrow, wedge-shaped head with a tapering muzzle",
+        "The dog has a distinctive topknot of silky hair on the head",
+        "The dog has small, triangular ears that hang close to the head",
+        "The dog has a graceful, flowing gait",
+        "The dog has a liver or blue coloration",
+        "The dog has a distinctive arched back and tuck-up in the loin area"
+    ],
+    "Border Terrier": [
+        "The dog has a wiry, dense coat that is usually tan, grizzle, or blue and tan in color",
+        "The dog has a distinctive otter-shaped head with a strong muzzle",
+        "The dog has small, V-shaped ears that fold forward",
+        "The dog has a medium-length tail that is carried high",
+        "The dog has a compact, sturdy build with a balanced and agile appearance",
+        "The dog has a confident and alert expression in its eyes",
+        "The dog has a friendly and intelligent demeanor"
+    ],
+    "Kerry-Blue Terrier": [
+        "The dog has a distinctive blue-gray coat",
+        "The dog has a long, muscular body",
+        "The terrier has a beard and mustache",
+        "The dog has a strong, square head",
+        "The dog has small, V-shaped ears",
+        "The dog has a docked tail",
+        "The dog has a confident and alert expression"
+    ],
+    "Irish Terrier": [
+        "The dog has a wiry, red coat",
+        "The dog has a long, rectangular-shaped head",
+        "The dog has a black nose and small, dark eyes",
+        "The dog has a muscular build and a deep chest",
+        "The dog has a docked tail",
+        "The dog has a confident and alert expression"
+    ],
+    "Norfolk Terrier": [
+        "The dog has a small, sturdy build",
+        "The dog has a wiry, weather-resistant coat",
+        "The dog has a distinctive \"otter\" shaped head",
+        "The dog has a docked tail",
+        "The dog has a wiry beard and eyebrows",
+        "The dog has small, dark, and expressive eyes",
+        "The dog has a strong, compact body",
+        "The dog has a confident and alert expression"
+    ],
+    "Norwich Terrier": [
+        "The dog has a small, sturdy build",
+        "The dog has a wiry, weather-resistant coat",
+        "The dog has a slightly fox-like expression",
+        "The dog has erect ears",
+        "The dog has a docked tail",
+        "The dog has a black and tan or red coat color",
+        "The dog has a confident and alert demeanor"
+    ],
+    "Yorkshire Terrier": [
+        "The dog has a small, compact body",
+        "The dog has a long, silky coat that is typically blue and tan in color",
+        "The dog has small, triangular-shaped ears that stand erect",
+        "The dog has a small, black nose",
+        "The dog has a tail that is typically docked",
+        "The dog has a confident and alert expression in its eyes",
+        "The dog has a small, rounded skull",
+        "The dog has a lively and sprightly demeanor"
+    ],
+    "Wirehaired-Fox Terrier": [
+        "The dog has a wiry, dense coat that is predominantly white with patches of black, tan, or brown",
+        "The dog has a distinctive facial expression with a keen and intelligent expression",
+        "The dog has small, V-shaped drop ears that are set high on the head",
+        "The dog has a long, straight tail that is carried high",
+        "The dog has a compact, athletic build with a confident and alert posture",
+        "The dog has a friendly and energetic demeanor evident in its body language"
+    ],
+    "Lakeland Terrier": [
+        "The dog has a wiry, double coat that is typically black, black and tan, blue, red, red grizzle, liver, or wheaten in color",
+        "The dog has a long, rectangular-shaped head with a defined stop",
+        "The dog has small, V-shaped ears that fold over",
+        "The dog has a docked tail",
+        "The dog has a sturdy build with a deep chest",
+        "The dog has a confident and alert expression",
+        "The dog has a wiry, straight coat on the body and a softer, smoother coat on the head",
+        "The dog has a distinctive beard and eyebrows"
+    ],
+    "Sealyham Terrier": [
+        "The dog has a distinct white coat with markings of lemon, tan, or badger",
+        "The dog has a sturdy and compact build",
+        "The dog has a long head with a strong jaw",
+        "The dog has a black nose and dark, round eyes",
+        "The dog has a docked tail",
+        "The dog has a confident and alert expression",
+        "The dog has a double coat with a soft undercoat and a wiry outer coat",
+        "The dog has a muscular and agile appearance"
+    ],
+    "Airedale": [
+        "The dog has a wiry, dense coat that is tan with black markings",
+        "The dog has a long, flat head with a beard and mustache",
+        "The dog has a muscular build and a deep chest",
+        "The dog has a docked tail",
+        "The dog has a confident and alert expression",
+        "The dog has a medium to large size, standing around 23 inches at the shoulder",
+        "The dog has a distinctive, upright posture and gait"
+    ],
+    "Cairn": [
+        "The dog has a shaggy, weather-resistant coat",
+        "The dog has a compact and sturdy build",
+        "The dog has a broad head with a bushy topknot",
+        "The dog has small, erect ears",
+        "The dog has a black nose and dark, expressive eyes",
+        "The dog has a tail that is carried high and is often docked",
+        "The dog has a confident and alert expression"
+    ],
+    "Australian Terrier": [
+        "The dog has a small, sturdy build",
+        "The dog has a rough, shaggy coat that is typically blue and tan in color",
+        "The dog has a distinctive topknot of longer fur on the head",
+        "The dog has a short tail",
+        "The dog has small, triangular ears",
+        "The dog has a confident and alert expression",
+        "The dog has a friendly and lively demeanor"
+    ],
+    "Dandi Dinmont": [
+        "The dog has a long body with short legs",
+        "The dog has a distinctive \"top-knot\" of hair on its head",
+        "The dog has a wiry coat that can be pepper, mustard, or white in color",
+        "The dog has a long, low-set tail",
+        "The dog has a large, domed head with a strong jaw",
+        "The dog has a deep chest and strong hindquarters",
+        "The dog has a friendly and intelligent expression"
+    ],
+    "Boston Bull": [
+        "The dog has a short, smooth coat",
+        "The dog has a square-shaped head",
+        "The dog has a short, wide muzzle",
+        "The dog has a muscular build",
+        "The dog has a white muzzle and chest",
+        "The dog has a brindle or seal coat color",
+        "The dog has a compact, sturdy body",
+        "The dog has a cropped or naturally short tail"
+    ],
+    "Miniature Schnauzer": [
+        "The dog has a distinctive wiry coat that is salt and pepper, black, or silver in color",
+        "The dog has a long beard and eyebrows",
+        "The dog has a rectangular-shaped head",
+        "The animal has a docked tail",
+        "The dog has a sturdy and compact build",
+        "The dog has bushy, expressive eyebrows",
+        "The dog has a keen and alert expression",
+        "The dog has a distinctive, high-stepping gait"
+    ],
+    "Giant Schnauzer": [
+        "The dog has a distinctive, wiry coat that is solid black or pepper and salt in color",
+        "The dog has a strong, square build with a deep chest and powerful legs",
+        "The dog has a long, rectangular head with a bushy beard and eyebrows",
+        "The dog has a docked tail and cropped ears",
+        "The dog has a confident and alert expression",
+        "The dog has a strong, muscular neck and shoulders",
+        "The dog has a distinctive, high-stepping gait",
+        "The dog has a confident and intelligent demeanor"
+    ],
+    "Standard Schnauzer": [
+        "The dog has a distinctive beard and eyebrows",
+        "The dog has a wiry, double coat that is typically salt and pepper in color",
+        "the dog has a rectangular-shaped head with a strong muzzle",
+        "The dog has a docked tail",
+        "The dog has a sturdy, square build",
+        "The dog has a confident and alert expression",
+        "The dog has medium-sized, V-shaped ears that stand erect",
+        "The dog has a strong, muscular neck and chest"
+    ],
+    "Scotch Terrier": [
+        "The dog has a wiry, dense coat",
+        "The dog has a distinctive beard and eyebrows",
+        "The dog has a small, sturdy build",
+        "The dog has pointed, erect ears",
+        "The dog has a tail that is carried high",
+        "The dog has a black, grey, or wheaten coat color",
+        "The dog has a confident and alert expression"
+    ],
+    "Tibetan Terrier": [
+        "The dog has a medium to long coat that can be various colors such as black, white, gold, or tricolor",
+        "The dog has a distinctive beard and mustache",
+        "The dog has a medium-sized, sturdy build",
+        "The dog has a tail that curls over its back",
+        "The dog has a friendly and alert expression",
+        "The dog has a square-shaped muzzle",
+        "The dog has medium-sized, round, dark eyes",
+        "The dog has a double coat with a soft, wooly undercoat and a straight, fine outer coat"
+    ],
+    "Silky Terrier": [
+        "The terrier has a small, compact body",
+        "The dog has a silky, straight coat",
+        "The dog has a distinctive topknot of hair on its head",
+        "The dog has small, triangular ears that stand erect",
+        "The dog has a black nose and dark, almond-shaped eyes",
+        "The dog has a tail that is docked and carried high",
+        "The dog has a confident and alert expression"
+    ],
+    "Soft-coated-Wheaten Terrier": [
+        "The dog has a medium-sized, square-shaped body",
+        "The dog has a soft, silky, colored coat",
+        "The dog has a distinct beard and mustache",
+        "The dog has a long, rectangular head",
+        "The dog has a dark, shiny nose",
+        "The dog has medium-sized, almond-shaped eyes",
+        "The dog has a docked tail",
+        "The dog has a friendly and alert expression"
+    ],
+    "West-Highland-White Terrier": [
+        "The dog has a compact, sturdy build",
+        "The dog has a white, double coat",
+        "The dog has a distinctive, round head with a black nose",
+        "The dog has small, erect ears",
+        "The dog has a tail that is carried straight and is medium in length",
+        "The dog has dark, almond-shaped eyes",
+        "The dog has a confident and alert expression"
+    ],
+    "Lhasa": [
+        "The dog has a long, flowing coat",
+        "The dog has a small, sturdy build",
+        "The dog has a flat face with a black nose",
+        "The dog has a tail that curls over its back",
+        "The dog has dark, expressive eyes",
+        "The dog has a friendly and alert expression",
+        "The dog has a double coat, with a soft, wooly undercoat and a longer, coarser outer coat"
+    ],
+    "Flat-coated Retriever": [
+        "The dog has a shiny black or liver-colored coat",
+        "The dog has a long, sleek body",
+        "The dog has a broad head and muzzle",
+        "The dog has a friendly and alert expression",
+        "The dog has a long, wagging tail",
+        "The dog has a muscular build",
+        "The dog has webbed feet",
+        "The dog has a happy and outgoing demeanor"
+    ],
+    "Curly-coater Retriever": [
+        "The dog has a medium to large size with a sturdy build",
+        "The dog has a thick, curly coat that is usually black or liver in color",
+        "The dog has a broad head with a pronounced stop",
+        "The dog has a long, strong muzzle",
+        "The dog has pendant ears that hang close to the head",
+        "The dog has a thick, muscular neck",
+        "The dog has a deep chest and strong, straight legs",
+        "The dog has a tail that is carried straight or slightly curved",
+        "The dog has a friendly and intelligent expression in its eyes"
+    ],
+    "Golden Retriever": [
+        "The dog has a medium to large size with a muscular build",
+        "The dog has a dense, water-repellent coat that is usually golden in color",
+        "The dog has a broad head with friendly and intelligent eyes",
+        "The dog has a thick, muscular tail",
+        "The dog has a friendly and gentle expression",
+        "The dog has a sturdy and well-proportioned body",
+        "The dog has a friendly and outgoing personality"
+    ],
+    "Labrador Retriever": [
+        "The dog has a medium to large build",
+        "The dog has a short, dense coat that is usually black, yellow, or chocolate in color",
+        "The dog has a broad head and strong jaws",
+        "The dog has a friendly and intelligent expression",
+        "The dog has a thick, otter-like tail",
+        "The dog has webbed feet",
+        "The dog has a muscular and athletic appearance",
+        "The dog has a friendly and outgoing demeanor"
+    ],
+    "Chesapeake-Bay Retriever": [
+        "The dog has a thick, water-resistant coat",
+        "The dog has a broad, skull-shaped head",
+        "The dog has a strong, muscular build",
+        "The dog has a medium to large size",
+        "The dog has a distinctive yellow or amber eyes",
+        "The dog has a strong, powerful tail",
+        "The dog has webbed feet for swimming",
+        "The dog has a friendly and intelligent expression"
+    ],
+    "German-Short-haired Pointer": [
+        "The dog has a short, sleek coat that is typically liver, black, or liver and white in color",
+        "The dog has a muscular build and a deep chest",
+        "The dog has a distinct head shape with a broad skull and a pointed muzzle",
+        "The dog has floppy ears that hang close to the head",
+        "The dog has a tail that is typically docked to a certain length",
+        "The dog has a keen and intelligent expression in its eyes",
+        "The dog has a strong and athletic stance",
+        "The dog has webbed feet, which are useful for swimming",
+        "The dog has a friendly and alert demeanor"
+    ],
+    "Vizsla": [
+        "The dog has a sleek, golden-rust coat",
+        "The dog has a lean and muscular build",
+        "The dog has a distinctive long, silky ears",
+        "The dog has a long, tapered tail",
+        "The dog has a deep chest and strong shoulders",
+        "The dog has a friendly and intelligent expression",
+        "The dog has a smooth and graceful gait"
+    ],
+    "English Setter": [
+        "The dog has a long, silky coat with feathering on the ears, chest, belly, and legs",
+        "The dog has a distinct mottled or speckled coat pattern, often with patches of color",
+        "The dog has a long, elegant neck and a deep chest",
+        "The dog has a distinctive \"setter\" stance, with a straight front and slightly sloping back",
+        "The dog has a long, feathered tail that is often held high",
+        "The dog has a friendly and alert expression with expressive eyes and a long, narrow muzzle"
+    ],
+    "Irish Setter": [
+        "The dog has a distinctive mahogany or chestnut coat",
+        "The dog has long, silky fur with feathering on the ears, chest, belly, and tail",
+        "The dog has a long, elegant neck and muscular build",
+        "The dog has a deep chest and strong, sloping shoulders",
+        "The dog has a long, graceful tail",
+        "The dog has a friendly and alert expression with almond-shaped eyes",
+        "The dog have a distinctive feathered ears that hang close to the head",
+        "The dog has a graceful and athletic gait"
+    ],
+    "Gordon Setter": [
+        "The dog has a distinctive black and tan coat",
+        "The dog has a long, feathered tail",
+        "The dog has a muscular build and strong, athletic appearance",
+        "The dog has a long, elegant neck and head",
+        "The dog has a deep chest and strong, straight legs",
+        "The dog has a friendly and intelligent expression in its eyes"
+    ],
+    "Brittany": [
+        "The dog has a medium-sized, compact body",
+        "The dog has a dense, flat or wavy coat in colors such as orange and white or liver and white",
+        "The dog has a long, feathered tail",
+        "The dog has a distinctive, triangular-shaped head with a slightly rounded skull",
+        "The dog has a medium-length muzzle with a strong, square jaw",
+        "The dog has expressive, almond-shaped eyes",
+        "The dog has high-set, floppy ears",
+        "The dog has a friendly and alert expression"
+    ],
+    "Clumber": [
+        "The dog has a large, heavy-boned body",
+        "The dog has a dense coat that is predominantly white with lemon or orange markings",
+        "The dog has a large, square head with a deep muzzle",
+        "The dog has a gentle and calm expression",
+        "The dog has a wide, deep chest",
+        "The dog has a straight, feathered tail",
+        "The dog has a heavy, powerful build",
+        "The dog has a distinctive rolling gait"
+    ],
+    "English-Springer Spaniel": [
+        "The dog has a medium-sized, muscular build",
+        "The dog has a long, feathered coat that is usually black and white or liver and white",
+        "The dog has long, droopy ears",
+        "The dog has a long, wagging tail",
+        "The dog has a friendly and alert expression",
+        "The dog has a strong, athletic stance",
+        "The dog has a friendly and intelligent expression",
+        "The dog has a gentle and affectionate demeanor"
+    ],
+    "Welsh-Springer Spaniel": [
+        "The dog has a medium-sized, sturdy build",
+        "The dog has a red and white coat",
+        "The dog has long, feathered ears",
+        "The dog has a wagging tail",
+        "The dog has a friendly and alert expression",
+        "The dog has a gentle and affectionate demeanor"
+    ],
+    "Cocker Spaniel": [
+        "The dog has a medium-sized, sturdy body",
+        "The dog has a long, silky coat that can be various colors such as black, tan, or brown",
+        "The dog has long, floppy ears",
+        "The dog has a rounded head with a distinct stop between the forehead and the muzzle",
+        "The dog has a docked tail or a natural tail that is often wagging",
+        "The dog has a friendly and alert expression in its eyes",
+        "The dog has a well-proportioned and balanced build with a graceful movement"
+    ],
+    "Sussex Spaniel": [
+        "The dog has a long, low body with a deep chest",
+        "The dog has a golden liver color with feathering on the ears, chest, legs, and tail",
+        "The dog has a long, silky coat",
+        "The dog has a distinct \"spaniel\" face with a long, square muzzle and large, expressive eyes",
+        "The dog has long, low-set ears",
+        "The dog has a wagging tail",
+        "The dog has a friendly and gentle expression"
+    ],
+    "Irish-Water Spaniel": [
+        "The dog has a curly, waterproof coat",
+        "The dog has a distinctive topknot of hair on its head",
+        "The dog has a long, tapered tail",
+        "The dog has webbed feet for swimming",
+        "The dog has a liver-colored nose",
+        "The dog has a muscular build",
+        "The dog has a deep chest and strong, powerful legs"
+    ],
+    "Kuvasz": [
+        "It is a large, white, and sturdy dog breed",
+        "The dog has a thick, double coat",
+        "The dog has a broad head and muzzle",
+        "The dog has a black nose and dark, almond-shaped eyes",
+        "The dog has a muscular build and strong, straight legs",
+        "The dog has a long, feathered tail",
+        "The dog has a confident and alert expression"
+    ],
+    "Schipperke": [
+        "The dog has a small, compact body",
+        "The dog has a black coat",
+        "The dog has pointed ears that stand erect",
+        "The dog has a fox-like face",
+        "The dog has a tail that curls over its back",
+        "The dog has a confident and alert expression",
+        "The dog has a sturdy build",
+        "The dog has a double coat with a harsh outer coat and soft undercoat"
+    ],
+    "Groenendael": [
+        "The dog has a long, black coat",
+        "The dog has a pointed muzzle and erect ears",
+        "The dog has a bushy tail",
+        "The dog has a sleek and athletic build",
+        "The dog has intelligent and alert eyes",
+        "The dog has a confident and elegant posture"
+    ],
+    "Malinois": [
+        "The dog has a short, fawn-colored coat with black markings",
+        "The dog has a muscular build and a sleek, athletic appearance",
+        "The dog has a pointed muzzle and erect ears",
+        "The dog has a confident and alert expression",
+        "The dog has a strong and agile stance",
+        "The dog has a black mask on its face",
+        "The dog has a bushy tail",
+        "The dog has a keen and intelligent gaze"
+    ],
+    "Briard": [
+        "The dog has a long, shaggy coat",
+        "The dog has a strong and muscular build",
+        "The dog has a distinctive beard and eyebrows",
+        "The dog has a large, bushy tail",
+        "The dog has a confident and alert expression",
+        "The dog has a black, grey, or tawny coat color",
+        "The dog has a double dewclaw on the hind legs",
+        "The dog has a square-shaped body and head"
+    ],
+    "Kelpie": [
+        "The dog has a medium to large size, with a muscular build",
+        "The dog coat color can be black, brown, red, or tan, often with markings or patches",
+        "The dog\n- The ears are medium-sized and erect",
+        "The dog have almond-shaped and alert eyes",
+        "The dog have a tail that is long and carried low",
+        "The dog has a sleek and athletic appearance",
+        "The dog have a friendly and intelligent expression"
+    ],
+    "Komondor": [
+        "The dog has a distinctive corded or dreadlock-like coat",
+        "The dog has a large, muscular build",
+        "The dog has a deep chest and strong legs",
+        "The dog has a broad head with a pronounced stop",
+        "The dog has a black nose and dark eyes",
+        "The dog has a confident and alert expression",
+        "The dog has a long, low-set tail",
+        "The dog has a calm and steady demeanor"
+    ],
+    "Old-English Sheepdog": [
+        "The dog has a large, shaggy coat that is usually grey, grizzle, blue, or blue merle in color",
+        "The dog has a distinctive \"bobtail\" or docked tail",
+        "The dog has a broad head with a black nose and dark, expressive eyes",
+        "The dog has a muscular build and a strong, square-shaped body",
+        "The dog has a friendly and intelligent expression",
+        "The dog has a characteristic \"shuffling\" gait when walking or running"
+    ],
+    "Shetland Sheepdog": [
+        "The dog has a long, luxurious double coat, often in shades of sable, black, and white",
+        "The dog has a long, wedge-shaped head with a pointed muzzle",
+        "The dog has almond-shaped eyes and erect ears",
+        "The dog has a bushy tail that curls over its back",
+        "The dog has a graceful and agile stance",
+        "The dog has a friendly and intelligent expression"
+    ],
+    "Collie": [
+        "The dog has a long, slender body",
+        "The dog has a pointed snout",
+        "The dog has a thick, double coat",
+        "The dog has a bushy tail",
+        "The dog has a distinct white collar and chest",
+        "The dog has a graceful and athletic appearance"
+    ],
+    "Border Collie": [
+        "The dog has a medium-sized, athletic build",
+        "The dog has a double coat, with a thick, weather-resistant outer coat and a soft undercoat",
+        "The dog has a distinct white blaze on its face",
+        "The dog has a long, feathered tail",
+        "The dog has a keen and intelligent expression in its eyes",
+        "The dog has a variety of coat colors, including black and white, red and white, blue and white, and sable and white",
+        "The dog has a strong, agile stance",
+        "The dog has a friendly and alert demeanor"
+    ],
+    "Bouvier-des Flandres": [
+        "The dog has a large, sturdy build",
+        "The dog has a thick, double coat",
+        "The dog has a distinctive beard and mustache",
+        "The dog has a square-shaped head",
+        "The dog has a docked tail",
+        "The dog has a confident and alert expression",
+        "The dog has a black, fawn, or brindle coat color",
+        "The dog has a strong and powerful stance"
+    ],
+    "Rottweiler": [
+        "The dog has a large, muscular build",
+        "The dog has a coat with distinct rust-colored markings on its face, chest, and legs",
+        "The dog has a broad head and strong jaw",
+        "The dog has a short, thick tail",
+        "The dog has a confident and alert expression",
+        "The dog has a powerful and sturdy stance",
+        "The dog has a distinctive trotting gait",
+        "The dog has a calm and confident demeanor"
+    ],
+    "German Shepard": [
+        "- It is a medium to large-sized dog",
+        "The dog is typically black and tan, sable, or all black",
+        "The dog has a strong, muscular build",
+        "The dog has pointed, erect ears",
+        "The dog has a long, bushy tail",
+        "The dog has a thick, double coat",
+        "The dog has a strong, confident posture",
+        "The dog has a distinct, intelligent expression"
+    ],
+    "Doberman": [
+        "The dog has a sleek, muscular build",
+        "The dog has a short coat that is usually black, brown, or blue",
+        "The dog has a long, pointed muzzle",
+        "The dog has cropped ears and a docked tail (in some cases)",
+        "The dog has a strong, confident stance",
+        "The dog has a shiny, alert expression",
+        "The dog has a distinctive, regal posture",
+        "The dog has a strong, powerful jaw and teeth"
+    ],
+    "Miniature Pinscher": [
+        "The dog has a short, sleek coat",
+        "The dog has a distinct rust-colored coat with black markings",
+        "The dog has a small, compact body",
+        "The dog has a high-set tail that is usually docked",
+        "The dog has a strong, muscular build",
+        "The dog has a confident and alert expression",
+        "The dog has a sleek, elegant head with erect ears",
+        "The dog has a lively and spirited demeanor"
+    ],
+    "Greater-Swiss-Mountain Dog": [
+        "The dog has a large, sturdy build",
+        "The dog have a tri-color coat with black, rust, and white markings",
+        "The dog have a distinctive white chest and blaze on the face",
+        "The dogs have strong, muscular legs",
+        "The dog have a broad, expressive face with a black nose",
+        "The dog have a thick, double coat",
+        "The dog have large, floppy ears",
+        "The dog have a tail that is carried low and may have a white tip"
+    ],
+    "Bernese-Mountain Dog": [
+        "The dog has a large, sturdy build",
+        "The dog has a tri-colored coat of black, white, and rust",
+        "The dog has a thick, fluffy tail",
+        "The dog has a broad, expressive face with dark, intelligent eyes",
+        "The dog has a white chest and feet",
+        "The dog has a friendly and gentle expression"
+    ],
+    "Appenzeller": [
+        "The dog has a tricolor coat with a black base and tan and white markings",
+        "The dog has a medium-sized, muscular build",
+        "The dog has a distinctive \"Swiss cross\" marking on its chest",
+        "The dog has a short, smooth coat",
+        "The dog has a strong, alert expression with triangular ears",
+        "The dog has a bushy tail that curls over its back",
+        "The dog has a confident and energetic stance",
+        "The dog has a friendly and intelligent expression"
+    ],
+    "EntleBucher": [
+        "The dog has a short, tri-color coat (black, white, and tan)",
+        "The dog has a muscular build and sturdy frame",
+        "The dog has a strong, square-shaped head",
+        "The dog has a short, smooth coat",
+        "The dog has a white blaze on the chest and white markings on the face",
+        "The dog has a tail that is typically docked",
+        "The dog has a confident and alert expression",
+        "The dog has a friendly and energetic demeanor"
+    ],
+    "Boxer": [
+        "The dog has a muscular and strong build",
+        "The dog has a short, smooth coat",
+        "The dog has a square-shaped head",
+        "The dog has a broad, undershot jaw",
+        "The dog has a docked tail",
+        "The dog has a brachycephalic (short-nosed) face",
+        "The dog has a distinct coat color, such as fawn or brindle",
+        "The dog has a playful and energetic expression"
+    ],
+    "Bull Mastiff": [
+        "The dog has a large, muscular build",
+        "The dog have a short, smooth coat in colors of fawn, red, or brindle",
+        "The dog has a broad, wrinkled head",
+        "The dog have a short, square muzzle",
+        "The dog have a dark mask around the eyes",
+        "The dog has strong, powerful jaws",
+        "The dog has a thick, muscular neck",
+        "The dog have a deep, broad chest",
+        "The dog has a short, straight tail"
+    ],
+    "Tibetan Mastiff": [
+        "It is a large, powerful dog breed",
+        "The color of the dog is black, brown, or red-brown",
+        "The dog has a thick, double coat",
+        "The dog has a broad head and strong, muscular build",
+        "The dog has a bushy tail that curls over its back",
+        "The dog has a distinctive mane around its neck and shoulders",
+        "The dog has a deep, booming bark",
+        "The dog has a strong, sturdy frame and heavy bone structure"
+    ],
+    "French Bulldog": [
+        "The dog has a compact, muscular build",
+        "The dog have a short, smooth coat",
+        "The dog has a square-shaped head with wrinkles and a pushed-in nose",
+        "The dog has bat-like ears that are wide at the base and rounded at the top",
+        "The dog has a short, stubby tail",
+        "The dog has a brachycephalic (short-muzzled) face",
+        "The dog has a wide chest and strong, sturdy legs",
+        "The dog has a variety of coat colors, including brindle, fawn, white, and pied"
+    ],
+    "Great Dane": [
+        "It is a large breed of dog",
+        "The color of the dog is typically fawn, brindle, blue, black, harlequin, or mantle",
+        "The dog has a muscular build",
+        "The dog has a long, elegant neck",
+        "The dog has a deep chest",
+        "The dog has a square-shaped head",
+        "The dog has floppy ears",
+        "The dog has a short coat",
+        "The dog has a friendly and gentle expression"
+    ],
+    "Saint Bernard": [
+        "The dog is of large size and muscular build",
+        "The dog has a thick, dense fur, often with a white and brown coloration",
+        "The dog has distinctive facial features, including a broad head and deep-set eyes",
+        "The dog have droopy ears and a wrinkled forehead",
+        "The dog has a barrel-shaped body and strong, sturdy legs",
+        "A friendly and gentle expression",
+        "The dog is often seen with a small barrel around its neck",
+        "The dog is typically seen in mountainous or snowy environments"
+    ],
+    "Eskimo Dog": [
+        "The dog has a thick double coat, often white or gray in color\n",
+        "The dog has a sturdy build and strong, muscular legs",
+        "The dog has a bushy tail that curls over its back",
+        "The dog has a broad head with erect ears",
+        "The dog has a wolf-like appearance with a keen and intelligent expression",
+        "The dog has a strong, powerful jaw and sharp teeth",
+        "The dog has a friendly and alert demeanor"
+    ],
+    "Malamute": [
+        "The dog has a thick, double coat",
+        "The dog has a large, sturdy build",
+        "The dog has a bushy tail that curls over its back",
+        "The dog has a broad head with erect ears",
+        "The dog has a black nose and almond-shaped eyes",
+        "The dog has a wolf-like appearance",
+        "The dog has a friendly and alert expression"
+    ],
+    "Siberian Husky": [
+        "The dog has a thick double coat, often with distinct markings",
+        "The dog has a wolf-like appearance with erect ears and a bushy tail",
+        "The dog has a medium to large build with a strong and athletic physique",
+        "The dog has mask-like facial markings and piercing blue or multicolored eyes",
+        "The dog has a friendly and alert expression",
+        "The dog has a playful and energetic demeanor",
+        "The dog has a distinct howling or vocalization",
+        "The dog has a sled dog heritage and may be seen in a cold or snowy environment"
+    ],
+    "Affenpinscher": [
+        "The dog has a small, wiry coat",
+        "The dog has a distinct beard and eyebrows",
+        "The dog has a short muzzle and round, dark eyes",
+        "The dog has a compact, square body",
+        "The dog has a docked tail",
+        "The dog has a confident and alert expression",
+        "The dog has a black, grey, silver, or red coat color"
+    ],
+    "Basenji": [
+        "The dog has a short, sleek coat",
+        "The dog has a curled tail",
+        "The dog has a wrinkled forehead",
+        "The dog has a pointed muzzle",
+        "The dog has erect ears",
+        "The dog has a graceful and athletic build",
+        "The dog has a distinctive yodel-like bark",
+        "The dog has a high-set, tightly curled tail"
+    ],
+    "Pug": [
+        "The dog has a wrinkled face",
+        "The dog has a curled tail",
+        "The dog has a short, smooth coat",
+        "The dog has a compact, muscular body",
+        "The dog has a black mask on its face",
+        "The dog has a square, wrinkled muzzle",
+        "The dog has a curled tail",
+        "The dog has a distinctive \"smushed\" face shape"
+    ],
+    "Leonberg": [
+        "The dog has a large, muscular build",
+        "The dog has a thick, double coat",
+        "The dog has a distinctive lion-like mane around the neck and chest",
+        "The dog has a broad head with a black mask",
+        "The dog has a friendly and gentle expression",
+        "The dog has a deep chest and strong, sturdy legs",
+        "The dog has a long, bushy tail",
+        "The dog has a golden or reddish-brown coat with black markings on the face and legs"
+    ],
+    "Newfoundland": [
+        "The dog has a large, sturdy build",
+        "The dog has a thick, water-resistant double coat",
+        "The dog have a broad, strong head with a slightly arched crown",
+        "The dog has deep-set, dark eyes",
+        "The dog has a wide, square muzzle",
+        "The dog have ears that hang close to the head",
+        "The dog has strong, muscular legs",
+        "The dog have webbed feet for swimming",
+        "The dog have expressive and gentle facial expression"
+    ],
+    "Great Pyrenees": [
+        "It is a large, white, fluffy {dog breed}",
+        "The dog has a thick double coat",
+        "The dog has a strong, muscular build",
+        "The dog has a broad head with a black nose",
+        "The dog has triangular, pendant-shaped ears",
+        "The dog has a long, bushy tail",
+        "The dog has dark, almond-shaped eyes",
+        "The dog has large, webbed feet"
+    ],
+    "Samoyed": [
+        "The dog has a fluffy, white coat",
+        "The dog has a thick, bushy tail",
+        "The dog has a smiling expression with a black nose and dark eyes",
+        "The dog has a sturdy build with a strong, muscular appearance",
+        "The dog has a friendly and alert demeanor",
+        "The dog has a distinctive \"object smile\" with upturned corners of the mouth"
+    ],
+    "Pomeranian": [
+        "The breed is a small breed of dog",
+        "The dog can be various shades of orange, red, cream, black, brown, or sable",
+        "The dog has a fluffy double coat",
+        "The dog has a foxy face with small, pointed ears",
+        "The dog has a plumed tail that curls over its back",
+        "The dog has a compact, sturdy body",
+        "The dog has a playful and alert expression",
+        "The dog has a confident and lively gait"
+    ],
+    "Chow": [
+        "The dog has a distinctive lion-like mane around its neck and shoulders",
+        "The dog has a broad skull and small, triangular ears",
+        "The dog has a thick, fluffy double coat, often in shades of red, black, blue, cinnamon, or cream",
+        "The dog has a curled tail",
+        "The dog has a sturdy, muscular build",
+        "The dog has a unique blue-black tongue",
+        "The dog has a broad, flat skull and a short, broad muzzle"
+    ],
+    "Keeshond": [
+        "The dog has a distinctive \"spectacles\" marking around its eyes",
+        "The dog has a thick, double coat with a ruff around the neck",
+        "The dog has a plumed tail that curls over its back",
+        "The dog has a medium-sized, sturdy build",
+        "The dog has a black and silver or gray coat color",
+        "The dog has small, triangular ears that stand erect",
+        "The dog has a friendly and alert expression"
+    ],
+    "Brabancon Griffon": [
+        "The dog has a small, sturdy build",
+        "The dog has a rough, wiry coat",
+        "The dog has a short, flat face with a beard and mustache",
+        "The dog has a square-shaped head",
+        "The dog has large, expressive eyes",
+        "The dog has a docked tail",
+        "The dog has a confident and alert expression"
+    ],
+    "Pembroke": [
+        "The dog has a distinct fox-like face with pointed ears",
+        "The dog has a short, sturdy body with a docked tail",
+        "The dog has a double coat, with a thick, water-resistant outer coat and a soft, dense undercoat",
+        "The dog has a variety of coat colors, including red, sable, fawn, black and tan, and tri-color",
+        "The dog has a friendly and alert expression",
+        "The dog has a medium-sized build, with a height of around 10-12 inches at the shoulder",
+        "The dog has a confident and outgoing personality",
+        "The dog has a distinct gait, with a smooth and effortless movement"
+    ],
+    "Cardigan": [
+        "The dog has a medium-sized, sturdy build",
+        "The dog has a long, bushy tail",
+        "The dog has a double coat with a thick, water-resistant outer layer and a soft, insulating undercoat",
+        "The dog has large, erect ears",
+        "The dog has a distinct, foxy face with a strong muzzle",
+        "The dog has a variety of coat colors, including brindle, sable, blue merle, black, and red",
+        "The dog has a white chest and white markings on the face, legs, and underbelly",
+        "The dog has a friendly and alert expression"
+    ],
+    "Toy Poodle": [
+        "The dog has a curly, hypoallergenic coat",
+        "The dog has a small, compact body",
+        "The dog has a rounded head with a long, straight muzzle",
+        "The dog has dark, oval-shaped eyes",
+        "The dog has floppy ears",
+        "The dog has a tail that is usually docked",
+        "The dog has a friendly and alert expression"
+    ],
+    "Miniature Poodle": [
+        "The dog has a curly, hypoallergenic coat",
+        "The dog has a distinct topknot of hair on its head",
+        "The dog has a long, straight muzzle",
+        "The dog has a compact, square-shaped body",
+        "The dog has long, floppy ears",
+        "The dog has a tail that is docked or left natural",
+        "The dog has a friendly and alert expression"
+    ],
+    "Standard Poodle": [
+        "The dog has a distinct curly or corded coat",
+        "The dog has a long, elegant neck and head",
+        "The dog has a square, sturdy build",
+        "The dog has a distinctive topknot of hair on its head",
+        "The dog has a long, straight muzzle",
+        "The dog has a tail that is docked or left natural",
+        "The dog has a proud and alert expression",
+        "The dog has a solid and athletic gait"
+    ],
+    "Mexican Hairless": [
+        "The animal has a hairless body",
+        "The animal has a wrinkled skin",
+        "The animal has large, upright ears",
+        "The animal has a long, slender tail",
+        "The animal has a pointed muzzle",
+        "The animal has a variety of colors, including black, grey, brown, or red",
+        "The animal has a sleek and elegant appearance"
+    ],
+    "Dingo": [
+        "The animal have a lean and muscular build",
+        "The color of the animal is typically sandy or reddish-brown",
+        "The animal has a bushy tail",
+        "The animal has pointed ears",
+        "The animal has a white fur patch on its chest",
+        "The animal has a distinctive facial expression with a pointed snout and sharp teeth",
+        "The animal has a confident and alert posture"
+    ],
+    "Dhole": [
+        "The animal has a reddish-brown coat with white markings",
+        "The animal has a bushy tail",
+        "The animal has a slender, elongated body",
+        "The animal has a pointed muzzle",
+        "The animal has erect ears",
+        "The animal has a distinctive white-tipped tail",
+        "The animal has a pack behavior, often seen in groups"
+    ],
+    "African-Hunting Dog": [
+        "The animal has a distinctive coat pattern of yellow, black, and white",
+        "The animal has large, rounded ears",
+        "The animal has a lean and muscular body",
+        "The animal has a long, bushy tail",
+        "The animal has a pointed muzzle",
+        "The animal has a white-tipped tail",
+        "The animal has a white patch on its chest",
+        "The animal has long legs and a sleek build"
+    ]
+}

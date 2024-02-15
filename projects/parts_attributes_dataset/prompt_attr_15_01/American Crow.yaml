@@ -1,0 +1,22 @@
+American Crow:
+  attributes:
+  - category: Body Color
+    attribute_type: color
+    value: The color of the bird's body is {}
+    valid:
+    - black
+    - dark grey
+
+  - category: Beak Size
+    attribute_type: size
+    value: The size of the bird's beak is {}
+    valid:
+    - medium
+    - long
+
+  - category: Tail Shape
+    attribute_type: shape
+    value: The shape of the bird's tail is {}
+    valid:
+    - fan-shaped
+    - straight

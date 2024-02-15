@@ -1,0 +1,27 @@
+MODEL:
+  ARCH: FineTunedAttributeClassifier
+  BACKBONE: None #/shared-data5/ethan_baron/experiments/clip_training/Dogs orginal prompt new class split/checkpoints/epoch_100.pt #/shared-data5/ethan_baron/experiments/clip_training/Dogs oxford prompt new class split, lr=1e-4, wd=0.0/checkpoints/epoch_100.pt #/shared-data5/ethan_baron/experiments/clip_training/2024_01_18-12_21_56-model_ViT-L-14-lr_0.0001-b_64-j_8-p_amp/checkpoints/epoch_100.pt
+  MODEL_SIZE: ViT-B/16
+TRAIN:
+  INPUT_SIZE: 224
+DATA:
+  ROOT_DIR: /shared-data5/guy/data
+#  ANNOTATIONS_FILE: files/annotations/ANET/activity_net_1_3.json
+  PATH_TO_CLASSNAMES: files/classnames/Food101/all.txt
+#  SPLIT_OF_FILENAMES: files/filenames/ANET/openset1/    # test.txt
+DATA_LOADER:
+  NUM_WORKERS: 8
+OPENSET:
+  # that is the general file for desctiptions by CLASS
+  # there are no example information in that file
+  ATTRIBUTES_FILE: files/descriptors/Food101/food_gpt3_text-davinci-003_descriptions_col.json
+  DETECTION_THRESHOLD: 0.17
+  MAX_NUM_INTERVALS: 10
+TEST:
+  DATASET: "food101"
+  SUBSET: "test"
+  BATCH_SIZE: 128
+  TASKS: ["mAP"]
+  NUM_DEMO_PLOTS: 5
+OUTPUT_DIR: tmp3 # /shared-data5/brian/exps/grounding_logs #/shared-data5/guy/exps/grounding_logs
+SAVE_RESULTS_EVERY: 100000

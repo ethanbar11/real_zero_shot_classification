@@ -1,0 +1,913 @@
+{
+    "pink primrose": [
+        "The flower has five petals",
+        "The color of the flower is pink or light pink",
+        "The flower has green, lance-shaped leaves",
+        "The flower has a yellow center",
+        "The flower has a slender stem",
+        "The flower has a delicate, sweet fragrance"
+    ],
+    "hard-leaved-pocket orchid": [
+        "The plant has thick, rigid leaves",
+        "The plant have leaves that have a glossy or waxy texture",
+        "The orchid have leaves that are dark green in color",
+        "The orchid has small, delicate flowers",
+        "The orchid flowers have a unique shape or color pattern",
+        "The plant has a compact, bushy growth habit",
+        "The plant may have aerial roots",
+        "The plant may have pseudobulbs or swollen stems"
+    ],
+    "canterbury bells": [
+        "The plant has bell-shaped flowers",
+        "The flowers are typically blue, purple, pink, or white in color",
+        "The plant has green, lance-shaped leaves",
+        "The plant has a tall, upright stem",
+        "The plant may have multiple flowers on a single stem",
+        "The plant may have a hairy or fuzzy texture on the leaves or stems"
+    ],
+    "sweet pea": [
+        "The plant has delicate, colorful flowers",
+        "The plant has long, slender stems",
+        "The plant has green, compound leaves",
+        "The plant may have tendrils for climbing",
+        "The plant may have a sweet fragrance",
+        "The plant may have small, round seeds",
+        "The plant may have pods containing the seeds"
+    ],
+    "english marigold": [
+        "The flower has bright yellow or orange petals",
+        "The flower has a round, compact shape",
+        "The flower has a distinct, strong scent",
+        "The flower has a single, long stem",
+        "The flower has green, leafy foliage",
+        "The flower has a central, raised disk in the middle of the petals"
+    ],
+    "tiger lily": [
+        "The flower has six petals",
+        "The flower petals are orange with dark spots",
+        "The flower has long, thin, green leaves",
+        "The flower's stem is tall and sturdy",
+        "The flower has a trumpet-like shape",
+        "The flower has a strong, sweet fragrance"
+    ],
+    "moon orchid": [
+        "The orchid has a white or pale pink color",
+        "The flower has a star-shaped appearance with multiple petals",
+        "The flower has a distinct, sweet fragrance",
+        "The flower has a long slender stem",
+        "The flower has a symmetrical and balanced appearance",
+        "The flower has a smooth and glossy texture",
+        "The flower has a yellow or orange center",
+        "The flower has a delicate and elegant appearance"
+    ],
+    "bird of paradise": [
+        "The bird has vibrant and colorful plumage",
+        "The bird has long, elaborate tail object",
+        "The bird has a unique and intricate display of feathers during courtship",
+        "The bird has a distinct and ornate beak",
+        "The bird has a slender and elongated body",
+        "The bird has a unique and striking shape or silhouette",
+        "The bird has a distinct and recognizable pattern on its feathers",
+        "The bird has a specific habitat or environment in which it is typically found"
+    ],
+    "monkshood": [
+        "The plant has tall, spiky stems",
+        "The plant has distinctive hooded flowers, often blue or purple in color",
+        "The leaves are deeply lobed and palmate",
+        "The plant has a strong, distinct odor",
+        "The plant is often found in wooded or mountainous areas",
+        "The plant is toxic if ingested",
+        "The plant may have visible seed pods or clusters of seeds",
+        "The plant may have hairy or fuzzy stems or leaves"
+    ],
+    "globe thistle": [
+        "The plant has spiky, spherical blue or purple flowers",
+        "The plant has long, slender, green stems",
+        "The plant has spiky, thorny leaves",
+        "The plant has a round shape",
+        "The plant may have other smaller flowers or buds surrounding the main globe",
+        "The plant may have a fuzzy or hairy texture",
+        "The plant may be surrounded by other greenery or foliage"
+    ],
+    "snapdragon": [
+        "The flower has a tubular shape with a \"flower\" appearance",
+        "The flower has a distinct, often brightly colored, \"dragon-like\" mouth or jaw shape",
+        "The flower has a cluster of blooms on a single stem",
+        "The plant has a green, leafy stem and foliage",
+        "The flower has a distinct, sweet fragrance",
+        "The flower has a symmetrical, five-petaled shape",
+        "The flower has a variety of colors, including pink, red, yellow, orange, white, or purple"
+    ],
+    "colts foot": [
+        "The plant has distinctive yellow flowers that resemble dandelions",
+        "The leaves are large and heart-shaped with scalloped edges",
+        "The plant has a tall, hairy stem",
+        "The plant grows in clusters or patches",
+        "The plant has a preference for damp, marshy areas",
+        "The plant may have visible seed heads or fluffy white pappus",
+        "The plant may have a distinct, bitter smell when crushed"
+    ],
+    "king protea": [
+        "The flower has a large, round shape with multiple layers of petals",
+        "The color of the flower is typically pink, but can also be white or red",
+        "The flower has long, sturdy stems",
+        "The flower has thick, leathery leaves",
+        "The flower has a prominent, cone-shaped center",
+        "The flower has a unique, intricate pattern on the petals",
+        "The flower has a distinct, tropical appearance"
+    ],
+    "spear thistle": [
+        "The plant has spiny, prickly leaves",
+        "The plant has purple or pink flowers",
+        "The plant has a tall, upright stem",
+        "The plant has a round, spiky seed head",
+        "The plant has a rosette of leaves at the base",
+        "The plant has a taproot",
+        "The object has a green or purple stem"
+    ],
+    "yellow iris": [
+        "The flower has bright yellow petals",
+        "The flower has a central dark brown or black spot",
+        "The flower has long, thin green leaves",
+        "The flower has a distinct, sweet fragrance",
+        "The flower has a tall, slender stem",
+        "The flower has a symmetrical, star-like shape"
+    ],
+    "globe-flower": [
+        "The flower has bright yellow petals",
+        "The flower has a globe-shaped cluster of petals",
+        "The flower has green leaves",
+        "The flower has a tall, slender stem",
+        "The flower has a round, seed-filled center",
+        "The flower has a distinct, pleasant fragrance"
+    ],
+    "purple coneflower": [
+        "The flower has a distinct color",
+        "The flower has a cone-shaped center",
+        "The flowers petals are arranged in a circular pattern around the center",
+        "The flower has long, slender leaves",
+        "\nThe flower has a textured, spiky appearance",
+        "The plant has a sturdy stem",
+        "The flower has a distinct, daisy-like shape"
+    ],
+    "peruvian lily": [
+        "The flower has six petals",
+        "The color of the flower is typically pink, red, orange, or white",
+        "The flower has long, slender stems",
+        "The flower has green, lance-shaped leaves",
+        "The flower has trumpet-shaped blooms",
+        "The flower has a distinct, sweet fragrance",
+        "The flower has multiple blooms on a single stem"
+    ],
+    "balloon flower": [
+        "The flower has a balloon-like shape with a narrow base and rounded top",
+        "The color of the flower is typically blue, purple, or white",
+        "The flower has five petals",
+        "The flower has a long, thin stem",
+        "The flower has green, lance-shaped leaves",
+        "The flower has a central stigma and stamens",
+        "The flower has a delicate, papery texture",
+        "The flower may have visible veins or patterns on the petals"
+    ],
+    "giant white arum lily": [
+        "The flower has large, white, petal-like bracts",
+        "The flower has a long, yellow spadix in the center",
+        "The flower has large, glossy, green leaves",
+        "The flower has a tall, sturdy stem",
+        "The flower has a distinct, sweet fragrance",
+        "The flower is typically found in wet, marshy areas or near water",
+        "The flower blooms in the spring or summer months"
+    ],
+    "fire lily": [
+        "The flower has bright red, orange, or yellow petals",
+        "The flower has long, slender green leaves",
+        "The flower has a trumpet-shaped bloom",
+        "The flower has a distinct, strong fragrance",
+        "The flower has a tall, slender stem",
+        "The flower has a cluster of blooms at the top of the stem"
+    ],
+    "pincushion flower": [
+        "The flower has a round, pincushion-like shape",
+        "The color of the flower is typically blue, purple, or pink",
+        "The flower has thin, delicate petals",
+        "The flower has a central, protruding stamen",
+        "The plant has green, leafy stems",
+        "The flower has a textured or fuzzy appearance",
+        "The flower may have small, needle-like structures on the petals or stamen"
+    ],
+    "fritillary": [
+        "The butterfly has distinctive orange and black markings on its wings",
+        "The butterfly has a wingspan of about 2-3 inches",
+        "The butterfly has a slender body with long antennae",
+        "The butterfly has six legs and a proboscis for feeding on nectar",
+        "The butterfly has a habit of fluttering and gliding while flying",
+        "The butterfly has a preference for certain types of flowers for feeding and laying eggs"
+    ],
+    "red ginger": [
+        "The plant has long, thin leaves",
+        "The plant has red or pink flowers",
+        "The plant has a thick, fibrous root system",
+        "The plant has a tall, slender stem",
+        "The plant has a spicy aroma",
+        "The plant has a tropical or subtropical appearance"
+    ],
+    "grape hyacinth": [
+        "The flower has a cluster of small, bell-shaped blooms",
+        "The color of the flower is typically blue or purple",
+        "The flower has narrow, strap-like leaves",
+        "The flower has a short, sturdy stem",
+        "The flower has a distinct, sweet fragrance",
+        "The flower has a bulbous base",
+        "The flower has a compact, rounded shape"
+    ],
+    "corn poppy": [
+        "The plant has four petals",
+        "The color of the flower is typically bright red, but can also be pink, orange, or white",
+        "The flower has a black or dark purple center",
+        "The stem of the flower is green and slender",
+        "The leaves of the object are lobed and may have a bluish-green tint",
+        "The flower has a papery texture",
+        "The plant typically grows in fields or meadows",
+        "The plant may have multiple flowers on a single stem"
+    ],
+    "prince of wales feathers": [
+        "The feathers are typically white with black markings",
+        "The feathers are arranged in a distinctive pattern resembling a crest or fan",
+        "The feathers are often seen on a shield or coat of arms",
+        "The feathers may be depicted in a stylized or artistic manner",
+        "The feathers are often associated with royalty or heraldry"
+    ],
+    "stemless gentian": [
+        "The plant has small, trumpet-shaped flowers",
+        "The plant has lance-shaped leaves",
+        "The plant has a low, compact growth habit",
+        "The plant has a green or blue-green color",
+        "The plant has a rosette of leaves at the base",
+        "The plant has a lack of visible stems or stalks"
+    ],
+    "artichoke": [
+        "The vegetable has a green, globe-like shape",
+        "The vegetable has thick, pointed leaves",
+        "The vegetable has a stem at the base",
+        "The vegetable has a textured surface",
+        "The vegetable has a slightly purple or green color",
+        "The vegetable has a small, round, and tightly packed center",
+        "The vegetable has a slightly fuzzy or prickly appearance"
+    ],
+    "sweet william": [
+        "The flower has a clustered, flat-topped shape",
+        "The flower has five petals",
+        "The flowers have petals that are usually pink, red, or white in color",
+        "The flower has a distinct, spicy fragrance",
+        "The flower has narrow, lance-shaped leaves",
+        "The flower has a hairy stem",
+        "The flower has a compact, bushy growth habit"
+    ],
+    "carnation": [
+        "The flower has a distinct, fringed or serrated petal edge",
+        "The flower has a single, central pistil",
+        "The flower has a cluster of stamens surrounding the pistil",
+        "The flower has a slender, green stem",
+        "The flower has a fragrant scent",
+        "The flower has a variety of colors including pink, red, white, and yellow",
+        "The flower has a symmetrical, star-shaped bloom"
+    ],
+    "garden phlox": [
+        "The flower has five petals",
+        "The color of the flower is typically pink, purple, or white",
+        "The flower has a cluster of small, tubular blooms",
+        "The plant has green, lance-shaped leaves",
+        "The plant has a tall, upright stem",
+        "The plant has a bushy or spreading growth habit",
+        "The plant may have a mild, sweet fragrance",
+        "The plant may attract butterflies and hummingbirds"
+    ],
+    "love in the mist": [
+        "The flower has delicate, fern-like foliage",
+        "The flower has a unique, intricate shape with multiple layers of petals",
+        "The color of the flower is typically blue, purple, or pink",
+        "The flower has a distinct center with prominent stamens",
+        "The flower has a trailing or climbing growth habit",
+        "The flower has a light, airy appearance",
+        "The flower often has a subtle, sweet fragrance"
+    ],
+    "mexican aster": [
+        "The flower has bright, vibrant colors such as pink, purple, or blue",
+        "The flower has a distinct star-shaped or daisy-like petal arrangement",
+        "The plant has green, leafy stems",
+        "The plant has multiple flowers on a single stem",
+        "The plant has a bushy or spreading growth habit",
+        "The flower has a distinct, pleasant fragrance",
+        "The plant is typically found in a garden or natural outdoor setting"
+    ],
+    "alpine sea holly": [
+        "The plant has spiky, blue or purple flowers",
+        "The plant has long, narrow leaves with spiny edges",
+        "The plant has a woody stem",
+        "The plant is typically found in coastal regions",
+        "The plant may have a compact, bushy appearance",
+        "The plant may have a distinctive, aromatic scent"
+    ],
+    "ruby-lipped cattleya": [
+        "The flower has large, showy, and colorful petals",
+        "The color of the flower is typically pink, purple, or red",
+        "The flower has a distinct lip or labellum that is a different color than the rest of the petals",
+        "The flower has a cylindrical or conical shape",
+        "The flower has a strong, sweet fragrance",
+        "The flower is typically found in tropical or subtropical regions",
+        "The flower is often found growing on trees or rocks in its natural habitat"
+    ],
+    "cape flower": [
+        "The flower has bright and vibrant colors, such as pink, purple, or red",
+        "The flower has thin, delicate petals",
+        "The flower has a distinct shape, such as a bell or trumpet shape",
+        "The flower has green, leafy stems or leaves",
+        "The flower may have a unique pattern or markings on its petals",
+        "The flower may have a distinct fragrance or scent",
+        "The flower may be found in a specific geographic location or habitat",
+        "The flower may have a specific blooming season or time of year"
+    ],
+    "great masterwort": [
+        "The plant has large, umbrella-shaped flower clusters",
+        "The flowers are small and star-shaped, with a central cluster of tiny florets",
+        "The plant have leaves that are deeply lobed and toothed",
+        "The plant has a tall, sturdy stem",
+        "The color of the flowers is typically pink, purple, or white",
+        "The plant has a strong, distinct aroma",
+        "The plant is often found in moist, shady areas",
+        "The plant may have small, round, spiky seed heads after flowering"
+    ],
+    "siam tulip": [
+        "The flower has a unique shape with six petals",
+        "The color of the flower is typically a vibrant shade of pink or red",
+        "The flower has long, slender stems",
+        "The plant's leaves are typically green and heart-shaped",
+        "The flower has a distinct pattern or texture on its petals",
+        "The flower may have visible stamens or pistils",
+        "The flower may be surrounded by green foliage or other plants",
+        "The flower may be found in a tropical or subtropical environment"
+    ],
+    "lenten rose": [
+        "The plant has large, showy flowers with five petals",
+        "The flowers are typically white, pink, purple, or green",
+        "The plant have dark green and leathery leaves",
+        "The plant has a low, clumping growth habit",
+        "The plant may have speckled or marbled leaves",
+        "The plant may have stems with prickly hairs",
+        "The plant may have a woody base",
+        "The plant may have a slight fragrance"
+    ],
+    "barbeton daisy": [
+        "The flower has a large, round center with yellow or dark brown disc florets",
+        "The flower petals are white, pink, or purple in color",
+        "The flower has a long, slender stem",
+        "The leaves are green and lance-shaped",
+        "The flower has a distinct, daisy-like shape with a central disk and radiating petals"
+    ],
+    "daffodil": [
+        "The flower has a trumpet-shaped, yellow or white corona",
+        "The flower has six petals",
+        "The flower has a long, slender stem",
+        "The flower has green, grass-like leaves",
+        "The flower has a distinct, sweet fragrance",
+        "The flower blooms in early spring",
+        "The flower is often found in clusters or groups"
+    ],
+    "sword lily": [
+        "The plant has long, sword-shaped leaves",
+        "The plant has tall, upright flower spikes",
+        "The flowers are trumpet-shaped and come in various colors such as pink, purple, or white",
+        "The plant has a bulbous base",
+        "The plant may have visible roots or rhizomes",
+        "The plant may have visible flower buds",
+        "The plant may have visible seeds or seed pods"
+    ],
+    "poinsettia": [
+        "The plant has bright red or pink leaves",
+        "The plant has green leaves with prominent veins",
+        "The plant has small yellow flowers in the center",
+        "The plant has a bushy or compact growth habit",
+        "The plant has a woody stem",
+        "The plant is often seen in holiday decorations or arrangements"
+    ],
+    "bolero deep blue": [
+        "The color of the clothing is deep blue",
+        "The clothing item has a distinct collar or lapel",
+        "The clothing item has buttons or fastenings on the front",
+        "The clothing item has a cropped or waist-length silhouette",
+        "The clothing item may have embellishments such as lace, sequins, or embroidery",
+        "The clothing item may have a structured or tailored fit",
+        "The clothing item may be made of a shiny or textured fabric",
+        "The clothing item may have long or short sleeves"
+    ],
+    "wallflower": [
+        "The person is standing or sitting alone, away from the main group",
+        "The person may appear shy or introverted",
+        "The person may have a hesitant or reserved body language",
+        "The person may have a neutral or subdued facial expression",
+        "The person may be avoiding eye contact with others",
+        "The person may be positioned towards the edge of the frame, rather than in the center of the photo"
+    ],
+    "marigold": [
+        "The flower has bright yellow or orange petals",
+        "The flower has a round, compact shape",
+        "The flower has a distinct, strong scent",
+        "The flower has long, thin stems",
+        "The flower has green, leafy foliage",
+        "The flower has a central disk surrounded by ray florets",
+        "The flower has a daisy-like appearance"
+    ],
+    "buttercup": [
+        "The flower has bright yellow petals",
+        "The flower has glossy, waxy leaves",
+        "The flower has a cup-shaped structure at the center",
+        "The flower has long, thin stems",
+        "The flower has a distinct, sweet scent",
+        "The flower has five petals",
+        "The flower has green sepals",
+        "The flower has a smooth texture"
+    ],
+    "oxeye daisy": [
+        "The flower has white petals with a yellow center",
+        "The flower has a round, flat shape",
+        "The plant's stem is green and slender",
+        "The flowers have long and narrow leaves with toothed edges",
+        "The flower has a distinct floral scent",
+        "The flower is typically found in grassy areas or meadows"
+    ],
+    "common dandelion": [
+        "The flower has bright yellow petals",
+        "The plant has a round, fluffy seed head",
+        "The flower has long, slender green stems",
+        "The flower has jagged, tooth-like leaves",
+        "The flower grows in clusters or solitary",
+        "The flower has a hollow stem"
+    ],
+    "petunia": [
+        "The flower has trumpet-shaped blooms",
+        "The color of the flower is typically pink, purple, white, or red",
+        "The flower has five fused petals",
+        "The plant has green, lance-shaped leaves",
+        "The flower has a distinct, sweet fragrance",
+        "The plant has a compact, bushy growth habit"
+    ],
+    "wild pansy": [
+        "The flower has five petals with a distinct pattern or coloration",
+        "The flower has a yellow or white center",
+        "The flower has heart-shaped or rounded leaves",
+        "The flower has a stem with small hairs or fuzz",
+        "The flower has a small size, typically no larger than 2 inches in diameter",
+        "The flower grows low to the ground, often in clusters",
+        "The flower may have additional colors or markings on the petals, such as purple, blue, or pink"
+    ],
+    "primula": [
+        "The plant has distinctive, colorful flowers in shades of pink, purple, yellow, or white",
+        "The plant has a rosette of leaves at the base",
+        "The plant leaves are often wrinkled or crinkled in appearance",
+        "The plant has a compact, low-growing habit",
+        "The plant may have a powdery or hairy texture on the leaves",
+        "The plant may have a cluster of flowers on a single stem",
+        "The plant may have a slightly sweet or floral scent",
+        "The plant may have visible veins or patterns on the leaves"
+    ],
+    "sunflower": [
+        "The flower has bright yellow petals",
+        "The flower has a dark brown center",
+        "The flower has a large, round shape",
+        "The plant has long, green stems",
+        "The flower has large, broad leaves",
+        "The plant is typically found in fields or gardens",
+        "The flower is often surrounded by other flowers",
+        "The plant is known for its tall height and vibrant appearance"
+    ],
+    "pelargonium": [
+        "The leaves are often green or variegated with white, pink, or red markings",
+        "The flowers are typically pink, red, or white in color",
+        "The plant has thick, succulent stems",
+        "The leaves are often deeply lobed or serrated",
+        "The plant has a distinct, pungent scent",
+        "The plant may have small hairs or fuzz on the leaves or stems"
+    ],
+    "bishop of llandaff": [
+        "The person is wearing a traditional bishop's attire, such as a long robe, a mitre (bishop's hat), and a crosier (bishop's staff)",
+        "The person may be wearing a pectoral cross around their neck",
+        "The person may be standing in a religious setting",
+        "The person may be performing a religious ceremony or ritual",
+        "The clergy members may be surrounding the person",
+        "The person may have a solemn or reverent expression on their face"
+    ],
+    "gaura": [
+        "The plant has long, slender stems",
+        "The plant has delicate, white or pink flowers",
+        "The plant has lance-shaped leaves",
+        "The plant has a bushy or spreading growth habit",
+        "The plant may have a reddish tint to the leaves",
+        "The plant may have a slight fragrance",
+        "The plant may have a wiry or wiry-like appearance",
+        "The plant may have a tall, upright form"
+    ],
+    "geranium": [
+        "The plant has distinctive five-petal flowers in various colors such as pink, red, or purple",
+        "The plant has leaves that are typically rounded or kidney-shaped with serrated edges",
+        "The plants have stems that are often thick and succulent",
+        "The plant has a distinct aroma, often described as \"rose-like\"",
+        "The plant may have small, seed-like structures called \"pelargoniums\" at the base of the flower stalks",
+        "The plant may have a trailing or upright growth habit, depending on the variety"
+    ],
+    "orange dahlia": [
+        "The flower has bright orange petals",
+        "The flower has a round, symmetrical shape",
+        "The flower has a yellow center",
+        "The flower has green stems and leaves",
+        "The flower has a textured, layered appearance",
+        "The flower has a distinct floral scent"
+    ],
+    "pink-yellow dahlia?": [
+        "The flower has pink and yellow petals",
+        "The flower has a round, full shape",
+        "The flower has green leaves and stems",
+        "The flower has a textured center",
+        "The flower has a distinct floral scent",
+        "The flower has a medium to large size",
+        "The flower has a symmetrical appearance"
+    ],
+    "cautleya spicata": [
+        "The plant has long, narrow leaves",
+        "The plant has tall, slender stems",
+        "The plant has vibrant, colorful flowers",
+        "The plant has a tubular shape to its flowers",
+        "The plant has a tropical or exotic appearance",
+        "The plant may have visible rhizomes or tubers",
+        "The plant may have a unique pattern or texture on its leaves or flowers"
+    ],
+    "japanese anemone": [
+        "The flower has multiple layers of delicate, petal-like structures",
+        "The flower is typically pink, white, or purple",
+        "The flower has a distinct yellow center",
+        "The flower belongs to a group of plants that have thin and wiry stems",
+        "The plant have leaves that are deeply lobed and toothed",
+        "The plant typically grows in clusters or small groups",
+        "The plant has a low, spreading growth habit",
+        "The plant is often found in shaded or partially shaded areas"
+    ],
+    "black-eyed susan": [
+        "The flower has bright yellow petals with a dark brown or black center",
+        "The flower has a daisy-like appearance with multiple petals radiating from the center",
+        "The stem of the flower is green and sturdy",
+        "The leaves of the plant are lance-shaped and have a rough texture",
+        "The plant typically grows in clusters or small groups",
+        "The flower has a distinct, slightly sweet scent",
+        "The plant typically blooms in the summer or early fall"
+    ],
+    "silverbush": [
+        "The plant has small, silver-gray leaves",
+        "The plant has small, white or pink flowers",
+        "The plant has a bushy or spreading growth habit",
+        "The plant may have woody stems or branches",
+        "The object may have a slightly fuzzy or hairy texture on the leaves",
+        "The plant may have a distinct aroma or fragrance",
+        "The plant may have small, round seed pods",
+        "The plant may have a low, compact form"
+    ],
+    "californian poppy": [
+        "The flower has four petals",
+        "The color of the flower is typically orange or yellow",
+        "The flower has a distinct cup-shaped structure",
+        "The plant have leaves that are finely divided and fern-like",
+        "The plant has a hairy stem",
+        "The plant has a taproot",
+        "The plant typically grows in dry, sandy or rocky soil",
+        "The plant has a tendency to close its flowers at night or in cold, windy weather"
+    ],
+    "osteospermum": [
+        "The flower has a daisy-like appearance with vibrant, colorful petals",
+        "The center of the flower is a contrasting color, often yellow or dark purple",
+        "The leaves are green and may have a serrated or lobed edge",
+        "The flower's stem is typically green and may have small hairs or fuzz",
+        "The flower may have a distinct fragrance",
+        "The plant may have multiple blooms on a single stem",
+        "The plant may have a trailing or spreading growth habit"
+    ],
+    "spring crocus": [
+        "The flower has six petals",
+        "The color of the flower is purple, white, yellow, or striped",
+        "The flower has long, slender green leaves",
+        "The flower has a tubular shape",
+        "The flower has a yellow or orange stigma in the center",
+        "The flower has a stem with no leaves",
+        "The flower has a bulb at the base",
+        "The flower blooms in early spring"
+    ],
+    "bearded iris": [
+        "The flower has six petals, with three upright petals called standards and three hanging petals called falls",
+        "The color of the flower can be purple, blue, white, yellow, or a combination of these colors",
+        "The flower has a fuzzy, colorful \"beard\" on the falls",
+        "The flower has long, narrow leaves",
+        "The flower has a tall, slender stem",
+        "The flower has a distinct, sweet fragrance"
+    ],
+    "windflower": [
+        "The flower has delicate, feathery petals",
+        "The color of the flower is typically white, pink, or purple",
+        "The flower has a slender stem",
+        "The flower has multiple blooms on a single stem",
+        "The flower has a distinct, sweet fragrance",
+        "The flower has a cluster of small, round seeds at its center"
+    ],
+    "tree poppy": [
+        "The plant has bright yellow or orange flowers",
+        "The plant has green, lobed leaves",
+        "The plant has a woody stem",
+        "The plant has a bushy or shrub-like appearance",
+        "The plant may have seed pods or capsules",
+        "The plant may have thorns or prickles",
+        "The plant may have a distinct fragrance or scent"
+    ],
+    "gazania": [
+        "The flower has bright, vibrant colors such as orange, yellow, or pink",
+        "The flower has a distinct, daisy-like shape with thin, elongated petals",
+        "The flower has a dark center or eye",
+        "The flower has green, lance-shaped leaves",
+        "The flower has a low, spreading growth habit",
+        "The flower has a hairy or fuzzy texture on the stems and leaves"
+    ],
+    "azalea": [
+        "The plant has bright, colorful flowers in shades of pink, red, white, or purple",
+        "The plant has small, pointed leaves",
+        "The plant has a woody stem",
+        "The plant has a compact, bushy growth habit",
+        "The plant may have visible buds or blooms",
+        "The plant may have a distinct fragrance",
+        "The plant may be surrounded by other plants or foliage in a garden or outdoor setting"
+    ],
+    "water lily": [
+        "The plant has large, round leaves that float on the surface of the water",
+        "The plant has delicate, colorful flowers that bloom above the water",
+        "The plant has long, slender stems that connect the leaves and flowers to the roots in the water",
+        "The plant may have visible roots or rhizomes in the water or mud",
+        "The plant may have small insects or other wildlife nearby, indicating its natural habitat"
+    ],
+    "rose": [
+        "The flower has a distinct petal structure, often with a symmetrical arrangement",
+        "The color of the flower is typically red, pink, white, or yellow",
+        "The object has a green stem and leaves",
+        "The flower has a distinct fragrance",
+        "The flower has thorns on the stem",
+        "The flower has a round, bulbous base",
+        "The flower has a delicate, soft texture",
+        "The flower has a distinct, recognizable shape and size"
+    ],
+    "thorn apple": [
+        "The plant has spiky, thorny stems and leaves",
+        "The plant has white or purple trumpet-shaped flowers",
+        "The plant has round, spiky fruit",
+        "The plant has a strong, unpleasant odor",
+        "The plant may have small, prickly hairs on its stems and leaves"
+    ],
+    "morning glory": [
+        "The flower has trumpet-shaped petals",
+        "The color of the object is typically blue, purple, or pink",
+        "The flower has a distinct white or yellow center",
+        "The plant has heart-shaped leaves",
+        "The plant has a climbing or trailing growth habit",
+        "The plant may have tendrils for climbing",
+        "The plant may have small, round seed pods",
+        "The plant may have a delicate, vine-like stem"
+    ],
+    "passion flower": [
+        "The flower has a unique, intricate, and colorful structure with multiple layers of petals",
+        "The flower has long, tendril-like structures extending from the center",
+        "The object has a distinct, star-shaped pattern in the center",
+        "The flower has a vibrant color palette, including shades of purple, blue, and pink",
+        "The flower has a distinct, sweet fragrance",
+        "The flower has a unique, exotic appearance that sets it apart from other types of flowers"
+    ],
+    "lotus": [
+        "The flower has large, round petals",
+        "The color of the flower is typically pink, white, or yellow",
+        "The flower has a large, circular seed pod in the center",
+        "The flower is often found in water or near water",
+        "The leaves of the plant are large and round",
+        "The flower has a distinct, pleasant fragrance",
+        "The flower has a symmetrical and elegant appearance"
+    ],
+    "toad lily": [
+        "The plant has unique, orchid-like flowers with spotted or speckled petals",
+        "The plant has leaves that are often variegated or have distinctive patterns",
+        "The plant has a tall, slender stem",
+        "The plant may have small, bulbous structures at the base of the stem",
+        "The plant may have a mottled or speckled appearance on the stems or leaves",
+        "The plant may have a delicate, exotic appearance",
+        "The plant may have a preference for shady, moist environments"
+    ],
+    "anthurium": [
+        "The plant has large, glossy, heart-shaped leaves",
+        "The plant has bright, colorful, waxy flowers",
+        "The flowers have a distinctive spadix and spathe structure",
+        "The plant has long, slender stems",
+        "The plant may have aerial roots",
+        "The plant may have a visible pot or container",
+        "The plant may have visible soil or growing medium",
+        "The plant may have water droplets on the leaves or flowers"
+    ],
+    "frangipani": [
+        "The flower has five petals",
+        "The flower has a yellow or white color",
+        "The flower has a strong, sweet fragrance",
+        "The flower has a small, yellow center",
+        "The flower has a smooth, waxy texture",
+        "The flower has a slender, green stem"
+    ],
+    "clematis": [
+        "The flower has four to eight petals",
+        "The color of the flower is typically purple, pink, white, or blue",
+        "The flower has a star-shaped or bell-shaped appearance",
+        "The flower has long, slender stems",
+        "The flower has green, leafy foliage",
+        "The flower has a distinct, pleasant fragrance",
+        "The plant has a vine-like growth habit"
+    ],
+    "hibiscus": [
+        "The plant has large, colorful petals",
+        "The flower has a prominent stamen and pistil",
+        "The flower has a distinct trumpet or bell shape",
+        "The flower has green, leafy sepals",
+        "The flower has a stem or stalk",
+        "The flower may have visible pollen or nectar",
+        "The flower may have a distinct fragrance",
+        "The flower may have visible dew or water droplets on its petals"
+    ],
+    "columbine": [
+        "The flower has distinctive spurred petals",
+        "The flower has a bell-shaped or star-shaped appearance",
+        "The color of the flower is often a combination of white, pink, purple, blue, or yellow",
+        "The flower has long, slender stems",
+        "The flower has delicate, feathery foliage",
+        "The flower has a distinct, unique shape and structure"
+    ],
+    "desert-rose": [
+        "The plant has thick, fleshy leaves",
+        "The plant has a rosette shape with tightly packed leaves",
+        "The plant has a woody stem",
+        "The plant has pink or white flowers with five petals",
+        "The plant has a waxy coating on its leaves",
+        "The plant has a compact, low-growing habit",
+        "The plant has a dry, arid environment in the background of the photo"
+    ],
+    "tree mallow": [
+        "The plant has large, showy pink or purple flowers",
+        "The plant has lobed leaves with a distinct shape",
+        "The plant has a woody stem",
+        "The plant has a bushy or shrub-like appearance",
+        "The plant may have seed pods or capsules",
+        "The plant may have a fuzzy or hairy texture on its leaves or stems"
+    ],
+    "magnolia": [
+        "The flower has large, showy, white or pink petals",
+        "The flower has a strong, sweet fragrance",
+        "The flower has a cone-shaped center with visible stamens and pistils",
+        "The leaves are large, glossy, and oval-shaped",
+        "The tree or shrub has a smooth, grey bark",
+        "The tree or shrub has a symmetrical, rounded shape",
+        "The plant has a dense canopy of leaves",
+        "The plant may have visible seed pods or cones"
+    ],
+    "cyclamen": [
+        "The plant has heart-shaped leaves",
+        "The plant has delicate, upswept petals in shades of pink, red, or white",
+        "The plant has a tuberous root system",
+        "The plant has a compact, low-growing habit",
+        "The plant has a cluster of flowers on a single stem",
+        "The plant has a distinct, sweet fragrance",
+        "The plant has visible veins on the leaves",
+        "The plant has a waxy texture to the petals"
+    ],
+    "watercress": [
+        "The plant has small, round, green leaves",
+        "The object has thin stems",
+        "The plant grows in or near water",
+        "The plant has a peppery taste",
+        "The object has small white flowers",
+        "The plant has a distinct aroma",
+        "The plant is often found in clusters or bunches"
+    ],
+    "canna lily": [
+        "The plant has large, broad leaves",
+        "The plant has vibrant, colorful flowers in shades of red, orange, yellow, or pink",
+        "The flowers have a unique shape, with long, tubular petals",
+        "The plant has a tall, upright stem",
+        "The plant may have visible buds or seed pods",
+        "The plant may have visible roots or rhizomes",
+        "The plant may have a distinct fragrance",
+        "The plant may have visible pests or diseases"
+    ],
+    "hippeastrum": [
+        "The plant has long, narrow leaves",
+        "The plant has a tall, sturdy stem",
+        "The plant has large, showy flowers in various colors such as red, pink, white, or orange",
+        "The flowers have six petals",
+        "The flowers have a trumpet-like shape",
+        "The plant has bulbous roots",
+        "The plant may have multiple flowers on a single stem"
+    ],
+    "bee balm": [
+        "The flower has a tubular shape",
+        "The flower are usually red, pink, or purple",
+        "The flower has a cluster of small, tubular blooms",
+        "The plant has leaves that are opposite and toothed",
+        "The plant has a square stem",
+        "The plant has a minty or citrusy scent",
+        "The plant attracts insects and butterflies",
+        "The plant has a bushy or spreading growth habit"
+    ],
+    "ball moss": [
+        "It is a small, greenish-gray plant",
+        "It has a spherical or oval shape",
+        "It has thin, wiry stems",
+        "It grows in clusters or clumps",
+        "It has small, scale-like leaves",
+        "It may have small, white or yellow flowers",
+        "The moss may be attached to a tree or other surface",
+        "It may have a fuzzy or velvety texture"
+    ],
+    "foxglove": [
+        "The plant has tubular, bell-shaped flowers",
+        "The flowers are typically pink, purple, or white in color",
+        "The plant has large, fuzzy leaves with a distinct veining pattern",
+        "The plant has a tall, spire-like growth habit",
+        "The plant may have small, bell-shaped seed pods",
+        "The plant may have small hairs or fuzz on the stems and leaves"
+    ],
+    "bougainvillea": [
+        "The plant has bright, colorful bracts surrounding its small, inconspicuous flowers",
+        "The plant has thorny, woody stems",
+        "The plant has green, oval-shaped leaves",
+        "The plant may have a vine-like growth habit",
+        "The plant may have a climbing or sprawling growth pattern",
+        "The plant may be found in tropical or subtropical regions",
+        "The plant may be found in a variety of colors, including pink, purple, red, or orange"
+    ],
+    "camellia": [
+        "The flower has a symmetrical, layered petal structure",
+        "The color of the flower is typically pink, red, white, or yellow",
+        "The flower has a prominent yellow center",
+        "The plant has glossy and dark green leaves",
+        "The plant has woody stems",
+        "The flower has a distinct, pleasant fragrance",
+        "The plant has a bushy or tree-like growth habit"
+    ],
+    "mallow": [
+        "The plant has five petals",
+        "The color of the flower is typically pink, purple, or white",
+        "The flower has a distinct pistil and stamen",
+        "The leaves are typically heart-shaped or lobed",
+        "The plant is usually tall and slender",
+        "The plant has a distinct fragrance",
+        "The flower has a soft, velvety texture"
+    ],
+    "mexican petunia": [
+        "The plant has trumpet-shaped flowers in shades of purple, pink, or white",
+        "The plant has long, slender green leaves",
+        "The plant has a bushy or spreading growth habit",
+        "The plant may have multiple flowers on a single stem",
+        "The plant may have a slightly hairy or fuzzy texture on the leaves or stems",
+        "The plant may have a slightly sticky or tacky feel to the leaves",
+        "The plant may have a distinct fragrance, especially when touched or brushed against"
+    ],
+    "bromelia": [
+        "The plant has long, narrow leaves with sharp, pointed tips",
+        "The plant has a central rosette shape",
+        "The plant has vibrant and colorful flowers",
+        "The plant has a unique pattern or texture on its leaves",
+        "The plant has a distinctive shape or structure, such as a cup-like form",
+        "The plant may have visible roots or aerial roots",
+        "The plant may have a spiky or prickly appearance",
+        "The plant may have a waxy or glossy texture on its leaves"
+    ],
+    "blanket flower": [
+        "The flower has red or orange petals with yellow tips",
+        "The flower has a dark center",
+        "The flower has a daisy-like shape",
+        "The flower has long, slender stems",
+        "The flower has green, lance-shaped leaves",
+        "The flower has a compact, bushy growth habit"
+    ],
+    "trumpet creeper": [
+        "The plant has bright orange or red trumpet-shaped flowers",
+        "The plant has green, compound leaves",
+        "The plant has woody vines or stems",
+        "The plant may have tendrils for climbing",
+        "The plant may have a rough or hairy texture",
+        "The plant may be growing on a support structure or tree",
+        "The plant may attract hummingbirds or bees",
+        "The plant may have a strong, sweet fragrance"
+    ],
+    "blackberry lily": [
+        "The plant has long, slender leaves",
+        "The plant has tall, slender stems",
+        "The plant has clusters of orange or red-orange flowers with dark spots",
+        "The plant has small, object-like seeds in the seed pods",
+        "The plant has a distinctive pattern on its petals",
+        "The plant has a unique shape and structure that sets it apart from other types of plants"
+    ]
+}

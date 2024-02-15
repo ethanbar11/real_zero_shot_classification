@@ -1,0 +1,8 @@
+{
+  "image_file": "/home/guy/code/grounding_samples/school_bus.jpg",
+  "0": {
+    "instruction": "Describe the objects in the image in terms of internal parts and attaributes",
+    "input": "/home/guy/code/grounding_samples/school_bus.jpg",
+    "output": "The image features a large yellow school bus parked on the side of a road, in front of a building. The bus has stop sign arms and signal lights, which are essential safety features for communicating with other vehicles and pedestrians. Additionally, there is a person standing near the bus, possibly waiting to board or simply passing by. The bus is an important means of transportation for students, helping them commute to and from school safely."
+  }
+}

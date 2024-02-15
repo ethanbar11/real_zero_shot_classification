@@ -1,0 +1,8 @@
+{
+  "image_file": "/home/guy/code/grounding_samples/glasses_wiki.jpg",
+  "0": {
+    "instruction": "Describe the objects in the image in terms of internal parts and attaributes",
+    "input": "/home/guy/code/grounding_samples/glasses_wiki.jpg",
+    "output": "The image features a pair of black glasses with rectangular lenses, which are sitting on a white surface. The glasses appear to be stylish and are likely designed for people who require vision correction. The lenses are situated within the frame, and the glasses are placed on a table, waiting to be worn by their owner."
+  }
+}

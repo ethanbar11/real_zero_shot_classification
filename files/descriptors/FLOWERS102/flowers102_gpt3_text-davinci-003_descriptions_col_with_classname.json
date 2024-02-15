@@ -1,0 +1,913 @@
+{
+    "pink primrose": [
+        "pink primrose. The flower has five petals",
+        "pink primrose. The color of the flower is pink or light pink",
+        "pink primrose. The flower has green, lance-shaped leaves",
+        "pink primrose. The flower has a yellow center",
+        "pink primrose. The flower has a slender stem",
+        "pink primrose. The flower has a delicate, sweet fragrance"
+    ],
+    "hard-leaved-pocket orchid": [
+        "hard-leaved-pocket orchid. The plant has thick, rigid leaves",
+        "hard-leaved-pocket orchid. The plant have leaves that have a glossy or waxy texture",
+        "hard-leaved-pocket orchid. The orchid have leaves that are dark green in color",
+        "hard-leaved-pocket orchid. The orchid has small, delicate flowers",
+        "hard-leaved-pocket orchid. The orchid flowers have a unique shape or color pattern",
+        "hard-leaved-pocket orchid. The plant has a compact, bushy growth habit",
+        "hard-leaved-pocket orchid. The plant may have aerial roots",
+        "hard-leaved-pocket orchid. The plant may have pseudobulbs or swollen stems"
+    ],
+    "canterbury bells": [
+        "canterbury bells. The plant has bell-shaped flowers",
+        "canterbury bells. The flowers are typically blue, purple, pink, or white in color",
+        "canterbury bells. The plant has green, lance-shaped leaves",
+        "canterbury bells. The plant has a tall, upright stem",
+        "canterbury bells. The plant may have multiple flowers on a single stem",
+        "canterbury bells. The plant may have a hairy or fuzzy texture on the leaves or stems"
+    ],
+    "sweet pea": [
+        "sweet pea. The plant has delicate, colorful flowers",
+        "sweet pea. The plant has long, slender stems",
+        "sweet pea. The plant has green, compound leaves",
+        "sweet pea. The plant may have tendrils for climbing",
+        "sweet pea. The plant may have a sweet fragrance",
+        "sweet pea. The plant may have small, round seeds",
+        "sweet pea. The plant may have pods containing the seeds"
+    ],
+    "english marigold": [
+        "english marigold. The flower has bright yellow or orange petals",
+        "english marigold. The flower has a round, compact shape",
+        "english marigold. The flower has a distinct, strong scent",
+        "english marigold. The flower has a single, long stem",
+        "english marigold. The flower has green, leafy foliage",
+        "english marigold. The flower has a central, raised disk in the middle of the petals"
+    ],
+    "tiger lily": [
+        "tiger lily. The flower has six petals",
+        "tiger lily. The flower petals are orange with dark spots",
+        "tiger lily. The flower has long, thin, green leaves",
+        "tiger lily. The flower's stem is tall and sturdy",
+        "tiger lily. The flower has a trumpet-like shape",
+        "tiger lily. The flower has a strong, sweet fragrance"
+    ],
+    "moon orchid": [
+        "moon orchid. The orchid has a white or pale pink color",
+        "moon orchid. The flower has a star-shaped appearance with multiple petals",
+        "moon orchid. The flower has a distinct, sweet fragrance",
+        "moon orchid. The flower has a long slender stem",
+        "moon orchid. The flower has a symmetrical and balanced appearance",
+        "moon orchid. The flower has a smooth and glossy texture",
+        "moon orchid. The flower has a yellow or orange center",
+        "moon orchid. The flower has a delicate and elegant appearance"
+    ],
+    "bird of paradise": [
+        "bird of paradise. The bird has vibrant and colorful plumage",
+        "bird of paradise. The bird has long, elaborate tail object",
+        "bird of paradise. The bird has a unique and intricate display of feathers during courtship",
+        "bird of paradise. The bird has a distinct and ornate beak",
+        "bird of paradise. The bird has a slender and elongated body",
+        "bird of paradise. The bird has a unique and striking shape or silhouette",
+        "bird of paradise. The bird has a distinct and recognizable pattern on its feathers",
+        "bird of paradise. The bird has a specific habitat or environment in which it is typically found"
+    ],
+    "monkshood": [
+        "monkshood. The plant has tall, spiky stems",
+        "monkshood. The plant has distinctive hooded flowers, often blue or purple in color",
+        "monkshood. The leaves are deeply lobed and palmate",
+        "monkshood. The plant has a strong, distinct odor",
+        "monkshood. The plant is often found in wooded or mountainous areas",
+        "monkshood. The plant is toxic if ingested",
+        "monkshood. The plant may have visible seed pods or clusters of seeds",
+        "monkshood. The plant may have hairy or fuzzy stems or leaves"
+    ],
+    "globe thistle": [
+        "globe thistle. The plant has spiky, spherical blue or purple flowers",
+        "globe thistle. The plant has long, slender, green stems",
+        "globe thistle. The plant has spiky, thorny leaves",
+        "globe thistle. The plant has a round shape",
+        "globe thistle. The plant may have other smaller flowers or buds surrounding the main globe",
+        "globe thistle. The plant may have a fuzzy or hairy texture",
+        "globe thistle. The plant may be surrounded by other greenery or foliage"
+    ],
+    "snapdragon": [
+        "snapdragon. The flower has a tubular shape with a \"flower\" appearance",
+        "snapdragon. The flower has a distinct, often brightly colored, \"dragon-like\" mouth or jaw shape",
+        "snapdragon. The flower has a cluster of blooms on a single stem",
+        "snapdragon. The plant has a green, leafy stem and foliage",
+        "snapdragon. The flower has a distinct, sweet fragrance",
+        "snapdragon. The flower has a symmetrical, five-petaled shape",
+        "snapdragon. The flower has a variety of colors, including pink, red, yellow, orange, white, or purple"
+    ],
+    "colts foot": [
+        "colts foot. The plant has distinctive yellow flowers that resemble dandelions",
+        "colts foot. The leaves are large and heart-shaped with scalloped edges",
+        "colts foot. The plant has a tall, hairy stem",
+        "colts foot. The plant grows in clusters or patches",
+        "colts foot. The plant has a preference for damp, marshy areas",
+        "colts foot. The plant may have visible seed heads or fluffy white pappus",
+        "colts foot. The plant may have a distinct, bitter smell when crushed"
+    ],
+    "king protea": [
+        "king protea. The flower has a large, round shape with multiple layers of petals",
+        "king protea. The color of the flower is typically pink, but can also be white or red",
+        "king protea. The flower has long, sturdy stems",
+        "king protea. The flower has thick, leathery leaves",
+        "king protea. The flower has a prominent, cone-shaped center",
+        "king protea. The flower has a unique, intricate pattern on the petals",
+        "king protea. The flower has a distinct, tropical appearance"
+    ],
+    "spear thistle": [
+        "spear thistle. The plant has spiny, prickly leaves",
+        "spear thistle. The plant has purple or pink flowers",
+        "spear thistle. The plant has a tall, upright stem",
+        "spear thistle. The plant has a round, spiky seed head",
+        "spear thistle. The plant has a rosette of leaves at the base",
+        "spear thistle. The plant has a taproot",
+        "spear thistle. The object has a green or purple stem"
+    ],
+    "yellow iris": [
+        "yellow iris. The flower has bright yellow petals",
+        "yellow iris. The flower has a central dark brown or black spot",
+        "yellow iris. The flower has long, thin green leaves",
+        "yellow iris. The flower has a distinct, sweet fragrance",
+        "yellow iris. The flower has a tall, slender stem",
+        "yellow iris. The flower has a symmetrical, star-like shape"
+    ],
+    "globe-flower": [
+        "globe-flower. The flower has bright yellow petals",
+        "globe-flower. The flower has a globe-shaped cluster of petals",
+        "globe-flower. The flower has green leaves",
+        "globe-flower. The flower has a tall, slender stem",
+        "globe-flower. The flower has a round, seed-filled center",
+        "globe-flower. The flower has a distinct, pleasant fragrance"
+    ],
+    "purple coneflower": [
+        "purple coneflower. The flower has a distinct color",
+        "purple coneflower. The flower has a cone-shaped center",
+        "purple coneflower. The flowers petals are arranged in a circular pattern around the center",
+        "purple coneflower. The flower has long, slender leaves",
+        "purple coneflower. \nThe flower has a textured, spiky appearance",
+        "purple coneflower. The plant has a sturdy stem",
+        "purple coneflower. The flower has a distinct, daisy-like shape"
+    ],
+    "peruvian lily": [
+        "peruvian lily. The flower has six petals",
+        "peruvian lily. The color of the flower is typically pink, red, orange, or white",
+        "peruvian lily. The flower has long, slender stems",
+        "peruvian lily. The flower has green, lance-shaped leaves",
+        "peruvian lily. The flower has trumpet-shaped blooms",
+        "peruvian lily. The flower has a distinct, sweet fragrance",
+        "peruvian lily. The flower has multiple blooms on a single stem"
+    ],
+    "balloon flower": [
+        "balloon flower. The flower has a balloon-like shape with a narrow base and rounded top",
+        "balloon flower. The color of the flower is typically blue, purple, or white",
+        "balloon flower. The flower has five petals",
+        "balloon flower. The flower has a long, thin stem",
+        "balloon flower. The flower has green, lance-shaped leaves",
+        "balloon flower. The flower has a central stigma and stamens",
+        "balloon flower. The flower has a delicate, papery texture",
+        "balloon flower. The flower may have visible veins or patterns on the petals"
+    ],
+    "giant white arum lily": [
+        "giant white arum lily. The flower has large, white, petal-like bracts",
+        "giant white arum lily. The flower has a long, yellow spadix in the center",
+        "giant white arum lily. The flower has large, glossy, green leaves",
+        "giant white arum lily. The flower has a tall, sturdy stem",
+        "giant white arum lily. The flower has a distinct, sweet fragrance",
+        "giant white arum lily. The flower is typically found in wet, marshy areas or near water",
+        "giant white arum lily. The flower blooms in the spring or summer months"
+    ],
+    "fire lily": [
+        "fire lily. The flower has bright red, orange, or yellow petals",
+        "fire lily. The flower has long, slender green leaves",
+        "fire lily. The flower has a trumpet-shaped bloom",
+        "fire lily. The flower has a distinct, strong fragrance",
+        "fire lily. The flower has a tall, slender stem",
+        "fire lily. The flower has a cluster of blooms at the top of the stem"
+    ],
+    "pincushion flower": [
+        "pincushion flower. The flower has a round, pincushion-like shape",
+        "pincushion flower. The color of the flower is typically blue, purple, or pink",
+        "pincushion flower. The flower has thin, delicate petals",
+        "pincushion flower. The flower has a central, protruding stamen",
+        "pincushion flower. The plant has green, leafy stems",
+        "pincushion flower. The flower has a textured or fuzzy appearance",
+        "pincushion flower. The flower may have small, needle-like structures on the petals or stamen"
+    ],
+    "fritillary": [
+        "fritillary. The butterfly has distinctive orange and black markings on its wings",
+        "fritillary. The butterfly has a wingspan of about 2-3 inches",
+        "fritillary. The butterfly has a slender body with long antennae",
+        "fritillary. The butterfly has six legs and a proboscis for feeding on nectar",
+        "fritillary. The butterfly has a habit of fluttering and gliding while flying",
+        "fritillary. The butterfly has a preference for certain types of flowers for feeding and laying eggs"
+    ],
+    "red ginger": [
+        "red ginger. The plant has long, thin leaves",
+        "red ginger. The plant has red or pink flowers",
+        "red ginger. The plant has a thick, fibrous root system",
+        "red ginger. The plant has a tall, slender stem",
+        "red ginger. The plant has a spicy aroma",
+        "red ginger. The plant has a tropical or subtropical appearance"
+    ],
+    "grape hyacinth": [
+        "grape hyacinth. The flower has a cluster of small, bell-shaped blooms",
+        "grape hyacinth. The color of the flower is typically blue or purple",
+        "grape hyacinth. The flower has narrow, strap-like leaves",
+        "grape hyacinth. The flower has a short, sturdy stem",
+        "grape hyacinth. The flower has a distinct, sweet fragrance",
+        "grape hyacinth. The flower has a bulbous base",
+        "grape hyacinth. The flower has a compact, rounded shape"
+    ],
+    "corn poppy": [
+        "corn poppy. The plant has four petals",
+        "corn poppy. The color of the flower is typically bright red, but can also be pink, orange, or white",
+        "corn poppy. The flower has a black or dark purple center",
+        "corn poppy. The stem of the flower is green and slender",
+        "corn poppy. The leaves of the object are lobed and may have a bluish-green tint",
+        "corn poppy. The flower has a papery texture",
+        "corn poppy. The plant typically grows in fields or meadows",
+        "corn poppy. The plant may have multiple flowers on a single stem"
+    ],
+    "prince of wales feathers": [
+        "prince of wales feathers. The feathers are typically white with black markings",
+        "prince of wales feathers. The feathers are arranged in a distinctive pattern resembling a crest or fan",
+        "prince of wales feathers. The feathers are often seen on a shield or coat of arms",
+        "prince of wales feathers. The feathers may be depicted in a stylized or artistic manner",
+        "prince of wales feathers. The feathers are often associated with royalty or heraldry"
+    ],
+    "stemless gentian": [
+        "stemless gentian. The plant has small, trumpet-shaped flowers",
+        "stemless gentian. The plant has lance-shaped leaves",
+        "stemless gentian. The plant has a low, compact growth habit",
+        "stemless gentian. The plant has a green or blue-green color",
+        "stemless gentian. The plant has a rosette of leaves at the base",
+        "stemless gentian. The plant has a lack of visible stems or stalks"
+    ],
+    "artichoke": [
+        "artichoke. The vegetable has a green, globe-like shape",
+        "artichoke. The vegetable has thick, pointed leaves",
+        "artichoke. The vegetable has a stem at the base",
+        "artichoke. The vegetable has a textured surface",
+        "artichoke. The vegetable has a slightly purple or green color",
+        "artichoke. The vegetable has a small, round, and tightly packed center",
+        "artichoke. The vegetable has a slightly fuzzy or prickly appearance"
+    ],
+    "sweet william": [
+        "sweet william. The flower has a clustered, flat-topped shape",
+        "sweet william. The flower has five petals",
+        "sweet william. The flowers have petals that are usually pink, red, or white in color",
+        "sweet william. The flower has a distinct, spicy fragrance",
+        "sweet william. The flower has narrow, lance-shaped leaves",
+        "sweet william. The flower has a hairy stem",
+        "sweet william. The flower has a compact, bushy growth habit"
+    ],
+    "carnation": [
+        "carnation. The flower has a distinct, fringed or serrated petal edge",
+        "carnation. The flower has a single, central pistil",
+        "carnation. The flower has a cluster of stamens surrounding the pistil",
+        "carnation. The flower has a slender, green stem",
+        "carnation. The flower has a fragrant scent",
+        "carnation. The flower has a variety of colors including pink, red, white, and yellow",
+        "carnation. The flower has a symmetrical, star-shaped bloom"
+    ],
+    "garden phlox": [
+        "garden phlox. The flower has five petals",
+        "garden phlox. The color of the flower is typically pink, purple, or white",
+        "garden phlox. The flower has a cluster of small, tubular blooms",
+        "garden phlox. The plant has green, lance-shaped leaves",
+        "garden phlox. The plant has a tall, upright stem",
+        "garden phlox. The plant has a bushy or spreading growth habit",
+        "garden phlox. The plant may have a mild, sweet fragrance",
+        "garden phlox. The plant may attract butterflies and hummingbirds"
+    ],
+    "love in the mist": [
+        "love in the mist. The flower has delicate, fern-like foliage",
+        "love in the mist. The flower has a unique, intricate shape with multiple layers of petals",
+        "love in the mist. The color of the flower is typically blue, purple, or pink",
+        "love in the mist. The flower has a distinct center with prominent stamens",
+        "love in the mist. The flower has a trailing or climbing growth habit",
+        "love in the mist. The flower has a light, airy appearance",
+        "love in the mist. The flower often has a subtle, sweet fragrance"
+    ],
+    "mexican aster": [
+        "mexican aster. The flower has bright, vibrant colors such as pink, purple, or blue",
+        "mexican aster. The flower has a distinct star-shaped or daisy-like petal arrangement",
+        "mexican aster. The plant has green, leafy stems",
+        "mexican aster. The plant has multiple flowers on a single stem",
+        "mexican aster. The plant has a bushy or spreading growth habit",
+        "mexican aster. The flower has a distinct, pleasant fragrance",
+        "mexican aster. The plant is typically found in a garden or natural outdoor setting"
+    ],
+    "alpine sea holly": [
+        "alpine sea holly. The plant has spiky, blue or purple flowers",
+        "alpine sea holly. The plant has long, narrow leaves with spiny edges",
+        "alpine sea holly. The plant has a woody stem",
+        "alpine sea holly. The plant is typically found in coastal regions",
+        "alpine sea holly. The plant may have a compact, bushy appearance",
+        "alpine sea holly. The plant may have a distinctive, aromatic scent"
+    ],
+    "ruby-lipped cattleya": [
+        "ruby-lipped cattleya. The flower has large, showy, and colorful petals",
+        "ruby-lipped cattleya. The color of the flower is typically pink, purple, or red",
+        "ruby-lipped cattleya. The flower has a distinct lip or labellum that is a different color than the rest of the petals",
+        "ruby-lipped cattleya. The flower has a cylindrical or conical shape",
+        "ruby-lipped cattleya. The flower has a strong, sweet fragrance",
+        "ruby-lipped cattleya. The flower is typically found in tropical or subtropical regions",
+        "ruby-lipped cattleya. The flower is often found growing on trees or rocks in its natural habitat"
+    ],
+    "cape flower": [
+        "cape flower. The flower has bright and vibrant colors, such as pink, purple, or red",
+        "cape flower. The flower has thin, delicate petals",
+        "cape flower. The flower has a distinct shape, such as a bell or trumpet shape",
+        "cape flower. The flower has green, leafy stems or leaves",
+        "cape flower. The flower may have a unique pattern or markings on its petals",
+        "cape flower. The flower may have a distinct fragrance or scent",
+        "cape flower. The flower may be found in a specific geographic location or habitat",
+        "cape flower. The flower may have a specific blooming season or time of year"
+    ],
+    "great masterwort": [
+        "great masterwort. The plant has large, umbrella-shaped flower clusters",
+        "great masterwort. The flowers are small and star-shaped, with a central cluster of tiny florets",
+        "great masterwort. The plant have leaves that are deeply lobed and toothed",
+        "great masterwort. The plant has a tall, sturdy stem",
+        "great masterwort. The color of the flowers is typically pink, purple, or white",
+        "great masterwort. The plant has a strong, distinct aroma",
+        "great masterwort. The plant is often found in moist, shady areas",
+        "great masterwort. The plant may have small, round, spiky seed heads after flowering"
+    ],
+    "siam tulip": [
+        "siam tulip. The flower has a unique shape with six petals",
+        "siam tulip. The color of the flower is typically a vibrant shade of pink or red",
+        "siam tulip. The flower has long, slender stems",
+        "siam tulip. The plant's leaves are typically green and heart-shaped",
+        "siam tulip. The flower has a distinct pattern or texture on its petals",
+        "siam tulip. The flower may have visible stamens or pistils",
+        "siam tulip. The flower may be surrounded by green foliage or other plants",
+        "siam tulip. The flower may be found in a tropical or subtropical environment"
+    ],
+    "lenten rose": [
+        "lenten rose. The plant has large, showy flowers with five petals",
+        "lenten rose. The flowers are typically white, pink, purple, or green",
+        "lenten rose. The plant have dark green and leathery leaves",
+        "lenten rose. The plant has a low, clumping growth habit",
+        "lenten rose. The plant may have speckled or marbled leaves",
+        "lenten rose. The plant may have stems with prickly hairs",
+        "lenten rose. The plant may have a woody base",
+        "lenten rose. The plant may have a slight fragrance"
+    ],
+    "barbeton daisy": [
+        "barbeton daisy. The flower has a large, round center with yellow or dark brown disc florets",
+        "barbeton daisy. The flower petals are white, pink, or purple in color",
+        "barbeton daisy. The flower has a long, slender stem",
+        "barbeton daisy. The leaves are green and lance-shaped",
+        "barbeton daisy. The flower has a distinct, daisy-like shape with a central disk and radiating petals"
+    ],
+    "daffodil": [
+        "daffodil. The flower has a trumpet-shaped, yellow or white corona",
+        "daffodil. The flower has six petals",
+        "daffodil. The flower has a long, slender stem",
+        "daffodil. The flower has green, grass-like leaves",
+        "daffodil. The flower has a distinct, sweet fragrance",
+        "daffodil. The flower blooms in early spring",
+        "daffodil. The flower is often found in clusters or groups"
+    ],
+    "sword lily": [
+        "sword lily. The plant has long, sword-shaped leaves",
+        "sword lily. The plant has tall, upright flower spikes",
+        "sword lily. The flowers are trumpet-shaped and come in various colors such as pink, purple, or white",
+        "sword lily. The plant has a bulbous base",
+        "sword lily. The plant may have visible roots or rhizomes",
+        "sword lily. The plant may have visible flower buds",
+        "sword lily. The plant may have visible seeds or seed pods"
+    ],
+    "poinsettia": [
+        "poinsettia. The plant has bright red or pink leaves",
+        "poinsettia. The plant has green leaves with prominent veins",
+        "poinsettia. The plant has small yellow flowers in the center",
+        "poinsettia. The plant has a bushy or compact growth habit",
+        "poinsettia. The plant has a woody stem",
+        "poinsettia. The plant is often seen in holiday decorations or arrangements"
+    ],
+    "bolero deep blue": [
+        "bolero deep blue. The color of the clothing is deep blue",
+        "bolero deep blue. The clothing item has a distinct collar or lapel",
+        "bolero deep blue. The clothing item has buttons or fastenings on the front",
+        "bolero deep blue. The clothing item has a cropped or waist-length silhouette",
+        "bolero deep blue. The clothing item may have embellishments such as lace, sequins, or embroidery",
+        "bolero deep blue. The clothing item may have a structured or tailored fit",
+        "bolero deep blue. The clothing item may be made of a shiny or textured fabric",
+        "bolero deep blue. The clothing item may have long or short sleeves"
+    ],
+    "wallflower": [
+        "wallflower. The person is standing or sitting alone, away from the main group",
+        "wallflower. The person may appear shy or introverted",
+        "wallflower. The person may have a hesitant or reserved body language",
+        "wallflower. The person may have a neutral or subdued facial expression",
+        "wallflower. The person may be avoiding eye contact with others",
+        "wallflower. The person may be positioned towards the edge of the frame, rather than in the center of the photo"
+    ],
+    "marigold": [
+        "marigold. The flower has bright yellow or orange petals",
+        "marigold. The flower has a round, compact shape",
+        "marigold. The flower has a distinct, strong scent",
+        "marigold. The flower has long, thin stems",
+        "marigold. The flower has green, leafy foliage",
+        "marigold. The flower has a central disk surrounded by ray florets",
+        "marigold. The flower has a daisy-like appearance"
+    ],
+    "buttercup": [
+        "buttercup. The flower has bright yellow petals",
+        "buttercup. The flower has glossy, waxy leaves",
+        "buttercup. The flower has a cup-shaped structure at the center",
+        "buttercup. The flower has long, thin stems",
+        "buttercup. The flower has a distinct, sweet scent",
+        "buttercup. The flower has five petals",
+        "buttercup. The flower has green sepals",
+        "buttercup. The flower has a smooth texture"
+    ],
+    "oxeye daisy": [
+        "oxeye daisy. The flower has white petals with a yellow center",
+        "oxeye daisy. The flower has a round, flat shape",
+        "oxeye daisy. The plant's stem is green and slender",
+        "oxeye daisy. The flowers have long and narrow leaves with toothed edges",
+        "oxeye daisy. The flower has a distinct floral scent",
+        "oxeye daisy. The flower is typically found in grassy areas or meadows"
+    ],
+    "common dandelion": [
+        "common dandelion. The flower has bright yellow petals",
+        "common dandelion. The plant has a round, fluffy seed head",
+        "common dandelion. The flower has long, slender green stems",
+        "common dandelion. The flower has jagged, tooth-like leaves",
+        "common dandelion. The flower grows in clusters or solitary",
+        "common dandelion. The flower has a hollow stem"
+    ],
+    "petunia": [
+        "petunia. The flower has trumpet-shaped blooms",
+        "petunia. The color of the flower is typically pink, purple, white, or red",
+        "petunia. The flower has five fused petals",
+        "petunia. The plant has green, lance-shaped leaves",
+        "petunia. The flower has a distinct, sweet fragrance",
+        "petunia. The plant has a compact, bushy growth habit"
+    ],
+    "wild pansy": [
+        "wild pansy. The flower has five petals with a distinct pattern or coloration",
+        "wild pansy. The flower has a yellow or white center",
+        "wild pansy. The flower has heart-shaped or rounded leaves",
+        "wild pansy. The flower has a stem with small hairs or fuzz",
+        "wild pansy. The flower has a small size, typically no larger than 2 inches in diameter",
+        "wild pansy. The flower grows low to the ground, often in clusters",
+        "wild pansy. The flower may have additional colors or markings on the petals, such as purple, blue, or pink"
+    ],
+    "primula": [
+        "primula. The plant has distinctive, colorful flowers in shades of pink, purple, yellow, or white",
+        "primula. The plant has a rosette of leaves at the base",
+        "primula. The plant leaves are often wrinkled or crinkled in appearance",
+        "primula. The plant has a compact, low-growing habit",
+        "primula. The plant may have a powdery or hairy texture on the leaves",
+        "primula. The plant may have a cluster of flowers on a single stem",
+        "primula. The plant may have a slightly sweet or floral scent",
+        "primula. The plant may have visible veins or patterns on the leaves"
+    ],
+    "sunflower": [
+        "sunflower. The flower has bright yellow petals",
+        "sunflower. The flower has a dark brown center",
+        "sunflower. The flower has a large, round shape",
+        "sunflower. The plant has long, green stems",
+        "sunflower. The flower has large, broad leaves",
+        "sunflower. The plant is typically found in fields or gardens",
+        "sunflower. The flower is often surrounded by other flowers",
+        "sunflower. The plant is known for its tall height and vibrant appearance"
+    ],
+    "pelargonium": [
+        "pelargonium. The leaves are often green or variegated with white, pink, or red markings",
+        "pelargonium. The flowers are typically pink, red, or white in color",
+        "pelargonium. The plant has thick, succulent stems",
+        "pelargonium. The leaves are often deeply lobed or serrated",
+        "pelargonium. The plant has a distinct, pungent scent",
+        "pelargonium. The plant may have small hairs or fuzz on the leaves or stems"
+    ],
+    "bishop of llandaff": [
+        "bishop of llandaff. The person is wearing a traditional bishop's attire, such as a long robe, a mitre (bishop's hat), and a crosier (bishop's staff)",
+        "bishop of llandaff. The person may be wearing a pectoral cross around their neck",
+        "bishop of llandaff. The person may be standing in a religious setting",
+        "bishop of llandaff. The person may be performing a religious ceremony or ritual",
+        "bishop of llandaff. The clergy members may be surrounding the person",
+        "bishop of llandaff. The person may have a solemn or reverent expression on their face"
+    ],
+    "gaura": [
+        "gaura. The plant has long, slender stems",
+        "gaura. The plant has delicate, white or pink flowers",
+        "gaura. The plant has lance-shaped leaves",
+        "gaura. The plant has a bushy or spreading growth habit",
+        "gaura. The plant may have a reddish tint to the leaves",
+        "gaura. The plant may have a slight fragrance",
+        "gaura. The plant may have a wiry or wiry-like appearance",
+        "gaura. The plant may have a tall, upright form"
+    ],
+    "geranium": [
+        "geranium. The plant has distinctive five-petal flowers in various colors such as pink, red, or purple",
+        "geranium. The plant has leaves that are typically rounded or kidney-shaped with serrated edges",
+        "geranium. The plants have stems that are often thick and succulent",
+        "geranium. The plant has a distinct aroma, often described as \"rose-like\"",
+        "geranium. The plant may have small, seed-like structures called \"pelargoniums\" at the base of the flower stalks",
+        "geranium. The plant may have a trailing or upright growth habit, depending on the variety"
+    ],
+    "orange dahlia": [
+        "orange dahlia. The flower has bright orange petals",
+        "orange dahlia. The flower has a round, symmetrical shape",
+        "orange dahlia. The flower has a yellow center",
+        "orange dahlia. The flower has green stems and leaves",
+        "orange dahlia. The flower has a textured, layered appearance",
+        "orange dahlia. The flower has a distinct floral scent"
+    ],
+    "pink-yellow dahlia?": [
+        "pink-yellow dahlia?. The flower has pink and yellow petals",
+        "pink-yellow dahlia?. The flower has a round, full shape",
+        "pink-yellow dahlia?. The flower has green leaves and stems",
+        "pink-yellow dahlia?. The flower has a textured center",
+        "pink-yellow dahlia?. The flower has a distinct floral scent",
+        "pink-yellow dahlia?. The flower has a medium to large size",
+        "pink-yellow dahlia?. The flower has a symmetrical appearance"
+    ],
+    "cautleya spicata": [
+        "cautleya spicata. The plant has long, narrow leaves",
+        "cautleya spicata. The plant has tall, slender stems",
+        "cautleya spicata. The plant has vibrant, colorful flowers",
+        "cautleya spicata. The plant has a tubular shape to its flowers",
+        "cautleya spicata. The plant has a tropical or exotic appearance",
+        "cautleya spicata. The plant may have visible rhizomes or tubers",
+        "cautleya spicata. The plant may have a unique pattern or texture on its leaves or flowers"
+    ],
+    "japanese anemone": [
+        "japanese anemone. The flower has multiple layers of delicate, petal-like structures",
+        "japanese anemone. The flower is typically pink, white, or purple",
+        "japanese anemone. The flower has a distinct yellow center",
+        "japanese anemone. The flower belongs to a group of plants that have thin and wiry stems",
+        "japanese anemone. The plant have leaves that are deeply lobed and toothed",
+        "japanese anemone. The plant typically grows in clusters or small groups",
+        "japanese anemone. The plant has a low, spreading growth habit",
+        "japanese anemone. The plant is often found in shaded or partially shaded areas"
+    ],
+    "black-eyed susan": [
+        "black-eyed susan. The flower has bright yellow petals with a dark brown or black center",
+        "black-eyed susan. The flower has a daisy-like appearance with multiple petals radiating from the center",
+        "black-eyed susan. The stem of the flower is green and sturdy",
+        "black-eyed susan. The leaves of the plant are lance-shaped and have a rough texture",
+        "black-eyed susan. The plant typically grows in clusters or small groups",
+        "black-eyed susan. The flower has a distinct, slightly sweet scent",
+        "black-eyed susan. The plant typically blooms in the summer or early fall"
+    ],
+    "silverbush": [
+        "silverbush. The plant has small, silver-gray leaves",
+        "silverbush. The plant has small, white or pink flowers",
+        "silverbush. The plant has a bushy or spreading growth habit",
+        "silverbush. The plant may have woody stems or branches",
+        "silverbush. The object may have a slightly fuzzy or hairy texture on the leaves",
+        "silverbush. The plant may have a distinct aroma or fragrance",
+        "silverbush. The plant may have small, round seed pods",
+        "silverbush. The plant may have a low, compact form"
+    ],
+    "californian poppy": [
+        "californian poppy. The flower has four petals",
+        "californian poppy. The color of the flower is typically orange or yellow",
+        "californian poppy. The flower has a distinct cup-shaped structure",
+        "californian poppy. The plant have leaves that are finely divided and fern-like",
+        "californian poppy. The plant has a hairy stem",
+        "californian poppy. The plant has a taproot",
+        "californian poppy. The plant typically grows in dry, sandy or rocky soil",
+        "californian poppy. The plant has a tendency to close its flowers at night or in cold, windy weather"
+    ],
+    "osteospermum": [
+        "osteospermum. The flower has a daisy-like appearance with vibrant, colorful petals",
+        "osteospermum. The center of the flower is a contrasting color, often yellow or dark purple",
+        "osteospermum. The leaves are green and may have a serrated or lobed edge",
+        "osteospermum. The flower's stem is typically green and may have small hairs or fuzz",
+        "osteospermum. The flower may have a distinct fragrance",
+        "osteospermum. The plant may have multiple blooms on a single stem",
+        "osteospermum. The plant may have a trailing or spreading growth habit"
+    ],
+    "spring crocus": [
+        "spring crocus. The flower has six petals",
+        "spring crocus. The color of the flower is purple, white, yellow, or striped",
+        "spring crocus. The flower has long, slender green leaves",
+        "spring crocus. The flower has a tubular shape",
+        "spring crocus. The flower has a yellow or orange stigma in the center",
+        "spring crocus. The flower has a stem with no leaves",
+        "spring crocus. The flower has a bulb at the base",
+        "spring crocus. The flower blooms in early spring"
+    ],
+    "bearded iris": [
+        "bearded iris. The flower has six petals, with three upright petals called standards and three hanging petals called falls",
+        "bearded iris. The color of the flower can be purple, blue, white, yellow, or a combination of these colors",
+        "bearded iris. The flower has a fuzzy, colorful \"beard\" on the falls",
+        "bearded iris. The flower has long, narrow leaves",
+        "bearded iris. The flower has a tall, slender stem",
+        "bearded iris. The flower has a distinct, sweet fragrance"
+    ],
+    "windflower": [
+        "windflower. The flower has delicate, feathery petals",
+        "windflower. The color of the flower is typically white, pink, or purple",
+        "windflower. The flower has a slender stem",
+        "windflower. The flower has multiple blooms on a single stem",
+        "windflower. The flower has a distinct, sweet fragrance",
+        "windflower. The flower has a cluster of small, round seeds at its center"
+    ],
+    "tree poppy": [
+        "tree poppy. The plant has bright yellow or orange flowers",
+        "tree poppy. The plant has green, lobed leaves",
+        "tree poppy. The plant has a woody stem",
+        "tree poppy. The plant has a bushy or shrub-like appearance",
+        "tree poppy. The plant may have seed pods or capsules",
+        "tree poppy. The plant may have thorns or prickles",
+        "tree poppy. The plant may have a distinct fragrance or scent"
+    ],
+    "gazania": [
+        "gazania. The flower has bright, vibrant colors such as orange, yellow, or pink",
+        "gazania. The flower has a distinct, daisy-like shape with thin, elongated petals",
+        "gazania. The flower has a dark center or eye",
+        "gazania. The flower has green, lance-shaped leaves",
+        "gazania. The flower has a low, spreading growth habit",
+        "gazania. The flower has a hairy or fuzzy texture on the stems and leaves"
+    ],
+    "azalea": [
+        "azalea. The plant has bright, colorful flowers in shades of pink, red, white, or purple",
+        "azalea. The plant has small, pointed leaves",
+        "azalea. The plant has a woody stem",
+        "azalea. The plant has a compact, bushy growth habit",
+        "azalea. The plant may have visible buds or blooms",
+        "azalea. The plant may have a distinct fragrance",
+        "azalea. The plant may be surrounded by other plants or foliage in a garden or outdoor setting"
+    ],
+    "water lily": [
+        "water lily. The plant has large, round leaves that float on the surface of the water",
+        "water lily. The plant has delicate, colorful flowers that bloom above the water",
+        "water lily. The plant has long, slender stems that connect the leaves and flowers to the roots in the water",
+        "water lily. The plant may have visible roots or rhizomes in the water or mud",
+        "water lily. The plant may have small insects or other wildlife nearby, indicating its natural habitat"
+    ],
+    "rose": [
+        "rose. The flower has a distinct petal structure, often with a symmetrical arrangement",
+        "rose. The color of the flower is typically red, pink, white, or yellow",
+        "rose. The object has a green stem and leaves",
+        "rose. The flower has a distinct fragrance",
+        "rose. The flower has thorns on the stem",
+        "rose. The flower has a round, bulbous base",
+        "rose. The flower has a delicate, soft texture",
+        "rose. The flower has a distinct, recognizable shape and size"
+    ],
+    "thorn apple": [
+        "thorn apple. The plant has spiky, thorny stems and leaves",
+        "thorn apple. The plant has white or purple trumpet-shaped flowers",
+        "thorn apple. The plant has round, spiky fruit",
+        "thorn apple. The plant has a strong, unpleasant odor",
+        "thorn apple. The plant may have small, prickly hairs on its stems and leaves"
+    ],
+    "morning glory": [
+        "morning glory. The flower has trumpet-shaped petals",
+        "morning glory. The color of the object is typically blue, purple, or pink",
+        "morning glory. The flower has a distinct white or yellow center",
+        "morning glory. The plant has heart-shaped leaves",
+        "morning glory. The plant has a climbing or trailing growth habit",
+        "morning glory. The plant may have tendrils for climbing",
+        "morning glory. The plant may have small, round seed pods",
+        "morning glory. The plant may have a delicate, vine-like stem"
+    ],
+    "passion flower": [
+        "passion flower. The flower has a unique, intricate, and colorful structure with multiple layers of petals",
+        "passion flower. The flower has long, tendril-like structures extending from the center",
+        "passion flower. The object has a distinct, star-shaped pattern in the center",
+        "passion flower. The flower has a vibrant color palette, including shades of purple, blue, and pink",
+        "passion flower. The flower has a distinct, sweet fragrance",
+        "passion flower. The flower has a unique, exotic appearance that sets it apart from other types of flowers"
+    ],
+    "lotus": [
+        "lotus. The flower has large, round petals",
+        "lotus. The color of the flower is typically pink, white, or yellow",
+        "lotus. The flower has a large, circular seed pod in the center",
+        "lotus. The flower is often found in water or near water",
+        "lotus. The leaves of the plant are large and round",
+        "lotus. The flower has a distinct, pleasant fragrance",
+        "lotus. The flower has a symmetrical and elegant appearance"
+    ],
+    "toad lily": [
+        "toad lily. The plant has unique, orchid-like flowers with spotted or speckled petals",
+        "toad lily. The plant has leaves that are often variegated or have distinctive patterns",
+        "toad lily. The plant has a tall, slender stem",
+        "toad lily. The plant may have small, bulbous structures at the base of the stem",
+        "toad lily. The plant may have a mottled or speckled appearance on the stems or leaves",
+        "toad lily. The plant may have a delicate, exotic appearance",
+        "toad lily. The plant may have a preference for shady, moist environments"
+    ],
+    "anthurium": [
+        "anthurium. The plant has large, glossy, heart-shaped leaves",
+        "anthurium. The plant has bright, colorful, waxy flowers",
+        "anthurium. The flowers have a distinctive spadix and spathe structure",
+        "anthurium. The plant has long, slender stems",
+        "anthurium. The plant may have aerial roots",
+        "anthurium. The plant may have a visible pot or container",
+        "anthurium. The plant may have visible soil or growing medium",
+        "anthurium. The plant may have water droplets on the leaves or flowers"
+    ],
+    "frangipani": [
+        "frangipani. The flower has five petals",
+        "frangipani. The flower has a yellow or white color",
+        "frangipani. The flower has a strong, sweet fragrance",
+        "frangipani. The flower has a small, yellow center",
+        "frangipani. The flower has a smooth, waxy texture",
+        "frangipani. The flower has a slender, green stem"
+    ],
+    "clematis": [
+        "clematis. The flower has four to eight petals",
+        "clematis. The color of the flower is typically purple, pink, white, or blue",
+        "clematis. The flower has a star-shaped or bell-shaped appearance",
+        "clematis. The flower has long, slender stems",
+        "clematis. The flower has green, leafy foliage",
+        "clematis. The flower has a distinct, pleasant fragrance",
+        "clematis. The plant has a vine-like growth habit"
+    ],
+    "hibiscus": [
+        "hibiscus. The plant has large, colorful petals",
+        "hibiscus. The flower has a prominent stamen and pistil",
+        "hibiscus. The flower has a distinct trumpet or bell shape",
+        "hibiscus. The flower has green, leafy sepals",
+        "hibiscus. The flower has a stem or stalk",
+        "hibiscus. The flower may have visible pollen or nectar",
+        "hibiscus. The flower may have a distinct fragrance",
+        "hibiscus. The flower may have visible dew or water droplets on its petals"
+    ],
+    "columbine": [
+        "columbine. The flower has distinctive spurred petals",
+        "columbine. The flower has a bell-shaped or star-shaped appearance",
+        "columbine. The color of the flower is often a combination of white, pink, purple, blue, or yellow",
+        "columbine. The flower has long, slender stems",
+        "columbine. The flower has delicate, feathery foliage",
+        "columbine. The flower has a distinct, unique shape and structure"
+    ],
+    "desert-rose": [
+        "desert-rose. The plant has thick, fleshy leaves",
+        "desert-rose. The plant has a rosette shape with tightly packed leaves",
+        "desert-rose. The plant has a woody stem",
+        "desert-rose. The plant has pink or white flowers with five petals",
+        "desert-rose. The plant has a waxy coating on its leaves",
+        "desert-rose. The plant has a compact, low-growing habit",
+        "desert-rose. The plant has a dry, arid environment in the background of the photo"
+    ],
+    "tree mallow": [
+        "tree mallow. The plant has large, showy pink or purple flowers",
+        "tree mallow. The plant has lobed leaves with a distinct shape",
+        "tree mallow. The plant has a woody stem",
+        "tree mallow. The plant has a bushy or shrub-like appearance",
+        "tree mallow. The plant may have seed pods or capsules",
+        "tree mallow. The plant may have a fuzzy or hairy texture on its leaves or stems"
+    ],
+    "magnolia": [
+        "magnolia. The flower has large, showy, white or pink petals",
+        "magnolia. The flower has a strong, sweet fragrance",
+        "magnolia. The flower has a cone-shaped center with visible stamens and pistils",
+        "magnolia. The leaves are large, glossy, and oval-shaped",
+        "magnolia. The tree or shrub has a smooth, grey bark",
+        "magnolia. The tree or shrub has a symmetrical, rounded shape",
+        "magnolia. The plant has a dense canopy of leaves",
+        "magnolia. The plant may have visible seed pods or cones"
+    ],
+    "cyclamen": [
+        "cyclamen. The plant has heart-shaped leaves",
+        "cyclamen. The plant has delicate, upswept petals in shades of pink, red, or white",
+        "cyclamen. The plant has a tuberous root system",
+        "cyclamen. The plant has a compact, low-growing habit",
+        "cyclamen. The plant has a cluster of flowers on a single stem",
+        "cyclamen. The plant has a distinct, sweet fragrance",
+        "cyclamen. The plant has visible veins on the leaves",
+        "cyclamen. The plant has a waxy texture to the petals"
+    ],
+    "watercress": [
+        "watercress. The plant has small, round, green leaves",
+        "watercress. The object has thin stems",
+        "watercress. The plant grows in or near water",
+        "watercress. The plant has a peppery taste",
+        "watercress. The object has small white flowers",
+        "watercress. The plant has a distinct aroma",
+        "watercress. The plant is often found in clusters or bunches"
+    ],
+    "canna lily": [
+        "canna lily. The plant has large, broad leaves",
+        "canna lily. The plant has vibrant, colorful flowers in shades of red, orange, yellow, or pink",
+        "canna lily. The flowers have a unique shape, with long, tubular petals",
+        "canna lily. The plant has a tall, upright stem",
+        "canna lily. The plant may have visible buds or seed pods",
+        "canna lily. The plant may have visible roots or rhizomes",
+        "canna lily. The plant may have a distinct fragrance",
+        "canna lily. The plant may have visible pests or diseases"
+    ],
+    "hippeastrum": [
+        "hippeastrum. The plant has long, narrow leaves",
+        "hippeastrum. The plant has a tall, sturdy stem",
+        "hippeastrum. The plant has large, showy flowers in various colors such as red, pink, white, or orange",
+        "hippeastrum. The flowers have six petals",
+        "hippeastrum. The flowers have a trumpet-like shape",
+        "hippeastrum. The plant has bulbous roots",
+        "hippeastrum. The plant may have multiple flowers on a single stem"
+    ],
+    "bee balm": [
+        "bee balm. The flower has a tubular shape",
+        "bee balm. The flower are usually red, pink, or purple",
+        "bee balm. The flower has a cluster of small, tubular blooms",
+        "bee balm. The plant has leaves that are opposite and toothed",
+        "bee balm. The plant has a square stem",
+        "bee balm. The plant has a minty or citrusy scent",
+        "bee balm. The plant attracts insects and butterflies",
+        "bee balm. The plant has a bushy or spreading growth habit"
+    ],
+    "ball moss": [
+        "ball moss. It is a small, greenish-gray plant",
+        "ball moss. It has a spherical or oval shape",
+        "ball moss. It has thin, wiry stems",
+        "ball moss. It grows in clusters or clumps",
+        "ball moss. It has small, scale-like leaves",
+        "ball moss. It may have small, white or yellow flowers",
+        "ball moss. The moss may be attached to a tree or other surface",
+        "ball moss. It may have a fuzzy or velvety texture"
+    ],
+    "foxglove": [
+        "foxglove. The plant has tubular, bell-shaped flowers",
+        "foxglove. The flowers are typically pink, purple, or white in color",
+        "foxglove. The plant has large, fuzzy leaves with a distinct veining pattern",
+        "foxglove. The plant has a tall, spire-like growth habit",
+        "foxglove. The plant may have small, bell-shaped seed pods",
+        "foxglove. The plant may have small hairs or fuzz on the stems and leaves"
+    ],
+    "bougainvillea": [
+        "bougainvillea. The plant has bright, colorful bracts surrounding its small, inconspicuous flowers",
+        "bougainvillea. The plant has thorny, woody stems",
+        "bougainvillea. The plant has green, oval-shaped leaves",
+        "bougainvillea. The plant may have a vine-like growth habit",
+        "bougainvillea. The plant may have a climbing or sprawling growth pattern",
+        "bougainvillea. The plant may be found in tropical or subtropical regions",
+        "bougainvillea. The plant may be found in a variety of colors, including pink, purple, red, or orange"
+    ],
+    "camellia": [
+        "camellia. The flower has a symmetrical, layered petal structure",
+        "camellia. The color of the flower is typically pink, red, white, or yellow",
+        "camellia. The flower has a prominent yellow center",
+        "camellia. The plant has glossy and dark green leaves",
+        "camellia. The plant has woody stems",
+        "camellia. The flower has a distinct, pleasant fragrance",
+        "camellia. The plant has a bushy or tree-like growth habit"
+    ],
+    "mallow": [
+        "mallow. The plant has five petals",
+        "mallow. The color of the flower is typically pink, purple, or white",
+        "mallow. The flower has a distinct pistil and stamen",
+        "mallow. The leaves are typically heart-shaped or lobed",
+        "mallow. The plant is usually tall and slender",
+        "mallow. The plant has a distinct fragrance",
+        "mallow. The flower has a soft, velvety texture"
+    ],
+    "mexican petunia": [
+        "mexican petunia. The plant has trumpet-shaped flowers in shades of purple, pink, or white",
+        "mexican petunia. The plant has long, slender green leaves",
+        "mexican petunia. The plant has a bushy or spreading growth habit",
+        "mexican petunia. The plant may have multiple flowers on a single stem",
+        "mexican petunia. The plant may have a slightly hairy or fuzzy texture on the leaves or stems",
+        "mexican petunia. The plant may have a slightly sticky or tacky feel to the leaves",
+        "mexican petunia. The plant may have a distinct fragrance, especially when touched or brushed against"
+    ],
+    "bromelia": [
+        "bromelia. The plant has long, narrow leaves with sharp, pointed tips",
+        "bromelia. The plant has a central rosette shape",
+        "bromelia. The plant has vibrant and colorful flowers",
+        "bromelia. The plant has a unique pattern or texture on its leaves",
+        "bromelia. The plant has a distinctive shape or structure, such as a cup-like form",
+        "bromelia. The plant may have visible roots or aerial roots",
+        "bromelia. The plant may have a spiky or prickly appearance",
+        "bromelia. The plant may have a waxy or glossy texture on its leaves"
+    ],
+    "blanket flower": [
+        "blanket flower. The flower has red or orange petals with yellow tips",
+        "blanket flower. The flower has a dark center",
+        "blanket flower. The flower has a daisy-like shape",
+        "blanket flower. The flower has long, slender stems",
+        "blanket flower. The flower has green, lance-shaped leaves",
+        "blanket flower. The flower has a compact, bushy growth habit"
+    ],
+    "trumpet creeper": [
+        "trumpet creeper. The plant has bright orange or red trumpet-shaped flowers",
+        "trumpet creeper. The plant has green, compound leaves",
+        "trumpet creeper. The plant has woody vines or stems",
+        "trumpet creeper. The plant may have tendrils for climbing",
+        "trumpet creeper. The plant may have a rough or hairy texture",
+        "trumpet creeper. The plant may be growing on a support structure or tree",
+        "trumpet creeper. The plant may attract hummingbirds or bees",
+        "trumpet creeper. The plant may have a strong, sweet fragrance"
+    ],
+    "blackberry lily": [
+        "blackberry lily. The plant has long, slender leaves",
+        "blackberry lily. The plant has tall, slender stems",
+        "blackberry lily. The plant has clusters of orange or red-orange flowers with dark spots",
+        "blackberry lily. The plant has small, object-like seeds in the seed pods",
+        "blackberry lily. The plant has a distinctive pattern on its petals",
+        "blackberry lily. The plant has a unique shape and structure that sets it apart from other types of plants"
+    ]
+}

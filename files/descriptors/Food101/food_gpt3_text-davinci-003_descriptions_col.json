@@ -1,0 +1,917 @@
+{
+    "apple_pie": [
+        "The pie has a golden brown crust",
+        "The dessert has a filling of sliced or chopped apples",
+        "The pie may have a lattice or crumb topping",
+        "The pie may have a dusting of cinnamon or sugar on top",
+        "The pie may have a fluted edge",
+        "The pie may have visible steam or juices coming out",
+        "The dish may be served in a dish or on a plate",
+        "The pie may have a slice missing"
+    ],
+    "baby_back_ribs": [
+        "The meat is typically pink or reddish in color",
+        "The ribs are curved and have a distinct bone structure",
+        "The meat is usually covered in a sauce or seasoning",
+        "The dish is often served on a plate or platter",
+        "The ribs may have grill marks or charred areas",
+        "The dish is often accompanied by side dishes such as coleslaw or cornbread"
+    ],
+    "baklava": [
+        "- Layers of flaky pastry",
+        "- Nut or seed filling, such as pistachios or walnuts",
+        "Honey or syrup drizzled on top",
+        "Diamond or square-shaped pieces",
+        "Often garnished with chopped nuts or powdered sugar",
+        "Typically served on a plate or in a pastry box",
+        "- May have a decorative pattern on top with nuts or seeds"
+    ],
+    "beef_carpaccio": [
+        "The food is thinly sliced",
+        "The dish has a red or pink color",
+        "The dish is typically served with a sauce or dressing",
+        "The dish is often garnished with cheese, arugula, or other toppings",
+        "The dish is typically served on a plate or platter",
+        "The dish is often accompanied by bread or crackers"
+    ],
+    "beef_tartare": [
+        "The dish is typically served on a plate or in a bowl",
+        "The food is finely chopped or minced",
+        "The dish is often mixed with ingredients such as onions, capers, and seasonings",
+        "The dish may be garnished with herbs or spices",
+        "The food may be raw or partially cooked",
+        "The dish may be accompanied by bread or crackers",
+        "The dish may be served with a sauce or dressing on the side"
+    ],
+    "beet_salad": [
+        "The dish is made up of red and/or golden beets",
+        "The salad may contain other ingredients such as arugula, goat cheese, walnuts, or citrus fruits",
+        "The salad may be dressed with vinaigrette or citrus-based dressing",
+        "The salad may be served in a bowl or on a plate",
+        "The salad may be garnished with herbs or edible flowers",
+        "The salad may have a colorful and visually appealing presentation"
+    ],
+    "beignets": [
+        "The food is a deep-fried pastry",
+        "The food is typically covered in powdered sugar",
+        "The food is round or square in shape",
+        "The food has a fluffy and airy texture",
+        "The food is often served on a plate or in a paper bag",
+        "The food may have a golden brown color on the outside",
+        "The food may have a soft and doughy interior"
+    ],
+    "bibimbap": [
+        "The dish is typically served in a large, shallow bowl",
+        "The dish contains a variety of colorful vegetables, such as carrots, spinach, and bean sprouts",
+        "The dish includes a protein, such as beef, chicken, or tofu",
+        "The dish is topped with a fried or raw egg",
+        "The dish is garnished with sesame seeds and/or sliced green onions",
+        "The dish is served with a side of spicy gochujang sauce",
+        "The food is typically mixed with sesame oil and/or soy sauce"
+    ],
+    "bread_pudding": [
+        "The dessert has a soft, moist texture",
+        "The dessert has a golden brown crust on top",
+        "The dessert may have visible pieces of bread or raisins",
+        "The dessert is typically served in a dish or on a plate",
+        "The dessert may be topped with a sauce or glaze",
+        "The dessert may have a sweet aroma",
+        "The dish may have a creamy or custard-like consistency"
+    ],
+    "breakfast_burrito": [
+        "It is a food item typically wrapped in a tortilla",
+        "The breakfast food may include eggs, cheese, potatoes, and meat such as bacon or sausage",
+        "The dish may have the tortilla toasted or grilled",
+        "The food may be topped with salsa, sour cream, or avocado",
+        "It may be served on a plate or in a to-go container",
+        "The dish may be accompanied by side dishes such as hash browns or fruit",
+        "The overall appearance is typically round or cylindrical in shape"
+    ],
+    "bruschetta": [
+        "The dish is typically made with toasted bread",
+        "The dish is often topped with diced tomatoes, garlic, basil, and olive oil",
+        "The dish may also include other toppings such as cheese, cured meats, or vegetables",
+        "The dish is often served as an appetizer or snack",
+        "The dish is typically served on a plate or platter",
+        "The dish may be garnished with additional herbs or spices",
+        "The dish may be accompanied by a side of salad or other appetizers"
+    ],
+    "caesar_salad": [
+        "It is a dish typically served in a bowl or on a plate",
+        "The dish contains lettuce, croutons, and grated or shaved Parmesan cheese",
+        "The dish is topped with grilled or roasted protein",
+        "The dish is dressed with a dressing, typically a creamy, garlic-flavored dressing",
+        "The dish may also contain bacon or anchovies",
+        "The dish may be garnished with lemon wedges or additional cheese",
+        "The dish may be served with a side of bread or garlic bread",
+        "The dish may be accompanied by a fork or salad tongs for serving"
+    ],
+    "cannoli": [
+        "It is a pastry or dessert",
+        "The color of the pastry is typically light brown or golden brown",
+        "The object has a cylindrical shape",
+        "The pastry is filled with a creamy, sweet filling",
+        "The pastry may be dusted with powdered sugar or chocolate shavings",
+        "The pastry may have visible layers or texture on the outer shell",
+        "The pastry may have decorative toppings such as chopped nuts or candied fruit",
+        "The pastry may be served on a plate or in a paper wrapper"
+    ],
+    "caprese_salad": [
+        "The dish has alternating slices of tomato and mozzarella",
+        "The dish is topped with fresh basil leaves",
+        "The dish is drizzled with balsamic glaze or olive oil",
+        "The dish is served on a plate or platter",
+        "The dish may have additional ingredients such as lettuce or arugula",
+        "The dish may be garnished with salt and pepper",
+        "The dish may be accompanied by bread or other side dishes"
+    ],
+    "carrot_cake": [
+        "The object_cake has a moist, dense texture",
+        "The cake is typically orange in color",
+        "The cake may have visible shreds of vegetables",
+        "The cake may be topped with cream cheese frosting",
+        "The cake may have nuts or raisins mixed in",
+        "The cake may be decorated with a design related to its ingredients",
+        "The cake may have a cinnamon or nutmeg aroma"
+    ],
+    "ceviche": [
+        "The dish is typically served in a shallow bowl or plate",
+        "The dish contains seafood, such as fish or shrimp, that appears to be \"cooked\" in citrus juices",
+        "The dish is often garnished with slices of onion, cilantro, and/or avocado",
+        "The dish may be accompanied by sides such as corn, sweet potato, or plantain chips",
+        "The dish may be served with a side of hot sauce or aji (spicy pepper sauce)"
+    ],
+    "cheesecake": [
+        "The dessert has a crust, typically made of graham crackers or cookies",
+        "The dessert has a creamy, smooth filling, often made with cream cheese",
+        "The dessert may be topped with fruit, whipped cream, or chocolate",
+        "The dessert is typically round in shape",
+        "The dessert may have visible layers or swirls in the filling",
+        "The dessert may be served on a plate or in a springform pan",
+        "The dessert may have a decorative garnish, such as chocolate shavings or fruit slices"
+    ],
+    "cheese_plate": [
+        "It is a flat, circular or rectangular dish",
+        "The dish is typically made of ceramic, glass, or wood",
+        "The dish has compartments or sections for different types of food",
+        "The dish may also have space for crackers, fruits, or nuts",
+        "The dish may have small knives or tools",
+        "The dish may have labels or markers for different types of food",
+        "The plate may be accompanied by wine glasses or other serving utensils"
+    ],
+    "chicken_curry": [
+        "The dish has a yellow or orange color",
+        "The dish contains pieces of object",
+        "The dish may have visible spices or herbs on top",
+        "The dish may have a creamy or tomato-based sauce",
+        "The dish may be served with rice or naan bread",
+        "The dish may have visible vegetables or garnishes",
+        "The dish may be served in a bowl or on a plate",
+        "The dish may have a distinct aroma of spices and herbs"
+    ],
+    "chicken_quesadilla": [
+        "It is a Mexican dish",
+        "The dish has a base",
+        "The dish contains object as a main ingredient",
+        "The dish contains cheese",
+        "The dish may also contain vegetables such as peppers or onions",
+        "The dish may be topped with sour cream or salsa",
+        "The dish may be garnished with cilantro or avocado",
+        "The dish may be served with a side of guacamole or rice"
+    ],
+    "chicken_wings": [
+        "The wings are typically brown or golden in color",
+        "The wings have a crispy or fried texture",
+        "The wings have a distinct shape with a drumette and wingette",
+        "The food may have visible seasoning or sauce",
+        "The food may be served with celery and carrot sticks",
+        "The wings may be served with a dipping sauce such as ranch or blue cheese dressing"
+    ],
+    "chocolate_cake": [
+        "The cake has a dark brown color",
+        "The dessert has a moist and crumbly texture",
+        "The dessert may have frosting or icing on top",
+        "The cake may have decorative toppings such as chocolate shavings or sprinkles",
+        "The dessert may have layers or a layered appearance",
+        "The dessert may have a slice missing or be served on a plate",
+        "The cake may have a sweet and rich aroma"
+    ],
+    "chocolate_mousse": [
+        "It is a dessert or sweet dish",
+        "The color of the dessert is typically brown or dark brown",
+        "The dessert has a creamy and smooth texture",
+        "The dish may be garnished with whipped cream, chocolate shavings, or fruit",
+        "The dessert may be served in a glass or bowl",
+        "The dessert may have layers or swirls of different flavors",
+        "The dessert may be topped with a chocolate sauce or syrup"
+    ],
+    "churros": [
+        "It is a fried pastry",
+        "The pastry is long and cylindrical in shape",
+        "The pastry is often coated in sugar or cinnamon",
+        "The pastry may have a filling such as chocolate or caramel",
+        "The pastry may be served with a dipping sauce",
+        "The pastry is often served hot and fresh",
+        "The pastry may be served in a paper cone or bag"
+    ],
+    "clam_chowder": [
+        "The soup is creamy in texture",
+        "The soup contains chunks of potatoes and/or {food category}",
+        "The soup is typically served in a bowl or a cup",
+        "The soup may be garnished with parsley or other herbs",
+        "The soup may have a white or creamy color",
+        "The soup may be served with oyster crackers or bread on the side"
+    ],
+    "club_sandwich": [
+        "It is a type of sandwich",
+        "The sandwich has multiple layers of bread, lettuce, tomato, bacon, and turkey or chicken",
+        "The sandwich may have toothpicks or skewers holding it together",
+        "The sandwich may have condiments such as mayonnaise or mustard",
+        "The sandwich may have a side of pickles or chips",
+        "The dish may be served on a plate or in a basket",
+        "The dish may have a garnish such as a pickle or olive on top",
+        "The sandwich may be cut into quarters or halves for serving"
+    ],
+    "crab_cakes": [
+        "The food is round or oval in shape",
+        "The food has a golden brown crust",
+        "The food has a moist and flaky interior",
+        "The food may have visible chunks of seafood",
+        "The food may be garnished with lemon wedges or parsley",
+        "The food may be served on a plate or platter",
+        "The food may be accompanied by a dipping sauce, such as tartar sauce or aioli"
+    ],
+    "creme_brulee": [
+        "The dessert is typically served in a shallow dish",
+        "The top of the dessert is caramelized and has a crispy texture",
+        "The dessert has a creamy, custard-like filling",
+        "The dessert may be garnished with fresh fruit or mint",
+        "The dessert is often served with a small spoon",
+        "The dessert may be accompanied by a decorative pattern or design on the plate",
+        "The dessert is often served in a restaurant setting or on a dessert platter"
+    ],
+    "croque_madame": [
+        "It is a type of sandwich",
+        "The sandwich has a fried or grilled egg on top",
+        "The dish has ham or bacon inside",
+        "The dish has melted cheese on top",
+        "The food item is typically served on a plate",
+        "The dish may have a side of salad or fries",
+        "The sandwich may have a garnish of parsley or other herbs",
+        "The sandwich may have a sauce or condiment on the side, such as mustard or mayonnaise"
+    ],
+    "cup_cakes": [
+        "The dessert has a small, round shape",
+        "The dessert has a paper or foil wrapper",
+        "The dessert has frosting or icing on top",
+        "- The dessert may have sprinkles or other decorations",
+        "Cupcakes may have a cherry or other fruit on top",
+        "The baked good may have a small candle",
+        "The dessert may be displayed on a plate or stand",
+        "The dessert may be part of a larger arrangement of desserts"
+    ],
+    "deviled_eggs": [
+        "The food is typically arranged in a half-egg shape",
+        "The food is usually topped with mayonnaise or mustard",
+        "The food is often garnished with paprika or herbs",
+        "The food may have additional toppings such as bacon or pickles",
+        "The food is typically served on a plate or platter",
+        "The food is often accompanied by other appetizers or side dishes",
+        "The food is usually served at room temperature or chilled"
+    ],
+    "donuts": [
+        "Circular shape with a hole in the center",
+        "They are typically round and flat",
+        "Often covered in icing or glaze",
+        "Sprinkles or other toppings may be present",
+        "Usually a golden brown color",
+        "May have a soft, fluffy texture",
+        "Often found in a paper or cardboard container",
+        "Typically associated with a sweet, dessert-like appearance"
+    ],
+    "dumplings": [
+        "The food item is typically small, round or crescent-shaped",
+        "The food have a doughy exterior",
+        "The dish is often filled with meat, vegetables, or other ingredients",
+        "The food may have a crimped or pleated edge",
+        "The food may be steamed, boiled, or fried",
+        "object are often served with a dipping sauce or in a broth",
+        "The food may have a shiny or glossy appearance from being cooked",
+        "The food may be arranged in a specific pattern or serving dish"
+    ],
+    "edamame": [
+        "The legume is a green, podded soybean",
+        "The pods are typically small and oval-shaped",
+        "The pods are usually clustered together on a stem",
+        "The food has a slightly fuzzy texture on the outside of the pod",
+        "object is often served with salt as a seasoning",
+        "object is commonly found in Japanese cuisine",
+        "- object is often served as a snack or appetizer",
+        "object is typically steamed or boiled before consumption"
+    ],
+    "eggs_benedict": [
+        "The dish consists of a poached egg on top of a slice of ham or bacon, on a halved English muffin",
+        "The dish is topped with sauce",
+        "The dish may be garnished with herbs or spices",
+        "The dish is typically served on a plate or in a shallow bowl",
+        "The dish may be accompanied by a side of roasted potatoes or vegetables"
+    ],
+    "escargots": [
+        "The shell is spiral-shaped",
+        "The body of the object is slimy and has a brown or grey color",
+        "The object has two pairs of tentacles, with the upper pair being longer",
+        "The snail has a soft body that can retract into its shell",
+        "The object have a muscular foot for movement",
+        "object have a mouth with a radula for feeding",
+        "The object may be seen on vegetation or on the ground, often in damp environments"
+    ],
+    "falafel": [
+        "The food is a round, fried ball or patty",
+        "The food has a crispy, golden brown exterior",
+        "The dish has a soft, flavorful interior made from ground chickpeas or fava beans",
+        "The food is often served with tahini sauce or in a pita bread",
+        "The dish is typically garnished with lettuce, tomatoes, and pickles",
+        "object is a popular Middle Eastern or Mediterranean dish",
+        "The food is often served alongside hummus and tabbouleh salad"
+    ],
+    "filet_mignon": [
+        "The meat is a small, thick cut",
+        "The meat is a pale pink or light red color",
+        "The meat has a marbled appearance with small streaks of fat",
+        "The meat has a tender texture",
+        "The meat is often served with a garnish or sauce",
+        "The meat is typically cooked to a specific level of doneness, such as rare, medium rare, or medium"
+    ],
+    "fish_and_chips": [
+        "The food consists of battered and fried fillets",
+        "The food is served with thick-cut, fried potato chips",
+        "The food may be accompanied by tartar sauce or malt vinegar",
+        "The food is typically served on a plate or in a paper wrapper",
+        "The food has a golden brown color from frying",
+        "The food may be garnished with lemon wedges or parsley",
+        "The food has a distinct aroma of fried food and potatoes"
+    ],
+    "foie_gras": [
+        "The food item has a smooth and creamy texture",
+        "The color of the food is typically a pale pink or beige",
+        "The food product is often served in a p\u00e2t\u00e9 or mousse form",
+        "It is commonly accompanied by bread or crackers",
+        "The dish is often garnished with fruits or herbs",
+        "- The dish may be served on a small plate or dish",
+        "The dish is often associated with fine dining or gourmet cuisine"
+    ],
+    "french_fries": [
+        "The food is typically golden brown in color",
+        "The food is usually in a pile or arranged in a container",
+        "The food has a crispy texture",
+        "The food is often served with a side of ketchup or other condiments",
+        "The food is made from sliced and fried potatoes",
+        "The food has a distinct aroma of fried potatoes",
+        "The food may have visible salt or seasoning on its surface"
+    ],
+    "french_onion_soup": [
+        "The soup is typically served in a bowl",
+        "The soup has a brown or golden color",
+        "The soup has a layer of melted cheese on top",
+        "The soup may have visible pieces of object or croutons floating in it",
+        "The soup may be garnished with parsley or other herbs",
+        "The soup may be placed on a saucer or small plate",
+        "The soup may be served with a spoon",
+        "The soup may be accompanied by a slice of bread or a bread roll"
+    ],
+    "french_toast": [
+        "It is a breakfast food",
+        "The color of the dish is golden brown",
+        "The This dish has a bread-like texture",
+        "The dish is often topped with powdered sugar or syrup",
+        "The food may have visible grill marks or crispy edges",
+        "The food may be served with fruit or whipped cream",
+        "The food may be cut into slices or triangles",
+        "The food may be served on a plate or in a skillet"
+    ],
+    "fried_calamari": [
+        "The food is golden brown in color",
+        "The food has a crispy texture",
+        "The food is typically served with a side of marinara or aioli sauce",
+        "The food is often garnished with lemon wedges",
+        "The food is typically served in a circular or rectangular plate",
+        "The food may have visible tentacle shapes or rings",
+        "The food may have a light dusting of flour or breadcrumbs",
+        "The food may have a garnish of parsley or other herbs"
+    ],
+    "fried_rice": [
+        "The dish has grains of rice that are separate and not clumped together",
+        "The dish contains various vegetables such as peas, carrots, and onions",
+        "The dish may contain pieces of meat or tofu",
+        "The dish may have a yellow or brown color from the soy sauce or other seasonings",
+        "The dish may have visible pieces of scrambled egg",
+        "The dish may have small pieces of green onions or cilantro as garnish",
+        "The dish may have visible oil or grease from the cooking process",
+        "The dish may be served in a bowl or on a plate"
+    ],
+    "frozen_yogurt": [
+        "The food is a creamy, frozen dessert",
+        "The color of the dessert is typically white, but can also be various pastel colors",
+        "The dessert is often served in a cup or cone",
+        "The dessert may be topped with various fruits, nuts, or syrups",
+        "The dessert may have a swirled or layered appearance",
+        "The dessert may have a smooth or textured surface",
+        "The dessert may have a spoon or other utensil next to it",
+        "The dessert may be served in a dessert shop or in a self-serve dispenser"
+    ],
+    "garlic_bread": [
+        "The food is typically a light golden brown color",
+        "The food is often topped with minced garlic and herbs",
+        "The food may have visible melted cheese on top",
+        "The bread may have visible garlic butter or oil on the surface",
+        "The food may have a distinct aroma of garlic and herbs",
+        "The food may have a crispy or crunchy texture on the outside",
+        "The bread may have a soft and fluffy texture on the inside"
+    ],
+    "gnocchi": [
+        "- Small, round, and pillowy shape",
+        "Light beige or pale yellow color",
+        "The pasta has a textured surface from being hand-rolled",
+        "Often served with sauce or grated cheese",
+        "Typically found in a bowl or on a plate",
+        "May have visible fork marks on the surface",
+        "- Can be seen in a variety of dishes, such as soups or pasta dishes"
+    ],
+    "greek_salad": [
+        "The salad contains a variety of colorful vegetables such as tomatoes, cucumbers, and bell peppers",
+        "The salad includes cheese",
+        "The dish is topped with olives",
+        "The dish is dressed with olive oil and vinegar",
+        "The salad may also include lettuce or other leafy greens",
+        "The dish may be garnished with oregano or other herbs",
+        "The dish is typically served in a shallow, wide bowl or plate",
+        "The salad may be accompanied by a slice of bread or pita",
+        "The salad may be served with a side of sauce or hummus"
+    ],
+    "grilled_cheese_sandwich": [
+        "The meal has two slices of bread",
+        "The sandwich is toasted or grilled",
+        "The sandwich has melted cheese oozing out",
+        "The sandwich may have additional ingredients such as ham, tomato, or bacon",
+        "The sandwich may have grill marks on the bread",
+        "The dish may have a golden brown color on the outside",
+        "The sandwich may have a gooey texture",
+        "The sandwich may be cut in half or served whole"
+    ],
+    "grilled_salmon": [
+        "The color of the fish is pink or orange",
+        "The food item has grill marks on its skin",
+        "The dish has a flaky texture",
+        "The food has a distinct fishy smell",
+        "The dish has a charred or smoky appearance",
+        "Grilled fish is typically served with lemon or herbs",
+        "The dish is often accompanied by vegetables or rice on the plate"
+    ],
+    "guacamole": [
+        "The color of the dip is typically green",
+        "The texture of the dish is smooth and creamy",
+        "object is often served in a bowl or on a plate",
+        "The dish may be garnished with diced tomatoes, onions, or cilantro",
+        "The dip may be accompanied by tortilla chips or other dipping items",
+        "object may have visible chunks of avocado",
+        "The dish may have a sprinkling of salt or other seasonings on top"
+    ],
+    "gyoza": [
+        "It is a type of dumpling",
+        "The shape of the food is typically round or crescent-shaped",
+        "The food has a thin, doughy wrapper",
+        "object are typically filled with a mixture of ground meat and vegetables",
+        "object is often pan-fried or steamed",
+        "The dish may have a crispy bottom",
+        "The dish is often served with a dipping sauce, such as soy sauce or vinegar",
+        "The food may have visible steam rising from it"
+    ],
+    "hamburger": [
+        "It is a food item",
+        "The color of the food is brown, red, green, and white",
+        "The food has a round or oval shape",
+        "The food has a bun or bread on the top and bottom",
+        "The food has a patty made of meat or a vegetarian alternative",
+        "The food may have lettuce, tomato, cheese, and condiments",
+        "The food may have sesame seeds on the bun",
+        "The food may have pickles or onions on top"
+    ],
+    "hot_and_sour_soup": [
+        "The soup has a reddish-brown color",
+        "The soup has a thick and slightly viscous texture",
+        "The soup contains visible ingredients such as tofu, mushrooms, and bamboo shoots",
+        "The soup has a strong aroma of vinegar and spices",
+        "The soup is typically served in a bowl or small dish",
+        "The soup may have garnishes such as green onions or cilantro on top"
+    ],
+    "hot_dog": [
+        "The food is cylindrical in shape",
+        "The food is typically placed in a bun",
+        "The food has a grilled or charred appearance",
+        "The food may have condiments such as ketchup, mustard, or relish on top",
+        "The food may have visible grill marks",
+        "The food may have visible toppings such as onions or sauerkraut",
+        "The food may have a visible sausage texture or filling inside the bun"
+    ],
+    "huevos_rancheros": [
+        "The dish typically consists of fried eggs on a corn tortilla, topped with salsa or ranchero sauce",
+        "The dish is usually cooked sunny-side up or over easy",
+        "The dish may also include refried beans, avocado, and/or cheese as toppings",
+        "The colors of the dish are typically red, yellow, and green from the salsa, eggs, and other toppings",
+        "The dish is often served on a plate or in a skillet",
+        "The dish may be garnished with cilantro or chopped onions",
+        "The overall presentation is typically vibrant and colorful"
+    ],
+    "hummus": [
+        "You're correct, my apologies for the confusion"
+    ],
+    "ice_cream": [
+        "It is a frozen dessert",
+        "The dessert is typically white, brown, pink, or other pastel colors",
+        "The dessert is often served in a cone or a cup",
+        "The dessert may have toppings such as sprinkles, chocolate syrup, or fruit",
+        "The dessert may have a visible texture such as swirls or chunks of ingredients",
+        "The dessert may be melting or have visible condensation on the surface",
+        "The dessert may be served with a spoon or a wafer for eating"
+    ],
+    "lasagna": [
+        "Layers of pasta, cheese, and sauce",
+        "The dish is typically baked and has a golden brown crust on top",
+        "The dish is often served in a rectangular or square baking dish",
+        "The dish may have visible layers of ingredients",
+        "The dish may have visible herbs or spices sprinkled on top",
+        "- The dish may have melted cheese on top",
+        "The dish may have visible tomato sauce or marinara sauce on top"
+    ],
+    "lobster_bisque": [
+        "The color of the soup is typically orange or pink",
+        "The soup has a creamy and smooth texture",
+        "The soup may have visible chunks of seafood",
+        "The soup may be garnished with herbs or spices",
+        "The dish is typically served in a bowl or a soup tureen",
+        "The soup may be accompanied by a side of bread or crackers"
+    ],
+    "lobster_roll_sandwich": [
+        "The sandwich is typically served on a split-top bun",
+        "The filling is usually made of chunks of meat mixed with mayonnaise",
+        "The sandwich may be garnished with lettuce, lemon, or other toppings",
+        "The meat is usually a pink or orange color",
+        "The sandwich may be served with a side of fries or coleslaw",
+        "The dish may be served on a plate or in a basket",
+        "The sandwich may be accompanied by a dipping sauce, such as melted butter or aioli"
+    ],
+    "macaroni_and_cheese": [
+        "The dish is typically yellow or orange in color",
+        "The dish has a creamy or cheesy texture",
+        "The dish may have visible pasta",
+        "The dish may have breadcrumbs or other toppings",
+        "The food is typically served in a bowl or on a plate",
+        "The dish may have steam rising from it, indicating it is hot",
+        "The dish may have visible cheese strands or melted cheese on top"
+    ],
+    "macarons": [
+        "The dessert has a round, flat shape",
+        "The dessert has a smooth, shiny surface",
+        "object have a sandwich-like structure with a filling in the middle",
+        "The dessert comes in various colors and flavors",
+        "object may have decorative elements on top, such as sprinkles or edible glitter",
+        "object are often displayed on a plate or in a box",
+        "The pastry is typically small in size, about 1-2 inches in diameter",
+        "object may have a textured bottom, known as \"feet\""
+    ],
+    "miso_soup": [
+        "It is a liquid or semi-liquid dish",
+        "The color of the soup is typically light brown or beige",
+        "The soup may contain visible pieces of tofu, seaweed, or green onions",
+        "The dish is typically served in a bowl or small dish",
+        "The soup may have steam rising from it",
+        "The soup may be accompanied by chopsticks or a spoon",
+        "The soup may be served alongside other Japanese dishes such as sushi or rice",
+        "The soup may have a savory or umami aroma"
+    ],
+    "mussels": [
+        "The shell of the shellfish is typically dark blue or black in color",
+        "The shell is elongated and oval-shaped",
+        "The shell has ridges or concentric lines",
+        "The shellfish has a soft, fleshy body inside the shell",
+        "The shellfish has a pair of siphons for breathing and feeding",
+        "The shellfish may be attached to a substrate such as rocks or other shellfish",
+        "object may have a beard-like structure called byssal threads for anchoring"
+    ],
+    "nachos": [
+        "The dish is typically made with tortilla chips",
+        "The dish is topped with melted cheese",
+        "The dish may also include toppings such as salsa, guacamole, sour cream, and jalapenos",
+        "The dish is often served in a large, shallow dish or platter",
+        "The dish may have visible layers of toppings and chips",
+        "The dish may have a colorful and appetizing appearance",
+        "The food may be accompanied by a side of dipping sauce or condiments"
+    ],
+    "omelette": [
+        "The dish has a yellow or golden color",
+        "The dish has a fluffy and slightly puffy texture",
+        "The dish has visible ingredients such as vegetables, cheese, or meat",
+        "The dish is typically cooked in a round or oval shape",
+        "The food item is often served on a plate or in a skillet",
+        "The dish may have visible steam or heat rising from it",
+        "The dish may have garnishes such as herbs or spices on top"
+    ],
+    "onion_rings": [
+        "Circular shape with a hole in the center",
+        "Golden brown color",
+        "Crispy texture",
+        "Multiple rings stacked on top of each other",
+        "Grease or oil residue on the surface",
+        "Served in a basket or on a plate",
+        "Often accompanied by a dipping sauce, such as ketchup or aioli"
+    ],
+    "oysters": [
+        "The shell has a hard, rough texture",
+        "The color of the shells can be white, grey, brown, or black",
+        "The shellfish has a soft, fleshy body inside the shell",
+        "The shellfish may have a slightly iridescent or shiny appearance",
+        "The mollusk may be attached to a rock or other surface",
+        "The shell may have a slightly open or closed shell",
+        "The shellfish may be surrounded by water or other marine life",
+        "The shell of the oyster may have a rough, textured surface"
+    ],
+    "pad_thai": [
+        "The dish has a mix of stir-fried rice noodles, eggs, tofu, shrimp, peanuts, and bean sprouts",
+        "The dish is often garnished with lime wedges and cilantro",
+        "The dish has a distinct orange color from the sauce",
+        "The dish may have visible pieces of shrimp or tofu",
+        "The dish is often served in a bowl or on a plate",
+        "The dish may have visible garnishes such as chopped peanuts or green onions"
+    ],
+    "paella": [
+        "The dish is typically served in a large, shallow pan",
+        "The dish contains a variety of ingredients such as rice, saffron, vegetables, and seafood or meat",
+        "The dish has a vibrant yellow color due to the saffron",
+        "The dish may have visible pieces of seafood or meat on top",
+        "The dish may be garnished with lemon wedges or parsley",
+        "The dish may have a slightly crispy bottom layer, known as socarrat",
+        "The dish may be served with a side of aioli or other sauces"
+    ],
+    "pancakes": [
+        "Circular shape",
+        "- Golden brown color",
+        "Fluffy texture",
+        "- Toppings such as syrup, butter, or fruit",
+        "Stacked or layered appearance",
+        "- Round edges",
+        "There is no need to replace or remove anything in this sentence",
+        "- Fork or knife next to the food"
+    ],
+    "panna_cotta": [
+        "It is a creamy dessert",
+        "The dessert is usually served in a small, cylindrical shape",
+        "The dessert is often topped with a fruit compote or sauce",
+        "The dessert may have a garnish such as mint leaves or edible flowers",
+        "The dessert is typically served in a glass or on a plate",
+        "The dessert has a smooth and creamy texture",
+        "The dessert may have a wobbly or jiggly appearance",
+        "The dessert may be dusted with cocoa powder or powdered sugar"
+    ],
+    "peking_duck": [
+        "The bird has a distinctive white and brown plumage",
+        "The bird has a long, slender neck",
+        "The bird has a small, rounded head",
+        "The bird has a yellow bill",
+        "The bird has webbed feet",
+        "The bird has a flat, wide beak",
+        "The bird has a plump body",
+        "The bird has a short tail"
+    ],
+    "pho": [
+        "I apologize, but I'm unable to assist"
+    ],
+    "pizza": [
+        "Circular or square shape",
+        "Flat, round dough base",
+        "The food has toppings such as cheese, tomato sauce, pepperoni, vegetables, etc"
+    ],
+    "pork_chop": [
+        "The meat is typically pink or light brown in color",
+        "The meat has visible marbling or fat",
+        "The meat has a bone attached",
+        "The meat has a grilled or seared texture",
+        "The food may have seasoning or grill marks",
+        "The food may be served with garnishes or sides such as vegetables or potatoes"
+    ],
+    "poutine": [
+        "It is a dish consisting of french fries, cheese curds, and gravy",
+        "The dish is typically served in a bowl or on a plate",
+        "The dish has a brown gravy covering the fries and cheese curds",
+        "The dish may have additional toppings such as bacon, pulled pork, or vegetables",
+        "The dish may be served with a fork or spoon",
+        "The dish may be accompanied by a side of condiments"
+    ],
+    "prime_rib": [
+        "The meat is a deep red color",
+        "The meat has a marbled texture",
+        "The food has a bone attached",
+        "The meat has a charred or grilled exterior",
+        "The dish is often served with a side of vegetables or potatoes",
+        "The meat is often sliced and served on a plate or platter"
+    ],
+    "pulled_pork_sandwich": [
+        "The sandwich has shredded or pulled pieces of meat",
+        "The food is typically served on a bun or bread",
+        "The sandwich may have barbecue sauce or other condiments",
+        "The sandwich may have coleslaw or pickles as toppings",
+        "The dish may have a side of fries or other side dishes",
+        "The sandwich may have a distinctive smoky or grilled appearance",
+        "The sandwich may have visible pieces of meat or fat",
+        "The sandwich may have a savory or sweet aroma"
+    ],
+    "ramen": [
+        "The dish is a type of noodle soup",
+        "The dish typically has long and thin noodles",
+        "The dish usually has a clear or opaque broth",
+        "The dish often contains toppings such as sliced pork, green onions, seaweed, and a boiled egg",
+        "The food is typically served in a bowl that is typically round and shallow",
+        "The dish is often served in a bowl",
+        "The dish may be accompanied by utensils like chopsticks or a spoon",
+        "The dish may be garnished with sesame seeds or other seasonings"
+    ],
+    "ravioli": [
+        "It is a type of pasta",
+        "The shape of the pasta is typically square or circular",
+        "The pasta is filled with a savory filling, such as cheese, meat, or vegetables",
+        "The food is often coated in a sauce, such as marinara or alfredo",
+        "The pasta may have visible ridges or crimps along the edges",
+        "The dish may be served in a bowl or on a plate",
+        "The dish may be garnished with herbs or grated cheese"
+    ],
+    "red_velvet_cake": [
+        "The cake has a deep red color",
+        "The cake has a smooth and velvety texture",
+        "The cake is typically layered with frosting",
+        "The cake may be decorated with chocolate shavings or sprinkles",
+        "The cake may have a garnish of fresh berries or mint leaves",
+        "The cake is often round in shape",
+        "The cake may have a moist and dense crumb",
+        "The cake may have a slight cocoa flavor"
+    ],
+    "risotto": [
+        "The dish has a creamy texture",
+        "The dish is typically served in a shallow, wide bowl",
+        "The dish is often topped with grated cheese",
+        "The dish may contain visible grains of rice",
+        "The dish may contain visible pieces of vegetables or meat",
+        "The dish may have a saucy or soupy appearance",
+        "The dish may be garnished with fresh herbs or spices"
+    ],
+    "samosa": [
+        "The snack has a triangular shape",
+        "The food item has a crispy, golden brown crust",
+        "The food item has a filling of spiced potatoes, peas, or meat",
+        "The dish may have visible spices or herbs on its surface",
+        "The food may be served with chutney or dipping sauce",
+        "The dish may be placed on a plate or serving dish",
+        "The food item may have a flaky texture",
+        "The food may have a distinct aroma of spices and fried dough"
+    ],
+    "sashimi": [
+        "The dish is raw and typically made from fresh, high-quality fish",
+        "The food is sliced thinly and presented in an artistic manner",
+        "The food is often served with soy sauce, wasabi, and pickled ginger",
+        "The food has a fresh and clean appearance, with vibrant colors and a glossy texture",
+        "The food is often arranged on a plate or platter with decorative garnishes",
+        "The food is typically served on a bed of shredded daikon radish or cabbage",
+        "The food may be accompanied by a small dish of dipping sauce",
+        "The food is often served on a traditional Japanese-style dish or platter"
+    ],
+    "scallops": [
+        "The shells are fan-shaped or circular",
+        "The shell has ridges or scalloped edges",
+        "The color of the shell is usually white, pink, or orange",
+        "The shell has a series of small, round \"eyes\" along the edge",
+        "The animal has a pair of large, blue eyes",
+        "The animal has a ring of tentacles around its eyes",
+        "The shellfish has a fleshy mantle that covers the shell",
+        "The animal has a row of small, blue dots along the edge of the mantle"
+    ],
+    "seaweed_salad": [
+        "The dish is typically green in color",
+        "The dish contains various types of object, such as wakame or kombu",
+        "The dish may also contain other ingredients such as sesame seeds, soy sauce, or vinegar",
+        "The dish is often served in a bowl or on a plate",
+        "The dish may be garnished with additional toppings such as sliced cucumber or radish",
+        "The dish may be accompanied by a side of pickled ginger or wasabi",
+        "The dish may be arranged in a visually appealing manner, such as in a decorative pattern or with artistic plating techniques"
+    ],
+    "shrimp_and_grits": [
+        "The dish typically consists of a protein and a starch, with the protein being pink or orange in color and the starch being a creamy white or yellow",
+        "The dish is usually served in a bowl or plate",
+        "The dish may be garnished with green onions, parsley, or other herbs",
+        "The dish may be accompanied by other ingredients such as bacon, sausage, or vegetables",
+        "The dish may be served with a sauce or gravy",
+        "The texture of the dish may be visible, showing a creamy or grainy consistency",
+        "The dish may be served on a bed of greens or other side dishes"
+    ],
+    "spaghetti_bolognese": [
+        "The food is a pasta dish with a tomato-based sauce",
+        "The dish may contain ground meat, such as beef or pork",
+        "The dish may have visible strands of pasta",
+        "The dish may be topped with grated cheese",
+        "The dish may have visible herbs or spices, such as basil or oregano",
+        "The dish may be served in a bowl or on a plate",
+        "The dish may have visible chunks of vegetables, such as onions or carrots"
+    ],
+    "spaghetti_carbonara": [
+        "The dish has long, thin strands of pasta",
+        "The dish has a creamy, white sauce",
+        "The dish has small pieces of bacon or pancetta",
+        "The dish may have grated cheese on top",
+        "The dish may have black pepper sprinkled on top",
+        "The dish may have parsley garnish",
+        "The dish is typically served in a bowl or on a plate",
+        "The dish may have utensils next to it for eating"
+    ],
+    "spring_rolls": [
+        "The food is cylindrical in shape",
+        "The food is wrapped in a thin, translucent rice paper",
+        "The filling inside the rice paper is visible and may include vegetables, meat, or seafood",
+        "The food may be accompanied by a dipping sauce",
+        "The food may be garnished with herbs or sesame seeds",
+        "The food may be served on a plate or in a basket",
+        "The food may be arranged in a decorative manner for presentation"
+    ],
+    "steak": [
+        "The meat is typically a reddish-brown color",
+        "The food has visible grill marks or sear marks",
+        "The food has a marbled appearance with streaks of fat",
+        "The food has a juicy and tender texture",
+        "The food may have seasoning or herbs visible on the surface",
+        "The food may have a charred or caramelized exterior",
+        "The food may be served on a plate or cutting board",
+        "The food may have a side dish or garnish accompanying it"
+    ],
+    "strawberry_shortcake": [
+        "The dessert has a round shape",
+        "The dessert has a sponge cake base",
+        "The dessert is topped with whipped cream",
+        "The dessert is decorated with fresh object",
+        "The dessert may have additional toppings such as chocolate or sprinkles",
+        "The dessert is typically served on a plate or in a dish",
+        "The dessert may have a fork or spoon next to it for serving"
+    ],
+    "sushi": [
+        "The food is typically small and bite-sized",
+        "The food is often served on a small plate or dish",
+        "The food is often arranged in a visually appealing manner",
+        "The food may include raw fish or seafood",
+        "The food may be wrapped in seaweed or rice",
+        "The food may be accompanied by soy sauce, wasabi, and pickled ginger",
+        "The food may be garnished with sesame seeds or other toppings",
+        "The food may be served with chopsticks or a small fork"
+    ],
+    "tacos": [
+        "The food is typically served in a tortilla",
+        "The food is often filled with meat, cheese, lettuce, and other toppings",
+        "The food may have a salsa or sauce drizzled on top",
+        "The food may be garnished with cilantro or lime",
+        "The food may be accompanied by rice and beans",
+        "The food may be served on a plate or in a basket",
+        "The food may be accompanied by a side of guacamole or sour cream"
+    ],
+    "takoyaki": [
+        "The food is round and ball-shaped",
+        "The food has a crispy outer layer",
+        "The food is typically served in a small paper boat or plate",
+        "The food is often topped with bonito flakes, mayonnaise, and object sauce",
+        "The food may have a piece of seafood inside",
+        "The food is often cooked in a special pan",
+        "The food is typically served hot",
+        "The food is a popular street food in Japan"
+    ],
+    "tiramisu": [
+        "It is a dessert",
+        "The dessert has layers of sponge cake or ladyfingers",
+        "The dessert is often topped with cocoa powder or chocolate shavings",
+        "The dessert is often served in a dish or glass",
+        "The dessert may have a creamy, cheese filling",
+        "The dessert may be garnished with coffee or coffee-flavored liqueur",
+        "The dessert may have a dusting of powdered sugar",
+        "The dessert may be accompanied by a spoon or fork"
+    ],
+    "tuna_tartare": [
+        "The dish is typically made with raw, diced fish",
+        "The dish is often mixed with ingredients such as soy sauce, sesame oil, and green onions",
+        "The dish is usually served on a plate or in a bowl",
+        "The dish is often garnished with sesame seeds or other toppings",
+        "The dish may be accompanied by condiments such as wasabi or pickled ginger",
+        "The dish is typically a bright red or pink color",
+        "The dish may be served with a side of seaweed salad or other accompaniments"
+    ],
+    "waffles": [
+        "The food has a grid-like pattern on its surface",
+        "The food item is typically round or square in shape",
+        "The food item has a golden brown color",
+        "The food may have toppings such as syrup, fruit, or whipped cream",
+        "The food may be served on a plate or in a stack",
+        "- The food item may have a crispy texture on the outside",
+        "The food may have a soft, fluffy texture on the inside"
+    ]
+}

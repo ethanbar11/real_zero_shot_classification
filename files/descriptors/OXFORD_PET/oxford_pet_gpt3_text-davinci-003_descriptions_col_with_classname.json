@@ -1,0 +1,349 @@
+{
+    "Abyssinian": [
+        "Abyssinian. The cat has a slender and graceful build",
+        "Abyssinian. The cat has a short, ticked coat with a distinctive \"ticked\" pattern",
+        "Abyssinian. The cat has large, alert ears",
+        "Abyssinian. The cat has almond-shaped eyes",
+        "Abyssinian. The cat has a wedge-shaped head",
+        "Abyssinian. The cat has a distinctly arched neck",
+        "Abyssinian. The cat has a long, tapering tail",
+        "Abyssinian. The cat has a ruddy, red, blue, or fawn coat color"
+    ],
+    "American Bulldog": [
+        "American Bulldog. It is a large, muscular dog breed",
+        "American Bulldog. The dog is usually white with patches of brindle, fawn, or red",
+        "American Bulldog. The dog has a broad, square-shaped head",
+        "American Bulldog. The dog has a short, wrinkled muzzle",
+        "American Bulldog. The dog has a strong, muscular build",
+        "American Bulldog. The dog has a thick, powerful neck",
+        "American Bulldog. The dog has a short coat",
+        "American Bulldog. The dog has a wide chest and strong, sturdy legs"
+    ],
+    "American Pit Bull Terrier": [
+        "American Pit Bull Terrier. The dog has a muscular build",
+        "American Pit Bull Terrier. The dog has a short coat that can be various colors such as black, blue, fawn, or brindle",
+        "American Pit Bull Terrier. The dog has a broad head and strong jaws",
+        "American Pit Bull Terrier. The dog has a medium-sized, square-shaped muzzle",
+        "American Pit Bull Terrier. The dog has a thick, strong neck",
+        "American Pit Bull Terrier. The dog has a tail that is tapered and medium in length",
+        "American Pit Bull Terrier. The dog has a confident and alert expression",
+        "American Pit Bull Terrier. The dog has a stocky and athletic appearance"
+    ],
+    "Basset Hound": [
+        "Basset Hound. The dog has a long body and short legs",
+        "Basset Hound. The dog has a droopy face with long ears",
+        "Basset Hound. The dog has a wrinkled forehead",
+        "Basset Hound. The dog has a tri-colored coat (black, white, and brown)",
+        "Basset Hound. The dog has a tail that is carried high and curved",
+        "Basset Hound. The dog has a deep chest and strong, sturdy build"
+    ],
+    "Beagle": [
+        "Beagle. The dog has a medium-sized, compact body",
+        "Beagle. The dog has a short, smooth coat with a combination of white, black, and brown coloring",
+        "Beagle. The dog has long, droopy ears",
+        "Beagle. The dog has a distinct white tip on its tail",
+        "Beagle. The dog has a friendly and alert expression",
+        "Beagle. The dog has a strong sense of smell and may be seen sniffing the ground",
+        "Beagle. The dog has a friendly and sociable demeanor"
+    ],
+    "Bengal": [
+        "Bengal. The cat has a distinctive coat pattern with spots and rosettes",
+        "Bengal. The cat has a sleek and muscular build",
+        "Bengal. The cat has a short, thick tail",
+        "Bengal. The animal has a triangular head shape",
+        "Bengal. The animal has a white belly and chin",
+        "Bengal. The cat has large, almond-shaped eyes",
+        "Bengal. The cat has a confident and alert posture"
+    ],
+    "Birman": [
+        "Birman. The cat has a medium to large size with a sturdy build",
+        "Birman. The cat has a long, silky coat with a color point pattern",
+        "Birman. The cat has striking blue eyes",
+        "Birman. The cat has a distinctive \"V\" shape on its face",
+        "Birman. The cat has white gloves on its paws",
+        "Birman. The cat has a bushy tail",
+        "Birman. The cat has a gentle and affectionate expression"
+    ],
+    "Bombay": [
+        "Bombay. The cat has a sleek, black coat",
+        "Bombay. The cat has bright, copper-colored eyes",
+        "Bombay. The cat has a muscular and compact body",
+        "Bombay. The cat has a short, straight nose",
+        "Bombay. The cat has small, rounded ears",
+        "Bombay. The cat has a short, straight tail",
+        "Bombay. The cat has a confident and alert expression"
+    ],
+    "Boxer": [
+        "Boxer. The dog has a muscular and athletic build",
+        "Boxer. The dog has a short, smooth coat",
+        "Boxer. The dog has a square-shaped head with a strong jaw",
+        "Boxer. The dog has a wrinkled forehead",
+        "Boxer. The dog has a docked tail",
+        "Boxer. The dog has a brachycephalic (short-nosed) face",
+        "Boxer. The dog has a fawn or brindle coat color",
+        "Boxer. The dog has a black mask on its face"
+    ],
+    "British Shorthair": [
+        "British Shorthair. The cat has a sturdy, muscular build",
+        "British Shorthair. The cat has a round face with chubby cheeks",
+        "British Shorthair. The cat has a short, dense coat",
+        "British Shorthair. The cat has large, round eyes",
+        "British Shorthair. The cat has a broad chest and thick, short legs",
+        "British Shorthair. The cat has a wide, rounded head",
+        "British Shorthair. The cat has a short, thick tail",
+        "British Shorthair. The cat has a wide variety of coat colors and patterns, including blue, black, white, cream, red, silver, and tabby markings"
+    ],
+    "Chihuahua": [
+        "Chihuahua. It is a small breed of dog",
+        "Chihuahua. The dog is often tan, brown, white, or black",
+        "Chihuahua. The dog has large, round eyes",
+        "Chihuahua. The dog has large ears that stand upright",
+        "Chihuahua. The dog has a short, smooth coat",
+        "Chihuahua. The dog has a small, pointed muzzle",
+        "Chihuahua. The dog has a compact body with a slightly curved tail",
+        "Chihuahua. The dog has a confident and alert expression"
+    ],
+    "Egyptian Mau": [
+        "Egyptian Mau. The cat has a distinctive spotted coat with a ticked tabby pattern",
+        "Egyptian Mau. The cat has large, almond-shaped eyes",
+        "Egyptian Mau. The cat has a medium-sized, muscular body",
+        "Egyptian Mau. The cat has a wedge-shaped head with large ears",
+        "Egyptian Mau. The cat has a long, tapering tail",
+        "Egyptian Mau. The cat has a graceful and athletic appearance",
+        "Egyptian Mau. The cat has a bronze or smoke-colored coat with black markings",
+        "Egyptian Mau. The cat has a friendly and alert expression"
+    ],
+    "English Cocker Spaniel": [
+        "English Cocker Spaniel. The dog has a medium-sized, compact body",
+        "English Cocker Spaniel. The dog has a long, silky coat that can be various colors such as black, liver, red, or golden",
+        "English Cocker Spaniel. The dog has long, floppy ears",
+        "English Cocker Spaniel. The dog has a rounded head with a distinct stop between the forehead and the muzzle",
+        "English Cocker Spaniel. The dog has a docked tail",
+        "English Cocker Spaniel. The dog has a friendly and alert expression",
+        "English Cocker Spaniel. The dog has a sturdy and balanced build",
+        "English Cocker Spaniel. The dog has a feathered coat on the chest, legs, and belly"
+    ],
+    "English Setter": [
+        "English Setter. The dog has a long, silky coat with feathering on the ears, chest, belly, and legs",
+        "English Setter. The dog has a distinct mottled or speckled coat pattern, usually with a combination of white and either orange, lemon, liver, or black",
+        "English Setter. The dog has a long, elegant head with a pronounced stop and a slightly domed skull",
+        "English Setter. The dog has a long, flowing tail that is carried horizontally or slightly upward",
+        "English Setter. The dog has a friendly and intelligent expression with dark, expressive eyes",
+        "English Setter. The dog has a muscular and athletic build, with a deep chest and strong, straight legs"
+    ],
+    "German Shorthaired": [
+        "German Shorthaired. The dog has a short, sleek coat that is typically liver, black, or a combination of the two",
+        "German Shorthaired. The dog has a muscular build and a sleek, athletic appearance",
+        "German Shorthaired. The dog has a distinct head shape with a broad, slightly rounded skull and a pronounced stop",
+        "German Shorthaired. The dog has a long, broad, and deep chest",
+        "German Shorthaired. The dog has a docked tail",
+        "German Shorthaired. The dog has a friendly and intelligent expression in its eyes",
+        "German Shorthaired. The dog has webbed feet, which are helpful for swimming",
+        "German Shorthaired. The dog has a strong, powerful gait and a smooth, ground-covering stride"
+    ],
+    "Great Pyrenees": [
+        "Great Pyrenees. It is a large, white, fluffy animal",
+        "Great Pyrenees. The dog has a thick double coat",
+        "Great Pyrenees. The dog has a strong, muscular build",
+        "Great Pyrenees. The dog has a broad head with a black nose",
+        "Great Pyrenees. The dog has triangular, pendant ears",
+        "Great Pyrenees. The dog has a long, bushy tail",
+        "Great Pyrenees. The dog has dark, almond-shaped eyes",
+        "Great Pyrenees. The dog has large, webbed feet"
+    ],
+    "Havanese": [
+        "Havanese. The dog has a small, sturdy build",
+        "Havanese. The dog has a long, silky coat in various colors such as white, cream, fawn, gold, black, or silver",
+        "Havanese. The dog has a plumed tail that curls over its back",
+        "Havanese. The dog has a short, square muzzle",
+        "Havanese. The dog has large, dark, almond-shaped eyes",
+        "Havanese. The dog has drop ears covered in long hair",
+        "Havanese. The dog has a friendly and alert expression"
+    ],
+    "Japanese Chin": [
+        "Japanese Chin. The dog has a small, compact body",
+        "Japanese Chin. The dog has a short, broad face with a flat skull",
+        "Japanese Chin. The dog has large, wide-set eyes",
+        "Japanese Chin. The dog has a short, broad muzzle",
+        "Japanese Chin. The dog has a black nose",
+        "Japanese Chin. The dog has a profuse, feathered coat",
+        "Japanese Chin. The dog has a tail that curls over its back",
+        "Japanese Chin. The dog has a distinct \"oriental\" expression"
+    ],
+    "Keeshond": [
+        "Keeshond. The dog has a distinctive \"spectacles\" marking around its eyes",
+        "Keeshond. The dog has a thick, double coat with a ruff around the neck",
+        "Keeshond. The dog has a plumed tail that curls over its back",
+        "Keeshond. The dog has a medium-sized, sturdy build",
+        "Keeshond. The dog has a black and silver or gray coat color",
+        "Keeshond. The dog has small, triangular ears",
+        "Keeshond. The dog has a friendly and alert expression"
+    ],
+    "Leonberger": [
+        "Leonberger. The dog has a large, muscular build",
+        "Leonberger. The dog has a thick, double coat",
+        "Leonberger. The dog has a black mask on its face",
+        "Leonberger. The dog has a broad head and strong jaws",
+        "Leonberger. The dog has a long, bushy tail",
+        "Leonberger. The dog has a friendly and gentle expression",
+        "Leonberger. The dog has a confident and calm demeanor",
+        "Leonberger. The dog has a tan, red, or lion-colored coat"
+    ],
+    "Maine Coon": [
+        "Maine Coon. The cat has a large, muscular body",
+        "Maine Coon. The cat has a long, bushy tail",
+        "Maine Coon. The cat has tufted ears",
+        "Maine Coon. The cat has a thick, water-repellent coat",
+        "Maine Coon. The cat has a ruff of fur around its neck",
+        "Maine Coon. The cat has tufted paws",
+        "Maine Coon. The cat has a square muzzle",
+        "Maine Coon. The cat has a friendly and sociable expression"
+    ],
+    "Miniature Pinscher": [
+        "Miniature Pinscher. The dog has a small, compact body",
+        "Miniature Pinscher. The dog has a short, smooth coat",
+        "Miniature Pinscher. The dog has a distinct rust-colored markings on its face, chest, and legs",
+        "Miniature Pinscher. The dog has a high-set tail that is usually docked",
+        "Miniature Pinscher. The dog has a strong, muscular build",
+        "Miniature Pinscher. The dog has a sleek, elegant appearance",
+        "Miniature Pinscher. The dog has a confident and alert expression"
+    ],
+    "Newfoundland": [
+        "Newfoundland. The dog has a large, sturdy build",
+        "Newfoundland. The dog have a thick, water-resistant double coat",
+        "Newfoundland. The dog has a broad, strong head with a slightly arched crown",
+        "Newfoundland. The dog have deep-set, dark eyes",
+        "Newfoundland. The dog has a wide, square muzzle",
+        "Newfoundland. The dog have ears that hang close to the head",
+        "Newfoundland. The dog have strong, muscular legs",
+        "Newfoundland. The dog has webbed feet for swimming",
+        "Newfoundland. The dog is black, brown, grey, or Landseer (black and white) colored"
+    ],
+    "Persian": [
+        "Persian. The cat has a distinct round face with a short nose",
+        "Persian. The cat has large, expressive eyes",
+        "Persian. The cat has a long, luxurious coat",
+        "Persian. The cat has a bushy tail",
+        "Persian. The cat has a stocky, muscular build",
+        "Persian. The cat has pointed ears",
+        "Persian. The cat has a sweet and gentle expression"
+    ],
+    "Pomeranian": [
+        "Pomeranian. It is a small breed of dog",
+        "Pomeranian. The dog can be various shades of orange, red, brown, black, or white",
+        "Pomeranian. The dog has a fluffy double coat",
+        "Pomeranian. The dog has a foxy face with small, pointed ears",
+        "Pomeranian. The dog has a plumed tail that curls over its back",
+        "Pomeranian. The dog has a compact, sturdy body",
+        "Pomeranian. The dog has a playful and alert expression",
+        "Pomeranian. The dog has a distinctive, confident gait"
+    ],
+    "Pug": [
+        "Pug. The dog has a wrinkled, short-muzzled face",
+        "Pug. The dog has a curled tail",
+        "Pug. The dog has a compact, muscular body",
+        "Pug. The dog has a smooth, glossy coat",
+        "Pug. The dog has a black mask on its face",
+        "Pug. The dog has a distinctive \"screw tail\" that curls tightly over its hip"
+    ],
+    "Ragdoll": [
+        "Ragdoll. The cat has a semi-long, silky coat with a pointed color pattern",
+        "Ragdoll. The cat has striking blue eyes",
+        "Ragdoll. The cat has a large, muscular body",
+        "Ragdoll. The cat has a bushy tail",
+        "Ragdoll. The cat has a sweet and gentle expression",
+        "Ragdoll. The cat has a friendly and affectionate demeanor"
+    ],
+    "Russian Blue": [
+        "Russian Blue. The cat has a short, dense, and plush blue-grey coat",
+        "Russian Blue. The cat have bright green eyes",
+        "Russian Blue. The cat has a sleek and muscular body",
+        "Russian Blue. The cat has a wedge-shaped head",
+        "Russian Blue. The cat has a straight nose",
+        "Russian Blue. The cat has a medium-length tail",
+        "Russian Blue. The cat has a graceful and elegant posture"
+    ],
+    "Saint Bernard": [
+        "Saint Bernard. The dog is of large size and muscular build",
+        "Saint Bernard. The dog have thick, dense fur, often with a white and brown color pattern",
+        "Saint Bernard. The dog have distinctive facial features, including a broad head and deep-set eyes",
+        "Saint Bernard. The dog have droopy ears and a wrinkled forehead",
+        "Saint Bernard. The dog has a barrel-shaped body and strong, sturdy legs",
+        "Saint Bernard. A friendly and gentle expression",
+        "Saint Bernard. Often seen with a small barrel around its neck",
+        "Saint Bernard. The dog is typically seen in snowy or mountainous environments"
+    ],
+    "Samoyed": [
+        "Samoyed. The dog has a thick, fluffy white coat",
+        "Samoyed. The dog has a plumed tail that curls over its back",
+        "Samoyed. The dog has a wedge-shaped head with dark eyes and a black nose",
+        "Samoyed. The dog has erect, triangular ears",
+        "Samoyed. The dog has a sturdy, muscular build",
+        "Samoyed. The dog has a friendly and alert expression"
+    ],
+    "Scottish Terrier": [
+        "Scottish Terrier. The dog has a wiry, black coat",
+        "Scottish Terrier. The dog has a long, straight tail",
+        "Scottish Terrier. The dog has a distinctive beard and eyebrows",
+        "Scottish Terrier. The dog has small, pointed ears",
+        "Scottish Terrier. The dog has a compact, sturdy build",
+        "Scottish Terrier. The dog has a confident and alert expression",
+        "Scottish Terrier. The dog has a strong, muscular stance",
+        "Scottish Terrier. The dog has a distinctive, confident gait"
+    ],
+    "Shiba Inu": [
+        "Shiba Inu. The dog has a distinct fox-like appearance with a curled tail",
+        "Shiba Inu. The dog has a plush double coat, with a thick undercoat and a straight, stiff outer coat",
+        "Shiba Inu. The dog has a broad head with small, triangular ears",
+        "Shiba Inu. The dog has a confident and alert expression",
+        "Shiba Inu. The dog has a muscular build and a balanced, compact body",
+        "Shiba Inu. The dog has a coat color that can be red, sesame, black and tan, or cream",
+        "Shiba Inu. The dog has a distinctive \"urajiro\" markings on the cheeks, sides of the muzzle, throat, chest, and underside of the body"
+    ],
+    "Siamese": [
+        "Siamese. The cat has a distinct color pattern with a lighter body and darker points on the ears, face, paws, and tail",
+        "Siamese. The cat has bright blue almond-shaped eyes",
+        "Siamese. The cat has a sleek, slender body",
+        "Siamese. The cat have a short, fine coat",
+        "Siamese. The cat has a long, elegant tail",
+        "Siamese. The cat has a triangular-shaped head",
+        "Siamese. The cat has a vocal and social personality"
+    ],
+    "Sphynx": [
+        "Sphynx. The cat has a hairless body",
+        "Sphynx. The cat has wrinkled skin",
+        "Sphynx. The cat has large ears",
+        "Sphynx. The cat has a slender, athletic build",
+        "Sphynx. The cat has prominent cheekbones",
+        "Sphynx. The cat has a wedge-shaped head",
+        "Sphynx. The cat has a long, whippy tail"
+    ],
+    "Staffordshire Bull Terrier": [
+        "Staffordshire Bull Terrier. The dog has a muscular build",
+        "Staffordshire Bull Terrier. The dog has a short, smooth coat",
+        "Staffordshire Bull Terrier. The dog has a broad head and strong jaws",
+        "Staffordshire Bull Terrier. The dog has a wide, powerful chest",
+        "Staffordshire Bull Terrier. The dog has a short tail",
+        "Staffordshire Bull Terrier. The dog has a distinctive \"tiger\" or \"brindle\" coat pattern",
+        "Staffordshire Bull Terrier. \nThe dog has a friendly and alert expression"
+    ],
+    "Wheaten Terrier": [
+        "Wheaten Terrier. The dog has a medium-sized, sturdy build",
+        "Wheaten Terrier. The dog has a soft, silky, wheaten-colored coat",
+        "Wheaten Terrier. The dog has a square-shaped head with a black nose",
+        "Wheaten Terrier. The dog has small, floppy ears",
+        "Wheaten Terrier. The dog has a wagging tail",
+        "Wheaten Terrier. The terrier have a friendly and alert expression",
+        "Wheaten Terrier. The dog has a playful and energetic demeanor"
+    ],
+    "Yorkshire Terrier": [
+        "Yorkshire Terrier. The dog has a small, compact body",
+        "Yorkshire Terrier. The dog has a long, silky coat that is typically blue and tan in color",
+        "Yorkshire Terrier. The dog has small, triangular-shaped ears that stand erect",
+        "Yorkshire Terrier. The dog has a small, black nose",
+        "Yorkshire Terrier. The dog has a tail that is typically docked",
+        "Yorkshire Terrier. The dog has a confident and alert expression in its eyes",
+        "Yorkshire Terrier. The dog has a small, rounded skull",
+        "Yorkshire Terrier. The dog has straight, fine-boned legs"
+    ]
+}

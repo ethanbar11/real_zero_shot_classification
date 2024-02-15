@@ -1,0 +1,1868 @@
+{
+    "Black-footed Albatross": [
+        "The bird has a black back and wings with white underparts",
+        "The bird has a yellow-orange bill with a dark tip",
+        "The bird has a wingspan of about 6 feet",
+        "The bird has webbed feet",
+        "The bird has a white patch around its eyes",
+        "The bird has long, narrow, pointed wings",
+        "The bird has a hooked beak",
+        "The bird has a white ring around its neck"
+    ],
+    "Laysan Albatross": [
+        "The bird has a white body with black wings and back",
+        "The bird has a large wingspan, typically around 6 feet",
+        "The bird has a yellow-orange bill with a dark tip",
+        "The bird has webbed feet",
+        "The bird has a distinctive black smudge around its eyes",
+        "The bird has a hooked beak",
+        "The bird has a long, slender neck"
+    ],
+    "Sooty Albatross": [
+        "The bird has a predominantly dark plumage, with white underparts",
+        "The bird has a wingspan of approximately 6 feet",
+        "The bird has a hooked bill",
+        "The bird has webbed feet",
+        "The bird has a distinctive flight pattern, often gliding low over the water",
+        "The bird has a long, slender body",
+        "The bird has a white patch on the underwing",
+        "The bird has a black cap on its head"
+    ],
+    "Groove-billed Ani": [
+        "The bird has a long, curved bill",
+        "The bird has a black body with a brownish tinge",
+        "The bird has a long tail",
+        "The bird has a distinctive call",
+        "The bird has a red eye",
+        "The bird has a slightly curved beak",
+        "The bird has a white patch on its wing",
+        "The bird has a slender body shape"
+    ],
+    "Crested Auklet": [
+        "The bird has a distinctive crest on its head",
+        "The bird has a black and white plumage",
+        "The bird has a bright orange bill",
+        "The bird has a small body with a rounded shape",
+        "The bird has a short, stubby tail",
+        "The bird has a white patch on its wings",
+        "The bird has red-orange feet",
+        "The bird has a small, pointed beak"
+    ],
+    "Least Auklet": [
+        "The bird is small in size, typically around 15 cm in length",
+        "The bird has a black or dark grey plumage",
+        "The bird has a white patch on its wings",
+        "The bird has a short, stubby bill",
+        "The bird has a distinctive white eye patch",
+        "The bird has webbed feet for swimming and diving",
+        "The bird has a round body shape",
+        "The bird has a short tail"
+    ],
+    "Parakeet Auklet": [
+        "The bird has a black or dark grey head and neck",
+        "The bird has a white body and underparts",
+        "The bird has a distinctive bright orange bill",
+        "The bird has a small size, about 9-10 inches in length",
+        "The bird has a short, stubby tail",
+        "The bird has a white patch on its wings",
+        "The bird has a small, rounded head with a slight crest",
+        "The bird has a black patch around its eyes"
+    ],
+    "Rhinoceros Auklet": [
+        "The bird has a black and white coloration",
+        "The bird has a distinctive bill that is orange with a white patch",
+        "The bird has a compact body with a short tail",
+        "The bird has a white patch on its wings",
+        "The bird has a red eye",
+        "The bird has webbed feet for swimming and diving",
+        "The bird has a streamlined shape for flying and diving"
+    ],
+    "Brewer Blackbird": [
+        "The bird has a glossy black plumage",
+        "The bird has a yellow eye",
+        "The bird has a long, slender bill",
+        "The bird has a sleek, slender body",
+        "The bird has a distinct iridescent sheen on its feathers",
+        "The bird has a relatively long tail",
+        "The bird has a pointed wing shape",
+        "The bird has a distinctive call or behavior, such as foraging on the ground or perching in open areas"
+    ],
+    "Red-winged Blackbird": [
+        "The bird has a black body with a distinct red and yellow patch on its wings",
+        "The bird has a long, pointed bill",
+        "The bird has a sleek, slender body shape",
+        "The bird has a relatively long tail",
+        "The bird has a sharp, pointed beak",
+        "The bird has a distinctive call or song",
+        "The bird has a habitat near wetlands or marshes"
+    ],
+    "Rusty Blackbird": [
+        "The bird has a glossy black plumage with rusty edges on the feathers",
+        "The bird has a yellow eye",
+        "The bird has a relatively short, stout bill",
+        "The bird has a slightly longer tail compared to other birds",
+        "The bird has a distinctive call or song",
+        "The bird may be seen in wetland or marshy habitats",
+        "The bird may be seen foraging on the ground for insects and invertebrates"
+    ],
+    "Yellow-headed Blackbird": [
+        "The bird has a black body with a bright object head",
+        "The bird has a pointed bill",
+        "The bird has a long tail",
+        "The bird has a relatively large size compared to other birds",
+        "The bird has a distinctive call or song",
+        "The bird has a habitat near wetlands or marshes",
+        "The bird may be seen in flocks with other birds, but its yellow head sets it apart"
+    ],
+    "Bobolink": [
+        "The bird has a black and white plumage",
+        "The bird has a distinctive white patch on the back of its head",
+        "The bird has a conical bill",
+        "The bird has a short tail",
+        "The bird has a relatively short, pointed beak",
+        "The bird has a buffy yellow patch on its nape",
+        "The bird has a relatively small size compared to other birds"
+    ],
+    "Indigo Bunting": [
+        "The bird has a vibrant plumage",
+        "The bird has a small, conical bill",
+        "The bird has a short tail",
+        "The bird has a white belly",
+        "The bird has a distinctive wing pattern with black and blue markings",
+        "The bird has a relatively small size, about 5-6 inches in length",
+        "The bird has a pointed crest on its head",
+        "The bird has a black mask around its eyes"
+    ],
+    "Lazuli Bunting": [
+        "The bird has a bright blue plumage on its head, back, and wings",
+        "The bird has a white belly and chest",
+        "The bird has a small, conical bill",
+        "The bird has a short tail",
+        "The bird has a black mask around its eyes",
+        "The bird has a thin, pointed beak",
+        "The bird has a small, compact body",
+        "The bird has a distinctive song and call"
+    ],
+    "Painted Bunting": [
+        "The bird has bright and vibrant colors, including blue, green, and red",
+        "The bird has a distinctive blue head and red underparts",
+        "The bird has a thick, conical bill",
+        "The bird has a relatively small size, about 5-6 inches in length",
+        "The bird has a short tail",
+        "The bird has a stout and rounded body shape",
+        "The bird has a white wing bar",
+        "The bird has dark legs and feet"
+    ],
+    "Cardinal": [
+        "The bird has a bright red plumage",
+        "The bird has a distinctive crest on its head",
+        "The bird has a black mask around its eyes",
+        "The bird has a thick, cone-shaped bill",
+        "The bird has a short, rounded tail",
+        "The bird has a white or grayish underbelly",
+        "The bird has a medium-sized body with a wingspan of about 10-12 inches",
+        "The bird has a sharp, pointed beak"
+    ],
+    "Spotted Catbird": [
+        "The bird has a black head with a distinctive white spot behind the eye",
+        "The bird has a grey body with white spots on the chest and belly",
+        "The bird has a long, curved bill",
+        "The bird has a long tail",
+        "The bird has a white patch on the underside of the tail",
+        "The bird has a red eye",
+        "The bird has a loud and melodious song"
+    ],
+    "Gray Catbird": [
+        "The bird has a slate gray body",
+        "The bird has a black cap on its head",
+        "The bird has a long, slender bill",
+        "The bird has a small black patch under its tail",
+        "The bird has a distinctive call, often described as sounding like a object's meow"
+    ],
+    "Yellow-breasted Chat": [
+        "The bird has a yellow breast and belly",
+        "The bird has a long tail",
+        "The bird has a relatively large bill",
+        "The bird has a gray or olive-green back and wings",
+        "The bird has a white eye ring",
+        "The bird has a distinctive song and call",
+        "The bird has a relatively large size compared to other songbirds"
+    ],
+    "Eastern Towhee": [
+        "The bird has a black head, back, and tail",
+        "The bird has rufous sides and white belly",
+        "The bird has white spots on its wings",
+        "The bird has bright red eyes",
+        "The bird has a long, thick bill",
+        "The bird has a distinctive \"drink-your-tea\" call",
+        "The bird has a habit of scratching in the leaf litter for food"
+    ],
+    "Chuck-will Widow": [
+        "The bird has a large, wide mouth",
+        "The bird has a mottled brown and black plumage",
+        "The bird has a white throat and chest",
+        "The bird has a distinct pattern of white spots on its wings",
+        "The bird has a short, rounded tail",
+        "The bird has large, round eyes",
+        "The bird has a distinctive call, often heard at night"
+    ],
+    "Brandt Cormorant": [
+        "The bird has a black or dark brown plumage",
+        "The bird has a long, slender neck",
+        "The bird has a hooked bill",
+        "The bird has webbed feet",
+        "The bird has a small, rounded head",
+        "The bird has a long, thin tail",
+        "The bird has a distinctive white patch on its thigh",
+        "The bird has a wingspan of approximately 100-110 cm"
+    ],
+    "Red-faced Cormorant": [
+        "The bird has a black body with a red face and throat",
+        "The bird has a long, slender neck",
+        "The bird has a hooked bill",
+        "The bird has webbed feet",
+        "The bird has a long, thin tail",
+        "The bird has a wingspan of approximately 3 feet",
+        "The bird has a glossy sheen to its feathers",
+        "The bird is often seen near coastal waters or rocky shorelines"
+    ],
+    "Pelagic Cormorant": [
+        "The bird has a long, slender neck",
+        "The bird has a black or dark brown plumage",
+        "The bird has a hooked bill",
+        "The bird has webbed feet",
+        "The bird has a long, thin tail",
+        "The bird has a distinctive white patch on its flank",
+        "The bird has a small, rounded head",
+        "The bird has a sleek, streamlined body shape"
+    ],
+    "Bronzed Cowbird": [
+        "The bird has a glossy black plumage",
+        "The bird has a brown head and neck",
+        "The bird has a thick, conical bill",
+        "The bird has a long, pointed tail",
+        "The bird has a red eye",
+        "The bird has a distinctive sheen on its feathers",
+        "The bird has a relatively large size compared to other songbirds"
+    ],
+    "Shiny Cowbird": [
+        "The bird has a glossy black plumage",
+        "The bird has a short, thick bill",
+        "The bird has a long, pointed tail",
+        "The bird has a red eye",
+        "The bird has a slender body shape",
+        "The bird has a distinctive call or song",
+        "The bird may be seen near or on livestock or other birds' nests"
+    ],
+    "Brown Creeper": [
+        "The bird has a mottled brown and white plumage",
+        "The bird has a long, thin, slightly curved bill",
+        "The bird has a white underside with brown streaks",
+        "The bird has a long, stiff tail",
+        "The bird has a habit of creeping up tree trunks",
+        "The bird has a distinctive downward-curved posture while foraging",
+        "The bird has a thin, pointed beak for probing into bark for insects",
+        "The bird has a white stripe above the eye"
+    ],
+    "American Crow": [
+        "The bird has all black feathers",
+        "The bird has a thick, sturdy bill",
+        "The bird has a fan-shaped tail",
+        "The bird has a distinct cawing call",
+        "The bird has a relatively large size for a bird",
+        "The bird has a slightly rounded head",
+        "The bird has strong, agile wings",
+        "The bird has a confident and bold posture"
+    ],
+    "Fish Crow": [
+        "The bird is smaller than a common crow",
+        "The bird is mostly black with a purplish or greenish sheen",
+        "The bird has a distinct call that is higher pitched and more nasal than a common crow",
+        "The bird has a slightly smaller bill and shorter legs than a common crow",
+        "The bird has a squared-off tail",
+        "The bird may be seen in coastal or wetland habitats"
+    ],
+    "Black-billed Cuckoo": [
+        "The bird has a slender body with a long tail",
+        "The bird has a black bill with a yellow lower mandible",
+        "The bird has a brownish-gray upper body and a white underbody",
+        "The bird has a distinct white patch on the tail",
+        "The bird has a red eye ring",
+        "The bird has a distinctive call, which may not be visible in a photo but can be a useful feature for identification"
+    ],
+    "Mangrove Cuckoo": [
+        "The bird has a long, curved bill",
+        "The bird has a brownish-gray plumage",
+        "The bird has a long tail with white tips",
+        "The bird has a distinctive white patch on its wings",
+        "The bird has a reddish-brown eye ring",
+        "The bird has a white throat and belly",
+        "The bird has a relatively large size compared to other bird species"
+    ],
+    "Yellow-billed Cuckoo": [
+        "The bird has a long, slender body",
+        "The bird has a object with a black tip",
+        "The bird has a brownish-gray upper body and white underparts",
+        "The bird has a long tail with white spots",
+        "The bird has a distinctive red eye ring",
+        "The bird has a unique pattern of black and white spots on its wings"
+    ],
+    "Gray-crowned-Rosy Finch": [
+        "The bird has a gray crown and rosy pink on its belly and wings",
+        "The bird has a small, conical bill",
+        "The bird has a short, forked tail",
+        "The bird has a white belly and undertail coverts",
+        "The bird has dark wings with white wing bars",
+        "The bird has a medium-sized body with a round shape",
+        "The bird has a black mask on its face"
+    ],
+    "Purple Finch": [
+        "The bird has a distinct raspberry-red color on its head, throat, and upper breast",
+        "The bird has brown streaks on its back and sides",
+        "The bird has a thick, conical bill",
+        "The bird has a short, notched tail",
+        "The bird has a white belly",
+        "The bird has a white line above its eye",
+        "The bird has a slightly curved culmen"
+    ],
+    "Northern Flicker": [
+        "The bird has a brown or tan body with black bars and spots",
+        "The bird has a distinctive black crescent on its chest",
+        "The bird has a red patch on the nape of its neck",
+        "The bird has a long, slightly curved bill",
+        "The bird has a white rump patch visible in flight",
+        "The bird has a black bib on its upper chest",
+        "The bird has a spotted or barred pattern on its wings",
+        "The bird has a distinctive call or behavior, such as drumming on trees or foraging on the ground"
+    ],
+    "Acadian Flycatcher": [
+        "The bird has a distinct olive-green color on its upperparts",
+        "The bird has a pale throat and belly",
+        "The bird has a noticeable eye ring",
+        "The bird has a relatively long bill",
+        "The bird has a short tail",
+        "The bird has a habit of flicking its wings and tail",
+        "The bird has a habit of perching in the middle to upper levels of trees",
+        "The bird has a distinctive call, often described as a \"whit\" or \"peet\" note"
+    ],
+    "Great-Crested Flycatcher": [
+        "The bird has a distinct yellow belly and breast",
+        "The bird has a grey head and back",
+        "The bird has a noticeable white eye ring",
+        "The bird has a long, wide bill",
+        "The bird has a rusty orange tail",
+        "The bird has a loud and distinctive call",
+        "The bird has a habit of flicking its tail frequently while perched"
+    ],
+    "Least Flycatcher": [
+        "- The bird has a small size, typically around 5-5"
+    ],
+    "Olive-sided Flycatcher": [
+        "The bird has a distinctive white patch on its sides",
+        "The bird has a dark grey or blackish head and back",
+        "The bird has a white throat and belly",
+        "The bird has a large, heavy bill",
+        "The bird has a short, notched tail",
+        "The bird has a habit of perching on the tops of tall trees or dead snags",
+        "The bird is known for its loud, distinctive call that sounds like \"quick, three beers\""
+    ],
+    "Scissor-tailed Flycatcher": [
+        "The bird has a long, distinctive tail with white outer feathers",
+        "The bird has a pale grey head and back",
+        "The bird has salmon-pink flanks and underparts",
+        "The bird has a black mask and crown",
+        "The bird has a thin, pointed bill",
+        "The bird has long wings with white edges",
+        "The bird has a slender, upright posture",
+        "The bird has a habit of perching prominently on wires or fences"
+    ],
+    "Vermilion Flycatcher": [
+        "The bird has a bright red or orange plumage",
+        "The bird has a small, slender body",
+        "The bird has a long, thin bill",
+        "The bird has a distinctive crest on its head",
+        "The bird has a white or light-colored belly",
+        "The bird has black wings and tail",
+        "The bird has a relatively short tail compared to its body size"
+    ],
+    "Yellow-bellied Flycatcher": [
+        "The bird has a belly that is yellowish in color",
+        "The bird has a distinct eye ring",
+        "The bird has a pale throat and breast",
+        "The bird has olive-green upperparts",
+        "The bird has a long, thin bill",
+        "The bird has a relatively short tail",
+        "The bird has a white wing bar",
+        "The bird has a habit of perching upright and flicking its tail downward"
+    ],
+    "Frigatebird": [
+        "The bird has a distinctive forked tail",
+        "The bird has long, narrow wings",
+        "The bird has a black plumage with a red throat pouch",
+        "The bird has a hooked bill",
+        "The bird has a wingspan of around 7"
+    ],
+    "Northern Fulmar": [
+        "The bird has a white body with grey wings and back",
+        "The bird has a tube-like bill",
+        "The bird has webbed feet",
+        "The bird has a wingspan of about 41-43 inches",
+        "The bird has a distinctive flight pattern, often gliding low over the water",
+        "The bird has a habit of sitting on the water's surface",
+        "The bird has a thick neck and small head",
+        "The bird has a pale patch at the base of the bill"
+    ],
+    "Gadwall": [
+        "The bird has a grey-brown body with a black rear end",
+        "The bird has a distinctive black patch on its rear",
+        "The bird has a white speculum on its wings",
+        "The duck has a dark bill with a black tip",
+        "The bird has a slightly pointed tail",
+        "The bird has a relatively small head and thin neck",
+        "The bird has a mottled appearance with fine vermiculations on its body",
+        "The duck has a relatively small size compared to other ducks"
+    ],
+    "American Goldfinch": [
+        "The bird has bright yellow plumage",
+        "The bird has black wings with white bars",
+        "The bird has a black cap on its head",
+        "The bird has a small, conical bill",
+        "The bird has a short, notched tail",
+        "The bird has a white rump",
+        "The bird has a small size, typically around 4-5 inches in length",
+        "The bird has a distinctive, warbling song"
+    ],
+    "European Goldfinch": [
+        "The bird has a bright red face and black and white head markings",
+        "The bird have a vibrant yellow body with black and white wings",
+        "The bird has a conical bill",
+        "The bird has a small, compact body",
+        "The bird has a forked tail",
+        "The bird has a distinctive call or song",
+        "The bird may be perched on a branch or feeding on seeds or insects"
+    ],
+    "Boat-tailed Grackle": [
+        "The bird has a long, keel-shaped tail",
+        "The bird has a glossy black plumage",
+        "The bird has a long, slender bill",
+        "The bird has yellow eyes",
+        "The bird has a distinctive, loud call",
+        "The bird has a strong, sturdy build",
+        "The bird has a long, pointed beak",
+        "The bird has a habit of perching in open areas near water"
+    ],
+    "Eared Grebe": [
+        "The bird has a black head and neck",
+        "The bird has a distinctive red eye",
+        "The bird has a white patch on its cheek",
+        "The bird has a black bill",
+        "The bird has a dark body with a white underside",
+        "The bird has pointed wings",
+        "The bird has a short, thin, and upturned bill",
+        "The bird has lobed toes for swimming"
+    ],
+    "Horned Grebe": [
+        "The bird has a black and white plumage",
+        "The bird has a distinctive red eye",
+        "The bird has a small, pointed bill",
+        "The bird has a short, stubby tail",
+        "The bird has a small, compact body",
+        "The bird has a distinctive \"horn\" of feathers on its head",
+        "The bird has webbed feet for swimming",
+        "The bird is often seen in or near water"
+    ],
+    "Pied-billed Grebe": [
+        "The bird has a distinctive black ring around its bill",
+        "The bird has a brown body with a white throat and belly",
+        "The bird has a short, stubby tail",
+        "The bird has a small, compact body with a rounded head",
+        "The bird has webbed feet for swimming",
+        "The bird has a relatively short, straight bill",
+        "The bird has a mottled or speckled appearance on its back and wings"
+    ],
+    "Western Grebe": [
+        "The bird has a long, slender neck",
+        "The bird has a black cap on its head",
+        "The bird has a white body with black markings",
+        "The bird has a long, pointed bill",
+        "The bird has red eyes",
+        "The bird has webbed feet",
+        "The bird has a distinctive mating display of \"rushing\" across the water with its mate"
+    ],
+    "Blue Grosbeak": [
+        "The bird has a vibrant blue plumage",
+        "The bird has a thick, conical bill",
+        "The bird has a large, rounded head",
+        "The bird has a short, forked tail",
+        "The bird has a white wing bar",
+        "The bird has a brown or cinnamon-colored underbelly",
+        "The bird has a relatively large size compared to other songbirds",
+        "The bird has a distinctive call or song"
+    ],
+    "Evening Grosbeak": [
+        "The bird has a large, conical bill",
+        "The bird has a yellow body with black and white markings",
+        "The bird has a black and white pattern on its wings",
+        "The bird has a thick, powerful neck",
+        "The bird has a short, forked tail",
+        "The bird has a distinctive call or song",
+        "The bird has a stout, sturdy build",
+        "The bird has a yellow patch on its forehead"
+    ],
+    "Pine Grosbeak": [
+        "The bird has a red, pink, or orange plumage",
+        "The bird has a thick, conical bill",
+        "The bird has a dark-colored head",
+        "The bird has a white wing bar",
+        "The bird has a relatively large size compared to other object",
+        "The bird has a short, notched tail",
+        "The bird has a thick, sturdy build",
+        "The bird has a distinctive call or song"
+    ],
+    "Rose-breasted Grosbeak": [
+        "The bird has a dark-colored head and back",
+        "The bird has a white belly and underparts",
+        "The bird has a bright red patch on its breast",
+        "The bird has a thick, conical bill",
+        "The bird has a white stripe above its eye",
+        "The bird has black and white wings",
+        "The bird has a relatively large size for a songbird"
+    ],
+    "Pigeon Guillemot": [
+        "The bird has a body with white wing patches",
+        "The bird has bright red feet and legs",
+        "The bird has a distinctive white patch on its wings",
+        "The bird have a slender, pointed bill",
+        "The bird has a short, rounded tail",
+        "The bird has bright red eyes",
+        "The bird has a sleek, streamlined body shape"
+    ],
+    "California Gull": [
+        "The bird has a white head and body",
+        "The bird has grey wings with black tips",
+        "The bird has yellow legs and feet",
+        "The bird has a yellow beak with a black ring near the tip",
+        "The bird has a red spot on the lower part of the beak",
+        "The bird has a medium-sized body with a wingspan of about 4 feet",
+        "The bird has a rounded head and a slightly hooked beak"
+    ],
+    "Glaucous-winged Gull": [
+        "The bird has a white head and body",
+        "The bird has grey wings with white spots",
+        "The bird has yellow legs and feet",
+        "The bird has a yellow bill with a red spot on the lower mandible",
+        "The bird has a medium to large size, typically around 20-26 inches in length",
+        "The bird has a rounded head and a thick, sturdy bill",
+        "The bird has a distinctive call, often described as a \"laughing\" sound"
+    ],
+    "Heermann Gull": [
+        "The bird has a white head and body",
+        "The bird has a dark grey back and wings",
+        "The bird has a red-orange bill with a black tip",
+        "The bird has black primary feathers with white tips",
+        "The bird has yellow legs",
+        "The bird has a medium-sized body with a wingspan of about 3 feet",
+        "The bird has a distinctive call or behavior, such as diving for fish in coastal waters"
+    ],
+    "Herring Gull": [
+        "The bird has a white head and body",
+        "The bird has grey wings with black tips",
+        "The bird has yellow legs and feet",
+        "The bird has a red spot on its lower bill",
+        "The bird has a medium-sized body with a wingspan of about 4"
+    ],
+    "Ivory Gull": [
+        "The bird has a predominantly white plumage",
+        "The bird has black tips on its wings",
+        "The bird has a short, stout bill",
+        "The bird has a black eye",
+        "The bird has a small, rounded head",
+        "The bird has a compact body",
+        "The bird has webbed feet",
+        "The bird has a distinctive black patch on its face"
+    ],
+    "Ring-billed Gull": [
+        "The bird has a white body with grey wings",
+        "The bird has a yellow bill with a black ring near the tip",
+        "The bird has yellow legs",
+        "The bird has a white head with a black ring around the eyes",
+        "The bird has a medium-sized body with a wingspan of about 4 feet",
+        "The bird has webbed feet for swimming and diving",
+        "The bird has a distinctive red spot on the lower mandible during breeding season"
+    ],
+    "Slaty-backed Gull": [
+        "The bird has a white head and body with dark grey wings and back",
+        "The bird has a yellow bill with a red spot near the tip",
+        "The bird has pink legs and feet",
+        "The bird has a medium to large size, with a wingspan of around 125-150 cm",
+        "The bird has a distinctive white eye ring",
+        "The bird has a dark mantle and tail",
+        "The bird has a red spot on the lower mandible",
+        "The bird has a black band on the tail",
+        "The bird has a white leading edge on the wing"
+    ],
+    "Western Gull": [
+        "The bird has a white head and body with grey wings",
+        "The bird has yellow legs and a yellow bill with a red spot near the tip",
+        "The bird has a large, sturdy build",
+        "The bird has a distinctive white eye ring",
+        "The bird has a hooked bill",
+        "The bird has a strong, direct flight pattern",
+        "The bird has a loud, raucous call"
+    ],
+    "Anna Hummingbird": [
+        "The bird has iridescent green feathers on its back",
+        "The bird has a white belly and throat",
+        "The bird has a long, thin bill",
+        "The bird has a relatively short tail",
+        "The bird has a small size, typically around 3-4 inches in length",
+        "The bird has a rapid wing beat when flying",
+        "The bird has a distinctive humming sound when flying",
+        "The bird has a curved beak for feeding on nectar"
+    ],
+    "Ruby-throated Hummingbird": [
+        "The bird has a metallic green back and crown",
+        "The bird has a white belly",
+        "The bird has a ruby-red throat patch",
+        "The bird has a long, thin bill",
+        "The bird has iridescent feathers",
+        "The bird has a small size, typically 3-3"
+    ],
+    "Rufous Hummingbird": [
+        "The bird has a bright orange-red throat and upper breast",
+        "The bird has a white breast and belly",
+        "The bird has a long, straight, and slender bill",
+        "The bird has a metallic green back and crown",
+        "The bird has a rufous (reddish-brown) tail",
+        "The bird has a small size, measuring only about 3-4 inches in length",
+        "The bird has rapid wingbeats and can hover in mid-air",
+        "The bird has iridescent feathers on its throat and head"
+    ],
+    "Green Violetear": [
+        "The bird has a metallic green or blue-green plumage on its head and back",
+        "The bird has a violet or blue-violet patch on its throat",
+        "The bird has a long, slender bill",
+        "The bird has a relatively large size compared to other hummingbirds",
+        "The bird has a distinctive shape with long wings and a relatively short tail",
+        "The bird has iridescent feathers",
+        "The bird has a white or pale-colored belly",
+        "The bird has a relatively short, straight beak"
+    ],
+    "Long-tailed Jaeger": [
+        "The bird has a long, pointed tail",
+        "The bird has a dark cap on its head",
+        "The bird has a white belly and underwings",
+        "The bird has a grey or brown back and upperwings",
+        "The bird has a hooked bill",
+        "The bird has a sleek, streamlined body",
+        "The bird has long, pointed wings",
+        "The bird has a distinctive flight pattern, often with agile and acrobatic maneuvers"
+    ],
+    "Pomarine Jaeger": [
+        "The bird has a dark brown or black head and neck",
+        "The bird has a white belly and underwings",
+        "The bird has a hooked bill",
+        "The bird has long, pointed wings",
+        "The bird has a distinct white patch on its upper wings",
+        "The bird has a forked tail",
+        "The bird has a sleek and streamlined body shape"
+    ],
+    "Blue Jay": [
+        "The bird has a crest on its head",
+        "The bird has a white face and belly",
+        "The bird has a black collar around its neck",
+        "The bird has a blue back and wings",
+        "The bird has a long, pointed black bill",
+        "The bird has a tail with white markings",
+        "The bird has a distinct blue and white pattern on its wings",
+        "The bird has a relatively large size compared to other songbirds"
+    ],
+    "Florida Jay": [
+        "The bird has a blue head and upper body",
+        "The bird has a white throat and underparts",
+        "The bird has a black necklace-like band across its throat",
+        "The bird has a black mask around its eyes",
+        "The bird has a long tail",
+        "The bird has a crest on its head",
+        "The bird has a sturdy, curved bill",
+        "The bird has white wing bars",
+        "The bird has a relatively large size for a bird"
+    ],
+    "Green Jay": [
+        "The bird has bright green feathers on its body",
+        "The bird has a black mask around its eyes",
+        "The bird has a long tail with white tips",
+        "The bird has a yellow or white underside",
+        "The bird has a crest on its head",
+        "The bird has a sturdy, curved beak",
+        "The bird has black legs and feet"
+    ],
+    "Dark-eyed Junco": [
+        "The bird has a small, conical bill",
+        "The bird has a dark hood or cap on its head",
+        "The bird has a white belly",
+        "The bird has a grey or brown back",
+        "The bird has a pink or orange bill",
+        "The bird has white outer tail feathers",
+        "The bird has a small size, about 5-6 inches in length"
+    ],
+    "Tropical Kingbird": [
+        "The bird has a bright yellow belly and chest",
+        "The bird has a dark grey or black head and back",
+        "The bird has a long, pointed bill",
+        "The bird has a distinctive white band on its tail",
+        "The bird has a relatively large size compared to other similar birds",
+        "The bird has a loud and distinctive call",
+        "The bird has a habit of perching prominently on exposed branches or wires",
+        "The bird has a habit of sallying out to catch insects in mid-air"
+    ],
+    "Gray Kingbird": [
+        "The bird has a sleek, gray plumage",
+        "The bird has a object mask around its eyes",
+        "The bird has a long, pointed bill",
+        "The bird has a distinctive white band on its tail",
+        "The bird has a relatively large size compared to other similar birds",
+        "The bird has a strong, upright posture",
+        "The bird has a loud and melodious song",
+        "The bird has a habit of perching prominently on tree branches or wires"
+    ],
+    "Belted Kingfisher": [
+        "The bird has a large head and long, pointed bill",
+        "The bird has a blue-grey back and wings",
+        "The bird has a white collar and belly",
+        "The bird has a shaggy crest on its head",
+        "The bird has a sturdy, straight, and pointed beak",
+        "The bird has a short tail",
+        "The bird has a loud, rattling call"
+    ],
+    "Green Kingfisher": [
+        "The bird has a bright green back and wings",
+        "The bird has a white throat and belly",
+        "The bird has a long, pointed bill",
+        "The bird has a short tail",
+        "The bird has a crest on its head",
+        "The bird has a black mask around its eyes",
+        "The bird has a small size, typically around 7 inches in length"
+    ],
+    "Pied Kingfisher": [
+        "The bird has a black and white plumage",
+        "The bird has a long, pointed bill",
+        "The bird has a crest on its head",
+        "The bird has a short tail",
+        "The bird has a sturdy, compact body",
+        "The bird has a distinctive hovering and diving hunting behavior",
+        "The bird has a loud, rattling call",
+        "The bird is often seen near water bodies such as rivers, lakes, and ponds"
+    ],
+    "Ringed Kingfisher": [
+        "The bird has a large, sturdy bill",
+        "The bird has a distinctive blue-gray color on its head and upperparts",
+        "The bird have a white collar around its neck",
+        "The bird has a rufous belly and breast",
+        "The bird has a long, pointed crest on its head",
+        "The bird has a sturdy, stocky body",
+        "The bird has a long, pointed tail",
+        "The bird has a loud, rattling call"
+    ],
+    "White-breasted Kingfisher": [
+        "The bird has a white breast and belly",
+        "The bird has a bright blue back and wings",
+        "The bird has a large, sturdy bill",
+        "The bird has a short tail",
+        "The bird has a distinctive white patch on its neck",
+        "The bird has a red beak and legs",
+        "The bird has a black mask around its eyes"
+    ],
+    "Red-legged Kittiwake": [
+        "The bird has a white body with black wingtips",
+        "The bird has red legs and feet",
+        "The bird has a yellow bill",
+        "The bird has a black cap on its head",
+        "The bird has a forked tail",
+        "The bird has a small, slender body",
+        "The bird has a wingspan of about 90-100 cm"
+    ],
+    "Horned Lark": [
+        "The bird has a small, slender body",
+        "The bird has a pale yellow or white belly",
+        "The bird has a black mask on its face",
+        "The bird has a short, stubby bill",
+        "The bird has a distinctive black \"horns\" on its head",
+        "The bird has brown and black streaks on its back",
+        "The bird has a long, pointed tail",
+        "The bird has pinkish legs and feet"
+    ],
+    "Pacific Loon": [
+        "The bird has a black head and neck",
+        "The bird has a white belly and underparts",
+        "The bird has a distinctive checkered black and white pattern on its back",
+        "The bird has a long, slender bill",
+        "The bird has a pointed head shape",
+        "The bird has a sleek, streamlined body",
+        "The bird has webbed feet for swimming",
+        "The bird has a low, haunting call"
+    ],
+    "Mallard": [
+        "The bird has a distinctive green head",
+        "The bird has a white ring around its neck",
+        "The bird has a brown chest and grey wings",
+        "The bird has a yellow bill",
+        "The bird has orange legs and feet",
+        "The bird has a speculum, or colored patch on its wings",
+        "The bird has a long, pointed tail",
+        "The bird has a relatively small body size compared to other birds"
+    ],
+    "Western Meadowlark": [
+        "The bird has a bright yellow chest with black V-shaped markings",
+        "The bird has a brown and black streaked back",
+        "The bird have a long, pointed bill",
+        "The bird has a white stripe above the eye",
+        "The bird has a yellow throat",
+        "The bird has a white belly with black streaks",
+        "The bird has a short tail",
+        "The bird has a loud, flute-like song"
+    ],
+    "Hooded Merganser": [
+        "The bird has a distinctive black and white crest on its head",
+        "The bird has a brown body with white patches on the wings",
+        "The bird has a long, thin bill",
+        "The bird has red eyes",
+        "The bird has a small, compact body",
+        "The bird has webbed feet for swimming",
+        "The bird has a pointed tail"
+    ],
+    "Red-breasted Merganser": [
+        "The bird has a long, slender, serrated bill",
+        "The bird has a distinctive red-brown head with a shaggy crest",
+        "The bird has a white neck and breast with black markings",
+        "The bird has a long, thin, pointed tail",
+        "The bird has a grey body with black and white markings",
+        "The bird has webbed feet for swimming",
+        "The bird has a slim, streamlined body for diving and swimming",
+        "The bird has a distinctive, pointed shape when in flight"
+    ],
+    "Mockingbird": [
+        "The bird has a grey or brownish-grey plumage",
+        "The bird has a long tail with white outer feathers",
+        "The bird has a white patch on its wings, which is visible in flight",
+        "The bird has a slender, slightly curved bill",
+        "The bird has a white patch on its wings, which is visible in flight",
+        "The bird has a habit of mimicking the songs of other birds",
+        "The bird has a relatively small size, about 9-11 inches in length"
+    ],
+    "Nighthawk": [
+        "The bird has a distinct silhouette with long, pointed wings and a short, wide tail",
+        "The bird has a dark plumage with a white patch on its throat",
+        "The bird has a hooked beak for catching insects in flight",
+        "The bird has large, wide-set eyes for excellent night vision",
+        "The bird has a habit of perching in open areas, such as fence posts or tree branches, at dusk and dawn"
+    ],
+    "Clark Nutcracker": [
+        "The bird has a black and grey plumage",
+        "The bird has a distinct white patch on its wings",
+        "The bird has a long, pointed bill",
+        "The bird has a relatively large body size",
+        "The bird has a black cap on its head",
+        "The bird has a long, slender tail",
+        "The bird has a strong, sturdy beak for cracking nuts",
+        "The bird has a habit of storing food in caches for later use"
+    ],
+    "White-breasted Nuthatch": [
+        "The bird has a white or light gray breast and belly",
+        "The bird has a black or gray cap on its head",
+        "The bird has a long, pointed bill",
+        "The bird has a short tail",
+        "The bird has a blue-gray back and wings",
+        "The bird has a distinctive black stripe through its eye",
+        "The bird has a compact, stocky body shape"
+    ],
+    "Baltimore Oriole": [
+        "The bird has a bright orange breast and belly",
+        "The bird has a black head and back",
+        "The bird has white wing bars",
+        "The bird has a pointed bill",
+        "The bird has a distinctive black face mask",
+        "The bird has a medium-sized body with a long tail",
+        "The bird has a loud, flute-like song",
+        "The bird has a preference for hanging upside down while feeding"
+    ],
+    "Hooded Oriole": [
+        "The bird has a bright yellow body with black wings and tail",
+        "The bird has a black bib or hood on its head",
+        "The bird has a long, thin, slightly curved beak",
+        "The bird has a pointed crest on its head",
+        "The bird has a relatively small size compared to other bird species",
+        "The bird has a distinctive call or song",
+        "The bird may be seen perched on a branch or feeding from flowers or fruit"
+    ],
+    "Orchard Oriole": [
+        "The bird has a bright orange or yellow body",
+        "The bird has a black head and wings",
+        "The bird has a pointed bill",
+        "The bird has a slender body and long tail",
+        "The bird has a distinctive black eye line",
+        "The bird has a white wing bar",
+        "The bird has a relatively small size compared to other bird species"
+    ],
+    "Scott Oriole": [
+        "The bird has a bright yellow body with black wings and tail",
+        "The bird has a thin, pointed beak",
+        "The bird has a distinctive black mask around its eyes",
+        "The bird has a medium-sized body with a long, slender shape",
+        "The bird has a high-pitched, melodious song",
+        "The bird has a habit of flitting and hopping between branches",
+        "The bird has a preference for feeding on insects and nectar",
+        "The bird has a habit of nesting in open woodlands or forest edges"
+    ],
+    "Ovenbird": [
+        "The bird has a brown and white speckled plumage",
+        "The bird has a distinct white eye ring",
+        "The bird has long, pinkish legs",
+        "The bird has a relatively long, pointed bill",
+        "The bird has a habit of flicking its tail up and down",
+        "The bird has a habit of walking on the ground and flipping leaves to find insects"
+    ],
+    "Brown Pelican": [
+        "The bird has a long, straight bill with a pouch",
+        "The bird has a white head and neck with a brown body",
+        "The bird has long wings and a long, pointed tail",
+        "The bird has webbed feet for swimming and diving",
+        "The bird has a large, bulky body",
+        "The bird has a distinctive, curved neck in flight"
+    ],
+    "White Pelican": [
+        "The bird has a large, white body",
+        "The bird has a long, orange bill",
+        "The bird has black wingtips",
+        "The bird has a wingspan of over 9 feet",
+        "The bird has a long neck",
+        "The bird has webbed feet",
+        "The bird has a distinctive pouch under its bill"
+    ],
+    "Western-Wood Pewee": [
+        "It is a small, insect-eating bird",
+        "The bird is grey or brown",
+        "The bird has a distinct eye ring",
+        "The bird has a short, flat bill",
+        "The bird has a relatively long tail",
+        "The bird has a habit of perching in an upright position",
+        "The bird has a distinctive call or song",
+        "The bird has wing bars or other distinctive markings on its wings"
+    ],
+    "Sayornis": [
+        "The bird has a small, slender body",
+        "The bird has a distinct black or brownish-gray coloration",
+        "The bird has a white or light-colored belly",
+        "The bird has a relatively long, pointed bill",
+        "The bird has a habit of wagging its tail up and down",
+        "The bird has a habit of perching in an upright position",
+        "The bird has a habit of flicking its wings while perched",
+        "The bird has a habit of foraging for insects near water sources"
+    ],
+    "American Pipit": [
+        "The bird has a slender body with a long, thin tail",
+        "The bird has a streaked brown and white plumage",
+        "The bird has a pale eyebrow stripe",
+        "The bird has a thin, pointed bill",
+        "The bird has pink legs and feet",
+        "The bird has a habit of bobbing its tail up and down while foraging",
+        "The bird is often found in open, grassy areas or on rocky terrain"
+    ],
+    "Whip-poor Will": [
+        "The bird has a mottled brown and grey plumage",
+        "The bird has a wide, flat head with large eyes",
+        "The bird has a short, hooked bill",
+        "The bird has a long, rounded tail",
+        "The bird has a distinctive call that sounds like \"object's call\""
+    ],
+    "Horned Puffin": [
+        "The bird has a black and white body",
+        "The bird  has a distinctive orange bill with a yellow tip",
+        "The bird has a white face with black markings",
+        "The bird has small, horn-like projections above its eyes",
+        "The bird has webbed feet for swimming and diving",
+        "The bird has a compact body with a short tail",
+        "The bird has a wingspan of about 25 inches",
+        "The bird has a stocky build and a slightly curved beak"
+    ],
+    "Common Raven": [
+        "The bird has a glossy black plumage",
+        "The bird has a large, stout bill",
+        "The bird has a wedge-shaped tail",
+        "The bird has a distinct throat hackle",
+        "The bird has a deep, croaking call",
+        "The bird has a heavy, powerful build",
+        "The bird has a shaggy throat and chest feathers",
+        "The bird has a prominent, curved beak"
+    ],
+    "White-necked Raven": [
+        "The bird has a black plumage with a distinct white patch on the back of its neck",
+        "The bird has a large, curved beak",
+        "The bird has a thick, shaggy throat feathers",
+        "The bird has a long, wedge-shaped tail",
+        "The bird has a relatively large size compared to other species",
+        "The bird has a distinctive call or vocalization",
+        "The bird has a strong, sturdy build",
+        "The bird has a confident and bold posture"
+    ],
+    "American Redstart": [
+        "The bird has a black head with bright orange patches on the sides",
+        "The bird has a white belly and wing patches",
+        "The bird has a slate-gray back and tail",
+        "The bird has long, thin wings",
+        "The bird has a thin, pointed bill",
+        "The bird has a distinctive tail-wagging behavior",
+        "The bird has a habit of flicking wings and tail while foraging",
+        "The bird has a high-pitched, buzzy song"
+    ],
+    "Geococcyx": [
+        "It is a bird",
+        "The color of the bird is brown and white",
+        "The bird has a long tail",
+        "The bird has a curved beak",
+        "The bird has a crest on its head",
+        "The bird has long legs",
+        "The bird has a distinctive call or vocalization",
+        "The bird has a mottled or spotted pattern on its feathers"
+    ],
+    "Loggerhead Shrike": [
+        "The bird has a black mask across its eyes and a white throat",
+        "The bird has a hooked bill",
+        "The bird has a grey back and wings with black barring",
+        "The bird has a white belly",
+        "The bird has a long, black tail with white outer feathers",
+        "The bird has a hooked bill",
+        "The bird has a slightly hooked bill",
+        "The bird has a hooked bill",
+        "The bird has a slightly hooked bill"
+    ],
+    "Great-Grey Shrike": [
+        "The bird has a distinctive black mask across its eyes",
+        "The bird has a grey back and wings with black and white markings",
+        "The bird has a hooked bill",
+        "The bird has a long tail",
+        "The bird has a white belly",
+        "The bird has a relatively large size compared to other songbirds"
+    ],
+    "Baird Sparrow": [
+        "The bird has a brown and white striped pattern on its back",
+        "The bird has a pale yellow or buffy breast with streaks",
+        "The bird has a distinct facial pattern with a white eyebrow stripe and dark eye line",
+        "The bird has a short, conical bill",
+        "The bird has a relatively small size compared to other birds of its type",
+        "The bird has a habit of foraging on the ground or in low vegetation"
+    ],
+    "Black-throated Sparrow": [
+        "The bird has a black throat patch",
+        "The bird has a white eyebrow stripe",
+        "The bird has a grayish-brown back and wings",
+        "The bird has a white belly",
+        "The bird has a long tail",
+        "The bird has a conical bill",
+        "The bird has a distinct facial pattern with a white stripe above the eye and a black stripe through the eye"
+    ],
+    "Brewer Sparrow": [
+        "The bird has a brown and white striped pattern on its head and back",
+        "The bird has a small, conical bill",
+        "The bird has a pale throat and breast",
+        "The bird has a streaked belly",
+        "The bird has a short, notched tail",
+        "The bird has a grayish-brown color overall",
+        "The bird has a small size, typically around 5-6 inches in length"
+    ],
+    "Chipping Sparrow": [
+        "The bird has a distinctive rusty cap on its head",
+        "The bird has a white eyebrow stripe",
+        "The bird has a gray face and underparts",
+        "The bird has a black line through its eye",
+        "The bird has a thin, pinkish bill",
+        "The bird has a brown back with streaks",
+        "The bird has a long, notched tail",
+        "The bird has a small size, about 5-6 inches in length"
+    ],
+    "Clay-colored Sparrow": [
+        "The bird has a small, conical bill",
+        "The bird has a distinct pale stripe above the eye",
+        "The bird has a buffy or grayish face and breast",
+        "The bird has a distinct white eye ring",
+        "The bird has streaked back and wings",
+        "The bird has a short, notched tail",
+        "The bird has pink legs and feet"
+    ],
+    "House Sparrow": [
+        "The bird has a small, stout body",
+        "The bird has a brown and grey plumage",
+        "The bird has a black bib on its throat",
+        "The bird has a conical bill",
+        "The bird has a short tail",
+        "The bird has a black eye patch",
+        "The bird has a distinctive chirping call",
+        "The bird has a habit of foraging on the ground or in urban areas"
+    ],
+    "Field Sparrow": [
+        "The bird has a brown and white striped head",
+        "The bird has a pink bill",
+        "The bird has a buff-colored chest with dark streaks",
+        "The bird has a rufous crown",
+        "The bird has a white eye ring",
+        "The bird has a streaked back and wings",
+        "The bird has a small size, about 5-6 inches in length"
+    ],
+    "Fox Sparrow": [
+        "The bird has a reddish-brown or grayish-brown plumage",
+        "The bird has a distinct white or grayish supercilium (eyebrow stripe)",
+        "The bird has a heavily streaked breast and belly",
+        "The bird has a large, rounded head with a short, stout bill",
+        "The bird has a long, rounded tail",
+        "The bird has pink legs and feet",
+        "The bird has a white throat with dark streaking",
+        "The bird has a distinct facial pattern with a dark eye line and malar stripe"
+    ],
+    "Grasshopper Sparrow": [
+        "The bird has a streaked brown and white plumage",
+        "The bird has a small, conical bill",
+        "The bird has a short tail",
+        "The bird has a distinct white eye ring",
+        "The bird has a buff-colored chest with dark streaks",
+        "The bird has a relatively small size compared to other birds",
+        "The bird has a habitat preference for object and open fields"
+    ],
+    "Harris Sparrow": [
+        "The bird has a black crown and face",
+        "The bird has a white throat and belly",
+        "The bird has a rusty-red patch on its wings",
+        "The bird has a long tail",
+        "The bird has a conical bill",
+        "The bird has pink legs and feet"
+    ],
+    "Henslow Sparrow": [
+        "The bird has a streaked brown and buffy plumage",
+        "The bird has a distinct white eye ring",
+        "The bird has a short, conical bill",
+        "The bird has a short tail",
+        "The sparrow has pink legs",
+        "The sparrow have a small, rounded head",
+        "The sparrow has a distinct black spot in the center of its chest",
+        "The sparrow has a relatively small size compared to other sparrows"
+    ],
+    "Le-Conte Sparrow": [
+        "The bird has a brown and white striped head",
+        "The bird has a grayish-brown back and wings",
+        "The bird has a pale yellowish breast and belly",
+        "The bird has a short, conical bill",
+        "The bird has a distinct white eye ring",
+        "The bird has a short tail",
+        "The bird has pink legs and feet"
+    ],
+    "Lincoln Sparrow": [
+        "The bird has a brown and grey plumage",
+        "The bird has a distinct white eye ring",
+        "The bird has a streaked breast and belly",
+        "The bird has a short, conical bill",
+        "The bird has a short tail",
+        "The bird has a buffy-colored face",
+        "The bird has a small size, about 5-6 inches in length"
+    ],
+    "Nelson-Sharp-tailed Sparrow": [
+        "The bird has a streaked brown and white plumage",
+        "The bird has a distinct white eyebrow stripe",
+        "The bird has a pointed bill",
+        "The bird has a short tail",
+        "The bird has a buffy breast with streaks",
+        "The bird has a pale throat",
+        "The bird has a relatively small size compared to other birds"
+    ],
+    "Savannah Sparrow": [
+        "The bird has a streaked brown and white plumage",
+        "The bird has a yellow spot above the eye",
+        "The bird has a small, conical bill",
+        "The bird has a short tail",
+        "The bird has pink legs",
+        "The bird has a white belly with dark streaks",
+        "The bird has a distinct facial pattern with a dark crown and light eyebrow line"
+    ],
+    "Seaside Sparrow": [
+        "The bird has a brown or greyish plumage",
+        "The bird has a streaked or mottled appearance on its chest and belly",
+        "The bird has a distinct white eye ring",
+        "The bird has a short, pointed bill",
+        "The bird has a relatively short tail",
+        "The bird has a habitat near coastal marshes or wetlands",
+        "The bird may be seen perched on marsh grasses or reeds",
+        "The bird may be observed foraging for insects or small crustaceans in the marshy areas"
+    ],
+    "Song Sparrow": [
+        "The bird has a brown and white striped head",
+        "The bird has a streaked brown back and wings",
+        "The bird has a white or light-colored chest with dark spots or streaks",
+        "The bird has a long, rounded tail",
+        "The bird has a thin, pointed bill",
+        "The bird has a reddish-brown or pinkish bill",
+        "The bird has a buffy or grayish belly",
+        "The bird has a distinct facial pattern with a dark spot in front of the eye and a light stripe above it"
+    ],
+    "Tree Sparrow": [
+        "The bird has a brown and white striped head",
+        "The bird has a small, conical bill",
+        "The bird has a brown back and wings",
+        "The bird has a white belly",
+        "The bird has a black spot on its cheek",
+        "The bird has a short, forked tail",
+        "The bird has a small size, about 5-6 inches in length"
+    ],
+    "Vesper Sparrow": [
+        "The bird have a brown and white striped crown",
+        "The bird has a white eye ring",
+        "The bird has a streaked brown back and wings",
+        "The bird has a white belly with dark streaks",
+        "The bird has a long, pointed tail",
+        "The bird has a pinkish bill",
+        "The bird has pinkish legs and feet"
+    ],
+    "White-crowned Sparrow": [
+        "The bird has a black and white striped crown",
+        "The bird has a grey face and breast",
+        "The bird has a brown back and wings",
+        "The bird has a pink or yellow bill",
+        "The bird has a white belly",
+        "The bird has a long tail",
+        "The bird has a thin, pointed beak"
+    ],
+    "White-throated Sparrow": [
+        "The bird has a white throat and a black and white striped head",
+        "The bird has a brown or grey back and wings",
+        "The bird has a small, conical bill",
+        "The bird has a long, notched tail",
+        "The bird has pink legs and feet",
+        "The bird has a distinct white patch on its wings",
+        "The bird has a small, round body",
+        "The bird has a distinctive song and call"
+    ],
+    "Cape-Glossy Starling": [
+        "The bird has glossy, iridescent feathers",
+        "The bird has a long, slender bill",
+        "The bird has a distinctive blue or purple sheen on its feathers",
+        "The bird has a yellow eye",
+        "The bird has a short, squared tail",
+        "The bird has a sleek, slender body shape",
+        "The bird has a black or dark colored body with bright, contrasting colors on its wings and tail"
+    ],
+    "Bank Swallow": [
+        "The bird has a brown and white plumage",
+        "The bird has a distinctive dark band across its chest",
+        "The bird has a forked tail",
+        "The bird has a small, conical bill",
+        "The bird has a white underbelly",
+        "The bird has a wingspan of about 11 inches",
+        "The bird has a habit of nesting in burrows in sandy cliffs or banks"
+    ],
+    "Barn Swallow": [
+        "The bird has a distinctive forked tail",
+        "The bird has a deep blue back and wings",
+        "The bird has a red throat and forehead",
+        "The bird has a cream-colored underbelly",
+        "The bird has long, pointed wings",
+        "The bird has a streamlined body",
+        "The bird has a relatively short bill",
+        "The bird has a habit of perching on wires or other man-made structures"
+    ],
+    "Cliff Swallow": [
+        "The bird has a distinct forked tail",
+        "The bird has a dark, iridescent blue back and wings",
+        "The bird has a pale, buffy rump and forehead",
+        "The bird has a dark, rusty-colored throat and forehead",
+        "The bird has a white, crescent-shaped patch on its forehead",
+        "The bird has a relatively short, squared-off tail",
+        "The bird has a small, pointed bill",
+        "The bird has a streamlined, slender body shape"
+    ],
+    "Tree Swallow": [
+        "The bird has a metallic blue-green upper body",
+        "The bird has a white underbody",
+        "The bird has a forked tail",
+        "The bird has a slightly curved, pointed beak",
+        "The bird has long, pointed wings",
+        "The bird has a relatively small size compared to other birds",
+        "The bird has a sleek and streamlined body shape"
+    ],
+    "Scarlet Tanager": [
+        "The bird has a bright red body with black wings and tail",
+        "The bird has a pointed, conical bill",
+        "The bird has a black face and upper body",
+        "The bird has a thick, short neck",
+        "The bird has a medium-sized, slender body",
+        "The bird has long wings and a relatively short tail",
+        "The bird has a distinctive song and call",
+        "The bird has a habit of perching high in trees or flying between them"
+    ],
+    "Summer Tanager": [
+        "The bird has a bright red body",
+        "The bird has a thick, pointed bill",
+        "The bird has a black wing with two white wing bars",
+        "The bird has a short tail",
+        "The bird has a relatively large size compared to other songbirds",
+        "The bird has a distinctive call or song",
+        "The bird may have a slight crest on its head",
+        "The bird may have a slightly darker red color on its wings and tail"
+    ],
+    "Artic Tern": [
+        "The bird has a white body and wings with a black cap on its head",
+        "The bird has a long, pointed beak",
+        "The bird has a forked tail",
+        "The bird has webbed feet",
+        "The bird has a wingspan of approximately 28-30 inches",
+        "The bird has a slender body and long wings",
+        "The bird has a black line running from its eye to the back of its head"
+    ],
+    "Black Tern": [
+        "The bird has a black head, back, and wings",
+        "The bird has a white belly and underparts",
+        "The bird has a forked tail",
+        "The bird has a slender, pointed bill",
+        "The bird has red legs",
+        "The bird has a small size, about 9-10 inches in length",
+        "The bird has a graceful, buoyant flight pattern"
+    ],
+    "Caspian Tern": [
+        "The bird has a large, slender body",
+        "The bird has a black cap on its head",
+        "The bird has a long, orange beak",
+        "The bird has white underparts and grey upperparts",
+        "The bird has long, pointed wings",
+        "The bird has a forked tail",
+        "The bird has black legs and feet"
+    ],
+    "Common Tern": [
+        "The bird has a white body with a black cap on its head",
+        "The bird has a long, pointed bill",
+        "The bird has a forked tail",
+        "The bird has long, slender wings",
+        "The bird has black legs and feet",
+        "The bird has a red-orange beak",
+        "The bird has a black line running through its eye",
+        "The bird has a slender, streamlined body shape"
+    ],
+    "Elegant Tern": [
+        "The bird has a white body and black cap",
+        "The bird has long, slender wings",
+        "The bird has a long, pointed bill",
+        "The bird has a forked tail",
+        "The bird has a black stripe on its outer wing",
+        "The bird has a red-orange bill and legs",
+        "The bird has a black patch on its shoulder",
+        "The bird has a graceful and elegant posture"
+    ],
+    "Forsters Tern": [
+        "The bird has a black cap on its head",
+        "The bird has a white body and wings",
+        "The bird has a forked tail",
+        "The bird has a slender, pointed bill",
+        "The bird has a red-orange bill and legs",
+        "The bird has a black eye patch",
+        "The bird has a medium-sized body with a wingspan of about 30 inches"
+    ],
+    "Least Tern": [
+        "The bird has a white body with a black cap on its head",
+        "The bird has a yellow beak",
+        "The bird has a forked tail",
+        "The bird has short, pointed wings",
+        "The bird has black outer primaries on its wings",
+        "The bird has a small, slender body",
+        "The bird has a black line running through its eye",
+        "The bird has a black patch on the outer edge of its wing"
+    ],
+    "Green-tailed Towhee": [
+        "The bird has a greenish-yellow tail",
+        "The bird has a black head and upper body",
+        "The bird has a white belly",
+        "The bird has a reddish-brown patch on its wings",
+        "The bird has a long, pointed bill",
+        "The bird has pink legs and feet",
+        "The bird has a distinctive call or song",
+        "The bird is typically found in shrubby or wooded areas"
+    ],
+    "Brown Thrasher": [
+        "The bird has a long, curved bill",
+        "The bird has a brownish upper body with streaks",
+        "The bird has a white underbody with dark streaks",
+        "The bird has a long tail with reddish undertail coverts",
+        "The bird has bright yellow eyes",
+        "The bird has a distinct white stripe above the eye",
+        "The bird has rufous-colored wing and tail feathers"
+    ],
+    "Sage Thrasher": [
+        "The bird has a streaked brown and gray plumage",
+        "The bird has a long, slightly curved bill",
+        "The bird has a white throat and belly",
+        "The bird has a distinct white stripe above the eye",
+        "The bird has a long tail with white outer feathers",
+        "The bird has a slightly downward-curved beak",
+        "The bird has a medium-sized, slender body",
+        "The bird has a habit of perching on low shrubs or fences"
+    ],
+    "Black-capped Vireo": [
+        "The bird has a cap on its head",
+        "The bird has a white or light grey throat and underparts",
+        "The bird has olive-green upperparts",
+        "The bird has a small, conical bill",
+        "The bird has a short tail",
+        "The bird has dark eyes",
+        "The bird has thin legs and feet"
+    ],
+    "Blue-headed Vireo": [
+        "The bird has a blue head and back",
+        "The bird has a white throat and belly",
+        "The bird has a distinct black line through its eye",
+        "The bird has a thick, hooked bill",
+        "The bird has a greenish-yellow wash on its sides",
+        "The bird has two white wing bars",
+        "The bird has a relatively short tail compared to its body size"
+    ],
+    "Philadelphia Vireo": [
+        "The bird has a small, compact body",
+        "The bird has a grayish-olive green upper body and a white underbody",
+        "The bird has a distinct white eye stripe",
+        "The bird has a yellow wash on the sides and flanks",
+        "The bird has a thin, pointed bill",
+        "The bird has short wings and a relatively long tail",
+        "The bird has a habit of flicking its wings and tail frequently while foraging"
+    ],
+    "Red-eyed Vireo": [
+        "The bird has a small, compact body",
+        "The bird has a red eye with a white eyebrow stripe",
+        "The bird has olive-green upperparts and white underparts",
+        "The bird has a hooked bill",
+        "The bird has a distinctive song and call",
+        "The bird has a habit of flicking its wings and tail",
+        "The bird has a habit of foraging in the upper canopy of trees"
+    ],
+    "Warbling Vireo": [
+        "The bird has a small, compact body",
+        "The bird has a grayish-olive upper body and white underparts",
+        "The bird has a distinct white eyebrow stripe",
+        "The bird has a thick, hooked bill",
+        "The bird has a habit of constantly flicking its wings while foraging",
+        "The bird has a habit of singing a warbling, melodious song",
+        "The bird has a habit of frequently flicking its tail",
+        "The bird has a habit of foraging in the upper canopy of trees"
+    ],
+    "White-eyed Vireo": [
+        "The bird has a eye ring",
+        "The bird has a yellow wash on the underparts",
+        "The bird has olive-green upperparts",
+        "The bird has a thick, hooked bill",
+        "The bird has a short tail",
+        "The bird has wing bars",
+        "The bird has a distinct facial pattern with a dark line through the eye"
+    ],
+    "Yellow-throated Vireo": [
+        "The bird has a yellow throat and breast",
+        "The bird has a white belly and undertail coverts",
+        "The bird has olive-green upperparts",
+        "The bird has a distinct white eye ring",
+        "The bird has a hooked bill",
+        "The bird has a relatively long tail",
+        "The bird has a black line through the eye",
+        "The bird has a black and white wing pattern"
+    ],
+    "Bay-breasted Warbler": [
+        "The bird has a distinctive chestnut-colored patch on its throat and sides",
+        "The bird has a black streaking on its sides and flanks",
+        "The bird has a pale, streaked back and wings",
+        "The bird has a yellowish wash on its underparts",
+        "The bird has a thin, pointed bill",
+        "The bird has a white patch on its tail",
+        "The bird has a relatively small size compared to other bird species"
+    ],
+    "Black-and-white Warbler": [
+        "The bird has a black and white striped pattern on its back and wings",
+        "The bird has a white belly and undertail coverts",
+        "The bird has a thin, pointed bill",
+        "The bird has a cap on its head",
+        "The bird has a white eyebrow stripe",
+        "The bird has a black and white striped face pattern",
+        "The bird has a long, slender body",
+        "The bird has a habit of creeping and crawling along tree branches and trunks"
+    ],
+    "Black-throated-Blue Warbler": [
+        "The bird has a black throat and face with a white belly",
+        "The bird has a blue upper body and wings",
+        "The bird has a white patch on its wings",
+        "The bird has a thin, pointed bill",
+        "The bird has a relatively small size compared to other birds",
+        "The bird has a distinctive song and call",
+        "The bird has a habit of flicking its wings and tail frequently while foraging"
+    ],
+    "Blue-winged Warbler": [
+        "The bird has a blue-gray head and back",
+        "The bird has a yellow throat and breast",
+        "The bird has a white belly",
+        "The bird has a distinct white wing patch",
+        "The bird has a thin, pointed bill",
+        "The bird has a relatively short tail",
+        "The bird has a black eye line and white eyebrow stripe"
+    ],
+    "Canada Warbler": [
+        "The bird has a bright yellow throat and breast",
+        "The bird has a grey head and back",
+        "The bird has a distinct black necklace-like pattern across its throat",
+        "The bird has a white eye ring",
+        "The bird has olive-green wings and tail",
+        "The bird has a relatively small size compared to other bird species",
+        "The bird has a thin, pointed bill",
+        "The bird has a habit of flicking its tail frequently while foraging"
+    ],
+    "Cape-May Warbler": [
+        "The bird has a yellow throat and breast",
+        "The bird has a black streaking on its sides",
+        "The bird has a white wing patch",
+        "The bird has a distinctive black line through its eye",
+        "The bird has a greenish back and wings",
+        "The bird has a thin, pointed bill",
+        "The bird has a relatively small size compared to other bird species"
+    ],
+    "Cerulean Warbler": [
+        "The bird has a bright blue upper body and wings",
+        "The bird has a white underbelly",
+        "The bird has a thin, pointed beak",
+        "The bird has a distinct eye ring",
+        "The bird has a short tail",
+        "The bird has a small size, typically around 4 inches"
+    ],
+    "Chestnut-sided Warbler": [
+        "The bird has a bright yellow patch on its head",
+        "The bird has a chestnut-colored patch on its side",
+        "The bird has a white belly and undertail coverts",
+        "The bird has a greenish back and wings",
+        "The bird has a thin, pointed bill",
+        "The bird has a relatively small size compared to other bird species",
+        "The bird has a distinctive song and call",
+        "The bird has a habit of flicking its wings and tail while foraging"
+    ],
+    "Golden-winged Warbler": [
+        "The bird has a bright yellow plumage with black wings and a white belly",
+        "The bird has a distinct black mask on its face",
+        "The bird has a thin, pointed bill",
+        "The bird has a short tail",
+        "The bird has a small size, typically around 4-5 inches in length",
+        "The bird has a distinctive song and call",
+        "The bird has a habitat preference for young, regenerating forests or shrubby areas"
+    ],
+    "Hooded Warbler": [
+        "The bird has a black hood on its head",
+        "The bird has bright yellow underparts",
+        "The bird has olive-green upperparts",
+        "The bird has a thin, pointed bill",
+        "The bird has white spots on its tail",
+        "The bird has a relatively small size",
+        "The bird has a distinctive song and call",
+        "The bird has a habit of flicking its wings and tail frequently"
+    ],
+    "Kentucky Warbler": [
+        "The bird has a bright yellow underbelly",
+        "The bird has a dark olive-green back and wings",
+        "The bird has a mask across its eyes",
+        "The bird has a white eye ring",
+        "The bird has a relatively short, thick bill",
+        "The bird has a relatively long tail",
+        "The bird has a relatively small size, about 4 inches long"
+    ],
+    "Magnolia Warbler": [
+        "The bird has a bright yellow throat and chest",
+        "The bird has a black mask across its eyes",
+        "The bird has a white wing patch",
+        "The bird has a greenish back and wings",
+        "The bird has a thin, pointed bill",
+        "The bird has a relatively small size compared to other warbler species",
+        "The bird has a distinctive song and call",
+        "The bird has a habit of flicking its tail frequently while foraging"
+    ],
+    "Mourning Warbler": [
+        "The bird has a yellow throat and chest",
+        "The bird has a gray head and back",
+        "The bird has a distinct black mask across its eyes",
+        "The bird has white spots on its wings",
+        "The bird has a thin, pointed bill",
+        "The bird has a relatively small size compared to other bird species",
+        "The bird has a distinctive song and call that can be heard in the location"
+    ],
+    "Myrtle Warbler": [
+        "The bird has a yellow patch on its rump",
+        "The bird has a white belly and undertail coverts",
+        "The bird has a black streaking on its sides and flanks",
+        "The bird has a white supercilium (eyebrow stripe)",
+        "The bird has a yellow throat and chest",
+        "The bird has a black cap on its head",
+        "The bird has two white wing bars",
+        "The bird has a thin, pointed bill"
+    ],
+    "Nashville Warbler": [
+        "The bird has a bright yellow throat and chest",
+        "The bird has a grey head with a white eye ring",
+        "The bird has olive-green wings and back",
+        "The bird has a thin, pointed bill",
+        "The bird has a white belly",
+        "The bird has a distinct black line through the eye",
+        "The bird has a relatively small size, about 4"
+    ],
+    "Orange-crowned Warbler": [
+        "The bird has a yellowish-green color on its head and back",
+        "The bird has a pale yellow underbelly",
+        "The bird has a thin, pointed bill",
+        "- The bird has a relatively plain appearance with subtle streaking on its sides",
+        "The bird has a relatively small size, compared to other warbler species",
+        "The bird has a habit of flicking its wings and tail frequently",
+        "The bird has a distinctive song and call, which can also help with identification"
+    ],
+    "Palm Warbler": [
+        "The bird has a brownish-olive back and wings",
+        "The bird has a yellow underbelly and throat",
+        "The bird has a distinct rusty cap on its head",
+        "The bird has a thin, pointed bill",
+        "The bird has a habit of constantly bobbing its tail",
+        "The bird has a white eye-ring",
+        "The bird has a relatively small size compared to other species"
+    ],
+    "Pine Warbler": [
+        "The bird has a yellowish-green plumage",
+        "The bird has a thin, pointed bill",
+        "The bird has a white wing bar",
+        "The bird has a white belly",
+        "The bird has a distinctive eye ring",
+        "The bird has a relatively long tail",
+        "The bird has a small size, about 5-6 inches in length"
+    ],
+    "Prairie Warbler": [
+        "The bird has a bright yellow throat and breast",
+        "The bird has a streaked back and wings",
+        "The bird has a thin, pointed bill",
+        "The bird has a white belly",
+        "The bird has a black eye line",
+        "The bird has a relatively small size compared to other warbler species",
+        "The bird has a distinctive song and call",
+        "The bird has a habit of flicking its tail up and down while foraging"
+    ],
+    "Prothonotary Warbler": [
+        "The bird has a bright yellow head and chest",
+        "The bird has a blue-grey back and wings",
+        "The bird has a relatively long, pointed bill",
+        "The bird has a relatively short tail",
+        "The bird has black legs and feet",
+        "The bird has a relatively small size, compared to other species of warblers",
+        "The bird has a distinctive song and call",
+        "The bird may be seen in or near wetland habitats"
+    ],
+    "Swainson Warbler": [
+        "The bird has a brownish-olive upper body and a white belly",
+        "The bird has a distinct white eyebrow stripe",
+        "The bird has a long, thin bill",
+        "The bird has a relatively short tail",
+        "The bird has a buffy throat and breast",
+        "The bird has a distinct pattern of streaks on its back and wings",
+        "The bird has a relatively small size compared to other warbler species"
+    ],
+    "Tennessee Warbler": [
+        "The bird has a yellowish-green back and wings",
+        "The bird has a white belly and undertail coverts",
+        "The bird has a distinct white eye ring",
+        "The bird has a thin, pointed bill",
+        "The bird has a short tail",
+        "The bird has a slight yellow wash on the breast and sides",
+        "The bird has a grayish head and neck",
+        "The bird has two white wing bars"
+    ],
+    "Wilson Warbler": [
+        "The bird has a bright yellow plumage on its underparts",
+        "The bird has a dark olive-green plumage on its upperparts",
+        "The bird has a black cap on its head",
+        "The bird has a thin, pointed bill",
+        "The bird has a white eye ring",
+        "The bird has a relatively short tail",
+        "The bird has thin, pointed wings",
+        "The bird has a small, compact body"
+    ],
+    "Worm-eating Warbler": [
+        "The bird has a brownish-olive upper body and a white underbelly",
+        "The bird has a distinct black eye stripe and a white eyebrow stripe",
+        "The bird has a thin, pointed bill",
+        "The bird has a short tail",
+        "The bird has a relatively small size, compared to other object species",
+        "The bird has a habit of foraging on the ground for insects and worms"
+    ],
+    "Yellow Warbler": [
+        "The bird has bright yellow plumage",
+        "The bird has a small, pointed beak",
+        "The bird has a thin, black eye line",
+        "The bird has a white underside",
+        "The bird has a relatively small size compared to other object species",
+        "The bird has a distinct song and call",
+        "The bird has a habit of flicking its tail up and down",
+        "The bird has a preference for open woodlands and edges of forests"
+    ],
+    "Northern Waterthrush": [
+        "The bird has a brown and white striped head and back",
+        "The bird has a white eyebrow stripe",
+        "The bird has a white throat and belly",
+        "The bird has long, pinkish legs",
+        "The bird has a long, slightly curved bill",
+        "The bird has a white stripe above the eye",
+        "The bird has a buffy wash on the chest and flanks"
+    ],
+    "Louisiana Waterthrush": [
+        "The bird has a distinct white eyebrow stripe",
+        "The bird has a brownish-olive upper body and white underparts",
+        "The bird has long, pinkish legs",
+        "The bird has a long, slightly curved bill",
+        "The bird has a white throat and breast with heavy streaking",
+        "The bird has a habit of bobbing its tail up and down while foraging near water sources"
+    ],
+    "Bohemian Waxwing": [
+        "The bird has a sleek, brownish-gray body",
+        "The bird has a black mask around its eyes",
+        "The bird has a yellow-tipped tail",
+        "The bird has a crest on its head",
+        "The bird has a small, pointed beak",
+        "The bird has a yellow band on its wings",
+        "The bird has a red waxy substance on the tips of its secondary feathers"
+    ],
+    "Cedar Waxwing": [
+        "The bird has a sleek, brownish-gray body",
+        "The bird has a black mask across its eyes and a crest on its head",
+        "The bird has a yellow belly and a yellow band at the tip of its tail",
+        "The bird has red waxy tips on its secondary feathers",
+        "The bird has a short, wide bill",
+        "The bird has a pointed crest on its head",
+        "The bird has a thin, black bandit mask across its eyes"
+    ],
+    "American-Three-toed Woodpecker": [
+        "The bird has a black and white plumage",
+        "The bird has a red patch on its head",
+        "The bird has a short, chisel-like bill",
+        "The bird has a distinctive foot",
+        "The bird has a pointed tail",
+        "The bird has a small size, typically around 8 inches in length",
+        "The bird has a unique pattern of black and white stripes on its back and wings"
+    ],
+    "Pileated Woodpecker": [
+        "The bird has a distinctive red crest on its head",
+        "The bird has a black body with white stripes on its face and neck",
+        "The bird has a long, chisel-like bill",
+        "The bird has a white patch on its wings",
+        "The bird has a large size, measuring around 16-19 inches in length",
+        "The bird has a loud, distinctive call",
+        "The bird is often seen foraging on tree trunks or flying between trees"
+    ],
+    "Red-bellied Woodpecker": [
+        "The bird has a red cap on its head",
+        "The bird has a black and white striped back",
+        "The bird has a pale belly with a red tinge",
+        "The bird has a long, chisel-like bill",
+        "The bird has a zebra-like pattern on its wings",
+        "The bird has a sturdy, pointed tail",
+        "The bird has a white patch above their bill",
+        "The bird has a black and white barred pattern on its wings"
+    ],
+    "Red-cockaded Woodpecker": [
+        "The bird has a black and white striped back",
+        "The bird has a small red patch on the side of its head (the \"cockade\")",
+        "The bird has a long, pointed beak",
+        "The bird has a white cheek and underparts",
+        "The bird has a black cap on its head",
+        "The bird has a barred pattern on its wings",
+        "The bird has a relatively small size compared to other birds"
+    ],
+    "Red-headed Woodpecker": [
+        "The bird has a bright red head",
+        "The bird has a black and white body",
+        "The bird has a pointed beak",
+        "The bird has a sturdy, straight tail",
+        "The bird has a strong, chisel-like bill",
+        "The bird has a zebra-striped back",
+        "The bird has a white rump",
+        "The bird has black and white wings with bold white patches"
+    ],
+    "Downy Woodpecker": [
+        "The bird has a black and white striped pattern on its back and wings",
+        "The bird has a white belly",
+        "The bird has a red patch on the back of its head",
+        "The bird has a short, chisel-like bill",
+        "The bird has a small size, about 6-7 inches in length",
+        "The bird has a pointed tail",
+        "The bird has a distinctive hopping movement while foraging for food",
+        "The bird has a habit of drumming on trees to communicate and establish territory"
+    ],
+    "Bewick Wren": [
+        "The bird has a brown and white speckled plumage",
+        "The bird has a long, thin beak",
+        "The bird has a distinctive white eyebrow stripe",
+        "The bird has a short tail",
+        "The bird has a small, compact body\n",
+        "The bird has a habit of cocking its tail upward",
+        "The bird has a habit of flicking its wings downward",
+        "The bird has a habit of singing loudly and melodically"
+    ],
+    "Cactus Wren": [
+        "The bird has a distinctive white stripe above the eye",
+        "The bird has a long, slightly curved bill",
+        "The bird has a mottled brown and white plumage",
+        "The bird has a long tail with black and white barring",
+        "The bird has a white throat and belly",
+        "The bird has a bold white stripe on the wings",
+        "The bird has a relatively large size for a bird, about 7-8 inches in length"
+    ],
+    "Carolina Wren": [
+        "The bird has a reddish-brown back and a white belly",
+        "The bird has a distinctive white eyebrow stripe",
+        "The bird has a long, slightly curved bill",
+        "The bird has a short tail that is often held upright",
+        "The bird has a loud and melodious song",
+        "The bird has a relatively small size, about 5-6 inches in length",
+        "The bird has a habit of cocking its tail upward",
+        "The bird has a habit of flicking its wings downward and spreading its tail when agitated"
+    ],
+    "House Wren": [
+        "The bird has a brown or grey back and wings",
+        "The bird has a light-colored belly",
+        "The bird has a long, thin beak",
+        "The bird has a distinctive white eyebrow stripe",
+        "The bird has a short tail that is often cocked upward",
+        "The bird has a small size, typically around 4-5 inches in length",
+        "The bird has a loud and melodious song",
+        "The bird has a habit of cocking its tail and flicking its wings while foraging"
+    ],
+    "Marsh Wren": [
+        "The bird has a brown and white striped back",
+        "The bird has a long, thin bill",
+        "The bird has a white throat and belly",
+        "The bird has a short tail that is often held upright",
+        "The bird has a distinct white stripe above the eye",
+        "The bird has a mottled brown and black pattern on the wings",
+        "The bird has a habit of flicking its tail up and down while foraging in marshy areas"
+    ],
+    "Rock Wren": [
+        "The bird has a brown and white mottled plumage",
+        "The bird has a short, thin bill",
+        "The bird has a long, slightly curved tail",
+        "The bird has a white stripe above the eye",
+        "The bird has a compact, rounded body shape",
+        "The bird has a habit of perching on rocks or low vegetation",
+        "The bird has a distinctive, melodious song"
+    ],
+    "Winter Wren": [
+        "The bird has a small, compact body",
+        "The bird has a short tail",
+        "The bird has a brown or reddish-brown coloration",
+        "The bird has a distinctive white eyebrow stripe",
+        "The bird has a mottled or spotted appearance on its back",
+        "The bird has a relatively short, thin bill",
+        "The bird has a habit of flicking its tail up and down",
+        "The bird has a habit of holding its tail upright",
+        "The bird has a habit of foraging low to the ground in dense vegetation"
+    ],
+    "Common Yellowthroat": [
+        "The bird has a bright yellow throat and breast",
+        "The bird has a distinctive black mask across its eyes",
+        "The bird has olive-green upperparts",
+        "The bird has a relatively small size, about 4"
+    ]
+}

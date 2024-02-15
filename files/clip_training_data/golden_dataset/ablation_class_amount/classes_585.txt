@@ -1,0 +1,585 @@
+brazil-nut,-brazil-nut-tree,-Bertholletia excelsa
+crane
+chicken,-Gallus gallus
+tom, tomcat
+forget-me-not,-mouse-ear,-Myosotis scorpiodes
+cherry-plum,-myrobalan,-myrobalan-plum,-Prunus cerasifera
+large-periwinkle,-Vinca major
+cape-gooseberry,-purple-ground-cherry,-Physalis peruviana
+cinnamon,-Ceylon-cinnamon,-Ceylon-cinnamon-tree,-Cinnamomum zeylanicum
+night-jasmine,-night-jessamine,-Cestrum nocturnum
+cymbid, cymbidium
+black-calla,-Arum palaestinum
+stream-orchid,-chatterbox,-giant-helleborine,-Epipactis gigantea
+spruce-grouse,-Canachites canadensis
+angel-shark,-angelfish,-Squatina-squatina, monkfish
+guano-bat,-Mexican-freetail-bat,-Tadarida brasiliensis
+lab-bench,-laboratory bench
+gesneria
+common-caper,-Capparis spinosa
+elapid,-elapid snake
+salt-reed-grass,-Spartina cynosuroides
+raspberry,-raspberry bush
+thoroughbred,-purebred, pureblood
+green-snake,-grass snake
+lady palm
+pygmy-mouse,-Baiomys taylori
+bird-of-prey,-raptor,-raptorial bird
+flowering-wintergreen,-gaywings,-bird-on-the-wing,-fringed-polygala,-Polygala paucifolia
+trichina,-Trichinella spiralis
+apar,-three-banded-armadillo,-Tolypeutes tricinctus
+American-bittern,-stake-driver,-Botaurus lentiginosus
+aircraft engine
+coral-snake,-harlequin-snake,-New-World-coral snake
+granadilla,-sweet-granadilla,-Passiflora ligularis
+caranday,-caranda,-caranda-palm,-wax-palm,-Copernicia-australis,-Copernicia alba
+bison
+African-lily,-African-tulip,-blue-African-lily,-Agapanthus africanus
+Carolina-chickadee,-Parus carolinensis
+cactus-mouse,-Peromyscus eremicus
+neuropteron,-neuropteran,-neuropterous insect
+gymnosperm
+exercise-bike, exercycle
+horned owl
+California-black-walnut,-Juglans californica
+European-larch,-Larix decidua
+dealfish,-Trachipterus arcticus
+Alpine-lady-fern,-Athyrium distentifolium
+nagi,-Nageia nagi
+grassy-death-camas,-Zigadenus-venenosus,-Zigadenus-venenosus gramineus
+pond-pine,-Pinus serotina
+tardigrade
+European-spider-crab,-king-crab,-Maja squinado
+sild
+mastic,-mastic-tree,-lentisk,-Pistacia lentiscus
+clupeid-fish, clupeid
+bitter-almond,-Prunus-dulcis-amara,-Amygdalus-communis amara
+Japanese-lilac,-Syringa villosa
+daphnia,-water flea
+weasel
+great-ape, pongid
+sunray,-Enceliopsis nudicaulis
+dugong,-dugong dugon
+mosquitofish,-Gambusia affinis
+woodbine,-Lonicera periclymenum
+hortensia,-Hydrangea-macrophylla hortensis
+boat racing
+New-Zealand-daisybush,-Olearia haastii
+chrysanthemum
+fetid-bugbane,-foetid-bugbane,-Cimicifuga foetida
+ostrich,-struthio camelus
+arrowworm, chaetognath
+Queensland-bottletree,-narrow-leaved-bottletree,-Brachychiton-rupestris,-Sterculia rupestris
+scarlet-bugler,-Penstemon centranthifolius
+jennet,-jenny,-jenny ass
+woodworm
+dairy-cattle,-dairy-cow,-milch-cow,-milk-cow,-milcher, milker
+marlin
+abortus
+antelope
+brassavola
+leaf-footed-bug,-leaf-foot bug
+figwort
+reef-squirrelfish,-Holocentrus coruscus
+proboscis-monkey,-Nasalis larvatus
+aphid
+loligo
+egyptian cat
+northern-oriole,-Icterus galbula
+scarlet-oak,-Quercus coccinea
+gibbon,-Hylobates lar
+pecan,-pecan-tree,-Carya-illinoensis,-Carya illinoinsis
+ground-snake,-Sonora semiannulata
+wether
+bullfrog,-rana catesbeiana
+sour-cherry,-Eugenia corynantha
+hind
+bicolor-lespediza,-ezo-yama-hagi,-Lespedeza bicolor
+snag
+western-spadefoot,-Scaphiopus hammondii
+testudineus
+runner,-blue-runner,-Caranx crysos
+gromwell,-Lithospermum officinale
+saffron,-saffron-crocus,-Crocus sativus
+blue-eyed-Mary,-Collinsia verna
+stock, gunstock
+swan-orchid,-swanflower,-swan-flower,-swanneck, swan-neck
+coconut, cocoanut
+pipewort,-Eriocaulon aquaticum
+bush-violet, browallia
+carpet-moth,-tapestry-moth,-Trichophaga tapetzella
+caddis-fly,-caddis-fly,-caddice-fly, caddice-fly
+fur seal
+streambed, creek_bed
+saddle-oyster,-Anomia ephippium
+Australian-blacksnake,-Pseudechis porphyriacus
+trombiculid
+pigeon-pea,-pigeon-pea-plant,-cajan-pea,-catjang-pea,-red-gram,-dhal,-dahl,-Cajanus cajan
+yellow-honeysuckle,-Lonicera flava
+tabby, queen
+hog,-pig,-grunter,-squealer,-sus scrofa
+whinchat,-Saxicola rubetra
+urial,-Ovis vignei
+hyena, hyaena
+myrtaceous tree
+hornbeam
+cochin,-cochin china
+Euphausia pacifica
+American-arborvitae,-northern-white-cedar,-white-cedar,-Thuja occidentalis
+car,-auto,-automobile,-machine, motorcar
+incense tree
+wing chair
+purple-fringeless-orchid,-purple-fringeless-orchis,-Habenaria peramoena
+mango
+redshank,-tringa totanus
+cubeb
+true lobster
+grey-skate,-gray-skate,-Raja batis
+scilla, squill
+tiger-snake,-Notechis scutatus
+sacred-ibis,-Threskiornis aethiopica
+froghopper
+lamb's-quarters,-pigweed,-wild-spinach,-Chenopodium album
+friar's-cowl,-Arisarum vulgare
+botfly
+hymenopterous-insect,-hymenopteran,-hymenopteron, hymenopter
+tongueflower, tongue-flower
+medlar,-medlar-tree,-Mespilus germanica
+tulip-tree,-tulip-poplar,-yellow-poplar,-canary-whitewood,-Liriodendron tulipifera
+Texas tortoise
+Moreton-Bay-chestnut,-Australian chestnut
+convolvulus
+diapheromera,-Diapheromera femorata
+bullock
+Rocky-Mountain-bee-plant,-stinking-clover,-Cleome serrulata
+schistosome,-blood fluke
+patas,-hussar-monkey,-Erythrocebus patas
+sand rat
+coati,-coati-mondi,-coati-mundi,-coon-cat,-Nasua narica
+sailing-vessel,-sailing ship
+Welsh terrier
+siskin,-Carduelis spinus
+broad-bean,-fava-bean, horsebean
+nut-leaved-screw-tree,-Helicteres isora
+Australopithecus boisei
+car,-elevator car
+mountain-goat,-Rocky-Mountain-goat,-Oreamnos americanus
+oil palm
+pink-shower,-pink-shower-tree,-horse-cassia,-Cassia grandis
+soapberry vine
+papyrus
+ephedra,-joint fir
+wild-boar,-boar,-Sus scrofa
+aoudad,-arui,-audad,-Barbary-sheep,-maned-sheep,-Ammotragus lervia
+naranjilla,-Solanum quitoense
+fingerling
+metasequoia,-dawn-redwood,-Metasequoia glyptostrodoides
+tumblebug
+apple-maggot,-railroad-worm,-Rhagoletis pomonella
+fringepod, lacepod
+cyclostome
+green-hellebore,-Helleborus viridis
+red-jungle-fowl,-Gallus gallus
+bloodwood-tree,-kiaat,-Pterocarpus angolensis
+sand snake
+water_bed
+winter's-bark,-winter's-bark-tree,-Drimys winteri
+balsam-willow,-Salix pyrifolia
+cocozelle
+evergreen-huckleberry,-Vaccinium ovatum
+sulfur-paintbrush,-Castilleja sulphurea
+Manila-grass,-Japanese-carpet-grass,-Zoysia matrella
+herbage, pasturage
+slider,-yellow-bellied-terrapin,-Pseudemys scripta
+spring chicken
+Stapelias asterias
+nymph
+limber-pine,-Pinus flexilis
+apple,-orchard-apple-tree,-Malus pumila
+woolly-bear,-woolly-bear caterpillar
+shepherd-dog,-sheepdog,-sheep dog
+lizardfish,-snakefish, snake-fish
+Canada-thistle,-creeping-thistle,-Cirsium arvense
+common-eland,-Taurotragus oryx
+caraway
+rabbit,-coney, cony
+bird's-foot-trefoil,-Trigonella ornithopodioides
+western-tanager,-Piranga ludoviciana
+kola-nut,-cola nut
+bastard-pennyroyal,-Trichostema dichotomum
+cat's-tail,-bullrush,-bulrush,-nailrod,-reed-mace,-reedmace,-Typha latifolia
+manglietia,-genus Manglietia
+sleeping-car,-sleeper, wagon-lit
+tipu,-tipu-tree,-yellow-jacaranda,-pride-of Bolivia
+mink
+Dalmatian-iris,-Iris pallida
+mara,-Dolichotis patagonum
+liliaceous plant
+common-dolphin,-Delphinus delphis
+honey-buzzard,-Pernis apivorus
+Pyrenees-daisy,-Leucanthemum-lacustre,-Chrysanthemum lacustre
+carangid-fish, carangid
+bok-choy,-bok-choi,-pakchoi,-pak-choi,-Chinese-white-cabbage,-Brassica-rapa chinensis
+eastern-ground-snake,-Potamophis-striatula,-Haldea striatula
+bee eater
+domestic-silkworm-moth,-domesticated-silkworm-moth,-Bombyx mori
+scarlet-wisteria-tree,-vegetable-hummingbird,-Sesbania grandiflora
+true-laurel,-bay,-bay-laurel,-bay-tree,-Laurus nobilis
+game bird
+annual-fern,-Jersey-fern,-Anogramma leptophylla
+common-canary,-Serinus canaria
+bog-pimpernel,-Anagallis tenella
+silverback
+ringlet,-ringlet butterfly
+little-skate,-Raja erinacea
+peludo,-poyou,-Euphractus sexcinctus
+beach-strawberry,-Chilean-strawberry,-Fragaria chiloensis
+solitary-vireo,-Vireo solitarius
+senna
+chives,-chive,-cive,-schnittlaugh,-Allium schoenoprasum
+wild-cotton,-Arizona-wild-cotton,-Gossypium thurberi
+brazil-nut, brazil
+mule
+brooklime,-American-brooklime,-Veronica americana
+weeping-spruce,-Brewer's-spruce,-Picea breweriana
+galangal,-Alpinia galanga
+ceratodus
+alpine-bearberry,-black-bearberry,-Arctostaphylos alpina
+sand cat
+horse-mackerel,-saurel,-Trachurus trachurus
+stinging-nettle,-Urtica dioica
+covered_couch
+angora,-angora rabbit
+Russian-dandelion,-kok-saghyz,-kok-sagyz,-Taraxacum kok-saghyz
+blackpoll,-Dendroica striate
+thyme
+prickly-ash,-Orites excelsa
+common-daisy,-English-daisy,-Bellis perennis
+long-head-coneflower,-prairie-coneflower,-Ratibida columnifera
+Japanese-wistaria,-Wisteria floribunda
+coral
+homopterous-insect, homopteran
+satyr-orchid,-Coeloglossum bracteatum
+sanderling,-Crocethia alba
+leaf-bug,-plant bug
+tiglon, tigon
+blue, blueness
+bearberry-willow,-Salix uva-ursi
+southern-flying-squirrel,-Glaucomys volans
+redpoll,-Carduelis hornemanni
+herb
+desert-plume,-prince's-plume,-Stanleya-pinnata,-Cleome pinnata
+American-coot,-marsh-hen,-mud-hen,-water-hen,-Fulica americana
+weld
+tree-of knowledge
+pike-perch,-pike perch
+creeping-oxalis,-creeping-wood-sorrel,-Oxalis corniculata
+miller,-milling machine
+emperor-butterfly, emperor
+draba
+nautilus,-nuclear-submarine,-nuclear-powered submarine
+Guinea-pepper,-negro-pepper,-Xylopia aethiopica
+decumary,-Decumaria-barbata,-Decumaria barbara
+peach
+herb-Paris,-Paris quadrifolia
+mossy-saxifrage,-Saxifraga hypnoides
+piping-crow,-piping-crow-shrike,-Gymnorhina tibicen
+edible-banana,-Musa-paradisiaca sapientum
+early-coral-root,-pale-coral-root,-Corallorhiza trifida
+ern,-erne,-grey-sea-eagle,-gray-sea-eagle,-European-sea-eagle,-white-tailed-sea-eagle,-Haliatus albicilla
+boarhound
+macrotus,-Macrotus californicus
+citron
+nakedwood
+common-iguana,-iguana,-iguana iguana
+spruce
+barren-ground-caribou,-Rangifer arcticus
+ribbon-tree,-ribbonwood,-Plagianthus-regius,-Plagianthus betulinus
+butterweed
+weather ship
+Hall's-honeysuckle,-Lonicera-japonica halliana
+jungle cock
+Edmontonia
+common-eel,-freshwater eel
+Easter-lily,-Bermuda-lily,-white-trumpet-lily,-Lilium longiflorum
+veronica, speedwell
+yellow-sand-verbena,-Abronia latifolia
+red-drum,-channel-bass,-redfish,-Sciaenops ocellatus
+kingfisher-daisy,-Felicia bergeriana
+stingray
+platform_bed
+umbrella-bird,-Cephalopterus ornatus
+hairy-wood-mint,-Blephilia hirsuta
+Seneca-snakeroot,-Seneka-snakeroot,-senga-root,-senega-root,-senega-snakeroot,-Polygala senega
+heliophila
+Swiss-mountain-pine,-mountain-pine,-dwarf-mountain-pine,-mugho-pine,-mugo-pine,-Pinus mugo
+smooth-hammerhead,-Sphyrna zygaena
+eider,-eider duck
+spider orchid
+sandwort,-Moehringia lateriflora
+upland-cotton,-Gossypium hirsutum
+panther
+squirrel
+chinook,-chinook-salmon,-king-salmon,-quinnat-salmon,-Oncorhynchus tshawytscha
+cockspur,-Pisonia aculeata
+Mexican-poppy,-Argemone mexicana
+silk-vine,-Periploca graeca
+kidney bean
+gourd,-gourd vine
+bladder worm
+ribbon-fern,-spider-fern,-Pteris serrulata
+bicycle,-bike,-wheel, cycle
+crossopterygian,-lobefin,-lobe-finned fish
+cassava, manioc
+adder,-common-viper,-Vipera berus
+Bletilla-striata,-Bletia striata
+European-wildcat,-catamountain,-Felis silvestris
+jumping-bristletail, machilid
+daisy-fleabane,-Erigeron annuus
+pussy-willow,-Salix discolor
+griffon,-wire-haired-pointing griffon
+blackbird,-merl,-merle,-ouzel,-ousel,-European-blackbird,-Turdus merula
+valerian
+painted-beauty,-Vanessa virginiensis
+beech,-beech tree
+Pinot noir
+friendship-plant,-panamica,-panamiga,-Pilea involucrata
+bell-heather,-heather-bell,-fine-leaved-heath,-Erica cinerea
+bird-louse,-biting-louse, louse
+cocozelle,-Italian-vegetable marrow
+mirror carp
+gramineous-plant,-graminaceous plant
+fig-bird
+sled-dog,-sledge dog
+strawflower
+Pacific-tree-toad,-Hyla regilla
+glasswort,-samphire,-Salicornia europaea
+pikeblenny
+wild-lily-of-the-valley,-shinleaf,-Pyrola elliptica
+stealth aircraft
+hawksbill-turtle,-hawksbill,-hawkbill,-tortoiseshell-turtle,-Eretmochelys imbricata
+service-tree,-sorb-apple,-sorb-apple-tree,-Sorbus domestica
+pelycosaur
+automobile-horn,-car-horn,-motor-horn,-horn, hooter
+spider-orchid,-Brassia verrucosa
+star-saxifrage,-starry-saxifrage,-Saxifraga stellaris
+American-larch,-tamarack,-black-larch,-Larix laricina
+interrupted-fern,-Osmunda clatonia
+purple-saxifrage,-Saxifraga oppositifolia
+ground-beetle,-carabid beetle
+tapir
+bird's-foot-fern,-Pellaea-mucronata,-Pellaea ornithopus
+dickeybird,-dickey-bird,-dickybird, dicky-bird
+goldthread,-golden-thread,-Coptis-groenlandica,-Coptis-trifolia groenlandica
+flycatching warbler
+amaranth
+amphibian,-amphibious vehicle
+Boston-ivy,-Japanese-ivy,-Parthenocissus tricuspidata
+miniature-fan-palm,-bamboo-palm,-fern-rhapis,-Rhapis excelsa
+stanhopea
+heliothis-moth,-Heliothis zia
+silkworm
+car-tire,-automobile-tire,-auto-tire,-rubber tire
+bobcat,-bay-lynx,-Lynx rufus
+eastern-coral-snake,-Micrurus fulvius
+American-red-elder,-red-berried-elder,-stinking-elder,-Sambucus pubens
+ketembilla,-kitembilla,-kitambilla,-ketembilla-tree,-Ceylon-gooseberry,-Dovyalis hebecarpa
+cow, moo-cow
+chokecherry
+bronco,-bronc, broncho
+brill,-Scophthalmus rhombus
+butternut-squash,-Cucurbita maxima
+hyrax,-coney,-cony,-dassie, das
+European-ladies'-tresses,-Spiranthes spiralis
+blue-whale,-sulfur-bottom,-Balaenoptera musculus
+night-snake,-hypsiglena torquata
+rock-dove,-rock-pigeon,-Columba livia
+pondweed
+drill
+kaki,-Himantopus novae-zelandiae
+tiger cat
+European-rabbit,-Old-World-rabbit,-Oryctolagus cuniculus
+Jamaica-dogwood,-fish-fuddle,-Piscidia-piscipula,-Piscidia erythrina
+mutisia
+wing-nut,-wing-nut,-wing-screw,-butterfly-nut, thumbnut
+grunt
+Turk's-cap,-Turk's-cap-lily,-Lilium superbum
+bladder fern
+featherfoil, feather-foil
+deathwatch-beetle,-deathwatch,-Xestobium rufovillosum
+blackjack,-cosh, sap
+South-African-yellowwood,-Podocarpus latifolius
+catmint,-catnip,-Nepeta cataria
+bryanthus
+bowerbird, catbird
+beluga,-hausen,-white-sturgeon,-Acipenser huso
+tangerine,-tangerine tree
+apolemia
+tamandua,-tamandu,-lesser-anteater,-Tamandua tetradactyla
+ankylosaur, ankylosaurus
+feijoa,-feijoa bush
+endive,-witloof,-Cichorium endivia
+chestnut oak
+star-anise,-Chinese-anise,-Illicium verum
+licorice, liquorice
+baggage-car,-luggage van
+oyster-bed,-oyster-bank,-oyster park
+rampion,-rampion-bellflower,-Campanula rapunculus
+wasp
+squaw-grass,-bear-grass,-Xerophyllum tenax
+leaf-lettuce,-Lactuca-sativa crispa
+Spodoptera frugiperda
+red-alder,-Oregon-alder,-Alnus rubra
+Jerusalem-sage,-Phlomis fruticosa
+eastern-woodrat,-Neotoma floridana
+sarsaparilla
+plectognath,-plectognath fish
+bluebonnet,-buffalo-clover,-Texas-bluebonnet,-Lupinus subcarnosus
+corn-earworm,-cotton-bollworm,-tomato-fruitworm,-tobacco-budworm,-vetchworm,-Heliothis zia
+common-shiner,-silversides,-Notropis cornutus
+Florida-pompano,-Trachinotus carolinus
+shire,-shire horse
+winged-elm,-wing-elm,-Ulmus alata
+snowbell,-Styrax obassia
+alpine-ash,-mountain-oak,-Eucalyptus delegatensis
+homeotherm,-homoiotherm, homotherm
+muscat,-muscatel,-muscat grape
+silver-maple,-Acer saccharinum
+sapsucker
+pokeweed
+Helix hortensis
+privet
+leopardess
+hawkmoth,-hawk-moth,-sphingid,-sphinx-moth,-hummingbird moth
+cacao,-cacao-tree,-chocolate-tree,-Theobroma cacao
+currant
+butterfly-orchid,-butterfly-orchis,-Orchis papilionaceae
+fruit tree
+slippery-dick,-Halicoeres bivittatus
+muscadine,-bullace grape
+tree,-tree diagram
+American-copper,-Lycaena hypophlaeas
+Arabidopsis-thaliana,-mouse-ear cress
+acrodont
+colicroot,-colic-root,-crow-corn,-star-grass,-unicorn root
+millettia
+wombat
+skunk,-polecat,-wood pussy
+venomous lizard
+Australian heath
+embryo,-conceptus,-fertilized egg
+Spanish-cedar,-Spanish-cedar-tree,-Cedrela odorata
+florida-selaginella,-Selaginella eatonii
+brittlebush,-brittle-bush,-incienso,-Encelia farinosa
+red-backed-sandpiper,-dunlin,-Erolia alpina
+granadilla,-purple-granadillo,-Passiflora edulis
+Montagu's-harrier,-Circus pygargus
+water-speedwell,-Veronica-michauxii,-Veronica anagallis-aquatica
+carnauba,-carnauba-palm,-wax-palm,-Copernicia-prunifera,-Copernicia cerifera
+deciduous plant
+bench hook
+guinea-pig,-Cavia cobaya
+amazon
+godwit
+edible-sea-urchin,-Echinus esculentus
+arctic-willow,-Salix arctica
+Egyptian-vulture,-Pharaoh's-chicken,-Neophron percnopterus
+gibbon,-hylobates lar
+California-bluebell,-Phacelia campanularia
+flickertail,-Richardson-ground-squirrel,-Citellus richardsoni
+common-camas,-Camassia quamash
+heterostracan
+tawny-owl,-Strix aluco
+northern-sea-robin,-Prionotus carolinus
+loach
+tape-grass,-eelgrass,-wild-celery,-Vallisneria spiralis
+kauri,-kaury,-Agathis australis
+blood clam
+scarlet-lychnis,-maltese-cross,-Lychins chalcedonica
+tuna, tunny
+loquat,-loquat-tree,-Japanese-medlar,-Japanese-plum,-Eriobotrya japonica
+kangaroo-rat,-desert-rat,-Dipodomys phillipsii
+lesser-twayblade,-Listera cordata
+breakax,-breakaxe,-break-axe,-Sloanea jamaicensis
+pointer,-Spanish pointer
+haricot
+red-mulberry,-Morus rubra
+ceriman, monstera
+sand-spurry,-sea-spurry,-Spergularia rubra
+planula
+blue-eyed-African-daisy,-Arctotis-stoechadifolia,-Arctotis venusta
+nemophila
+steamer
+red-spotted-purple,-Limenitis astyanax
+slug
+car train
+New-World-chat, chat
+white-hellebore,-American-hellebore,-Indian-poke,-bugbane,-Veratrum viride
+mountain-ash,-Fraxinus texensis
+Allegheny-chinkapin,-eastern-chinquapin,-chinquapin,-dwarf-chestnut,-Castanea pumila
+ambrosia
+meadow-goldenrod,-Canadian-goldenrod,-Solidago canadensis
+sour cherry
+arabian-camel,-dromedary,-camelus dromedarius
+sofa,-couch, lounge
+grey-fox,-gray-fox,-urocyon cinereoargenteus
+meadow-salsify,-goatsbeard,-shepherd's-clock,-Tragopogon pratensis
+cush-cush,-Dioscorea trifida
+cot,-camp bed
+barred-owl,-Strix varia
+akee,-akee-tree,-Blighia sapida
+common-louse,-Pediculus humanus
+meadowlark, lark
+pale-violet,-striped-violet,-cream-violet,-Viola striata
+leaf-beetle, chrysomelid
+noble cane
+mount, setting
+black-necked-stilt,-Himantopus mexicanus
+gearing,-gear,-geartrain,-power-train, train
+berth,-bunk,-built-in bed
+shallot,-eschalot,-multiplier-onion,-Allium-cepa-aggregatum,-Allium ascalonicum
+alyssum, madwort
+leopard,-panthera pardus
+cutleaved-coneflower,-Rudbeckia laciniata
+calceolaria, slipperwort
+stemless-carline-thistle,-Carlina acaulis
+blue curls
+ordinary, ordinary_bicycle
+kingwood,-kingwood-tree,-Dalbergia cearensis
+ponderosa,-ponderosa-pine,-western-yellow-pine,-bull-pine,-Pinus ponderosa
+plantain
+Asian-wild ox
+goat,-caprine animal
+black-stork,-ciconia nigra
+compass-plant,-compass flower
+savory, savoury
+curlew-sandpiper,-Calidris Ferruginea
+bullbrier,-greenbrier,-catbrier,-horse-brier,-horse-brier,-brier,-briar,-Smilax rotundifolia
+pine-siskin,-pine-finch,-Spinus pinus
+Angora,-Angora goat
+African-crocodile,-Nile-crocodile,-Crocodylus niloticus
+tench,-Tinca tinca
+cotton
+water-buffalo,-water-ox,-asiatic-buffalo,-bubalus bubalis
+topminnow,-poeciliid-fish,-poeciliid, live-bearer
+cocobolo,-Dalbergia retusa
+legume,-leguminous plant
+pink-bollworm,-Gelechia gossypiella
+turban squash
+common-yellowwood,-bastard-yellowwood,-Afrocarpus falcata
+reed-meadow-grass,-Glyceria grandis
+orange-bat,-orange-horseshoe-bat,-Rhinonicteris aurantius
+thylacine,-Tasmanian-wolf,-Tasmanian-tiger,-Thylacinus cynocephalus
+asparagus-bean,-yard-long-bean,-Vigna-unguiculata-sesquipedalis,-Vigna sesquipedalis
+brook-trout,-speckled-trout,-Salvelinus fontinalis
+lavender
+snow-pea,-sugar pea
+American-agave,-Agave americana
+digger wasp
+spleenwort
+cushaw,-Cucurbita-mixta,-Cucurbita argyrosperma
+king-penguin,-Aptenodytes patagonica
+jack-oak,-northern-pin-oak,-Quercus ellipsoidalis
+goncalo-alves,-Astronium fraxinifolium
+mouse
+shelduck

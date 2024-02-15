@@ -1,0 +1,8 @@
+{
+  "image_file": "/home/guy/code/grounding_samples/crampons/img0.jpeg",
+  "0": {
+    "instruction": "Describe the objects in the image in terms of internal parts and attaributes",
+    "input": "/home/guy/code/grounding_samples/crampons/img0.jpeg",
+    "output": "The image features a pair of ice climbing shoes with metal spikes on the bottom, designed for use in snowy and icy conditions. These specialized shoes are worn by the user to provide better grip and traction when climbing on ice or snow-covered surfaces. The metal spikes on the bottom of the shoes are particularly useful for providing additional support and stability as the user navigates through the challenging terrain."
+  }
+}

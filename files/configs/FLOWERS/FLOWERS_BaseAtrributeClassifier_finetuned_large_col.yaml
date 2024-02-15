@@ -1,0 +1,24 @@
+MODEL:
+  ARCH: FineTunedAttributeClassifier
+  BACKBONE: None
+  MODEL_SIZE: ViT-L/14
+TRAIN:
+  INPUT_SIZE: 224
+DATA:
+  ROOT_DIR: /shared-data5/guy/data/flowers-102
+#  ANNOTATIONS_FILE: files/annotations/ANET/activity_net_1_3.json
+  PATH_TO_CLASSNAMES: files/classnames/FLOWERS102/flowers102.txt #files/classnames/FLOWERS102/brian/tiny/unseen.txt
+#  SPLIT_OF_FILENAMES: files/filenames/ANET/openset1/    # test.txt
+DATA_LOADER:
+  NUM_WORKERS: 16
+OPENSET:
+  ATTRIBUTES_FILE: files/descriptors/FLOWERS102/flowers102_gpt3_text-davinci-003_descriptions_col.json
+  DETECTION_THRESHOLD: 0.17
+  MAX_NUM_INTERVALS: 10
+TEST:
+  DATASET: "FLOWERS"
+  SUBSET: "test"
+  BATCH_SIZE: 16
+  TASKS: ["mAP"]
+  NUM_DEMO_PLOTS: 5
+OUTPUT_DIR: tmp3 # /shared-data5/brian/exps/grounding_logs #/shared-data5/guy/exps/grounding_logs

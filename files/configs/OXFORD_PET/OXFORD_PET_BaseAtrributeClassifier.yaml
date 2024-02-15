@@ -1,0 +1,23 @@
+MODEL:
+  ARCH: BaseAttributeClassifier
+  BACKBONE: /shared-data5/guy/modelzoo/clip/ViT-B-16.pt # "ViT-B/32"
+TRAIN:
+  INPUT_SIZE: 224
+DATA:
+  ROOT_DIR: /shared-data5/guy/data/oxford-iiit-pet
+#  ANNOTATIONS_FILE: files/annotations/ANET/activity_net_1_3.json
+  PATH_TO_CLASSNAMES: files/classnames/OXFORD_PET/oxford_pet.txt
+#  SPLIT_OF_FILENAMES: files/filenames/ANET/openset1/    # test.txt
+DATA_LOADER:
+  NUM_WORKERS: 16
+OPENSET:
+  ATTRIBUTES_FILE: files/descriptors/OXFORD_PET/oxford_pet_gpt3_text-davinci-003_descriptions_ox_noname.json
+  DETECTION_THRESHOLD: 0.17
+  MAX_NUM_INTERVALS: 10
+TEST:
+  DATASET: "OXFORD_PET"
+  SUBSET: "test"
+  BATCH_SIZE: 16
+  TASKS: ["mAP"]
+  NUM_DEMO_PLOTS: 5
+OUTPUT_DIR: tmp3 #/shared-data5/brian/exps/grounding_logs #/shared-data5/guy/exps/grounding_logs

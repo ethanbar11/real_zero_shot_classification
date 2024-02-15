@@ -1,0 +1,19 @@
+Basset Hound:
+  attributes:
+  - category: Dog Size
+    attribute_type: size
+    value: This dog is size is {}
+    valid:
+    - medium
+
+  - category: Head Color
+    attribute_type: color
+    value: This dog's head colors are {}
+    valid:
+    - brown and white
+
+  - category: Body Shape
+    attribute_type: shape
+    value: A dog with {} body shape
+    valid:
+    - stocky and long

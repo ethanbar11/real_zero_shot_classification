@@ -1,0 +1,1818 @@
+{
+  "Black-footed Albatross": [
+    "A bird with large seabird",
+    "A bird with black and white plumage",
+    "A bird with yellow bill with a black tip",
+    "A bird with yellow feet and legs",
+    "A bird with long, narrow wings",
+    "A bird with white head and neck",
+    "A bird with black eye patch",
+    "A bird with white rump and tail"
+  ],
+  "Laysan Albatross": [
+    "A bird with black wings with white tips",
+    "A bird with yellow bill with a black tip",
+    "A bird with yellow legs and feet",
+    "A bird with long, narrow wings",
+    "A bird with white head and neck",
+    "A bird with black eyes and eye-rings"
+  ],
+  "Sooty Albatross": [
+    "A bird with black body with white wingtips",
+    "A bird with long, pointed wings",
+    "A bird with long, hooked bill",
+    "A bird with yellow-orange legs and feet",
+    "A bird with yellow-orange eye ring",
+    "A bird with white throat and belly"
+  ],
+  "Groove-billed Ani": [
+    "A bird with long tail",
+    "A bird with curved bill with a groove",
+    "A bird with yellow eyes",
+    "A bird with yellow legs",
+    "A bird with long wings",
+    "A bird with white throat and breast",
+    "A bird with black and white striped head"
+  ],
+  "Crested Auklet": [
+    "A bird with small seabird",
+    "A bird with black and white plumage",
+    "A bird with yellow crest on the head",
+    "A bird with yellow eyes",
+    "A bird with short, stubby bill",
+    "A bird with short, rounded wings",
+    "A bird with short tail",
+    "A bird with webbed feet"
+  ],
+  "Least Auklet": [
+    "A bird with black and white plumage",
+    "A bird with short, stubby bill",
+    "A bird with short wings",
+    "A bird with short tail",
+    "A bird with yellow feet",
+    "A bird with white face and throat",
+    "A bird with black cap and nape"
+  ],
+  "Parakeet Auklet": [
+    "A bird with black and white plumage",
+    "A bird with white face and throat",
+    "A bird with yellow bill",
+    "A bird with yellow legs and feet",
+    "A bird with short tail",
+    "A bird with long, pointed wings",
+    "A bird with white spots on wings and back"
+  ],
+  "Rhinoceros Auklet": [
+    "A bird with medium-sized seabird",
+    "A bird with black and white plumage",
+    "A bird with large, yellow bill with a hooked tip",
+    "A bird with short, yellow legs",
+    "A bird with short tail",
+    "A bird with white facial patch",
+    "A bird with bright yellow eyes"
+  ],
+  "Brewer Blackbird": [
+    "A bird with black and glossy feathers",
+    "A bird with yellow eyes",
+    "A bird with long, pointed beak",
+    "A bird with long tail",
+    "A bird with white wing patches",
+    "A bird with white throat",
+    "A bird with white eyebrow",
+    "A bird with white belly"
+  ],
+  "Red-winged Blackbird": [
+    "A bird with black body with red and yellow patches on the wings",
+    "A bird with yellow stripe on the head",
+    "A bird with long, pointed bill",
+    "A bird with long legs",
+    "A bird with white bar on the tail",
+    "A bird with white patches on the wings when in flight"
+  ],
+  "Rusty Blackbird": [
+    "A bird with small, blackbird-like bird",
+    "A bird with dark brown body with rusty-red head and neck",
+    "A bird with yellow eyes",
+    "A bird with white wing bars",
+    "A bird with short, pointed bill",
+    "A bird with long, pointed tail",
+    "A bird with white undertail coverts"
+  ],
+  "Yellow-headed Blackbird": [
+    "A bird with yellow head and throat",
+    "A bird with white wing patches",
+    "A bird with long, pointed bill",
+    "A bird with red eyes",
+    "A bird with long legs",
+    "A bird with white undertail coverts"
+  ],
+  "Bobolink": [
+    "A bird with black head and back with white underparts",
+    "A bird with white patches on wings and tail",
+    "A bird with yellow bill",
+    "A bird with long, pointed wings",
+    "A bird with short, conical bill",
+    "A bird with white crescent on the back of the neck"
+  ],
+  "Indigo Bunting": [
+    "A bird with bright blue head, wings, and tail",
+    "A bird with white or grey breast",
+    "A bird with black bill",
+    "A bird with yellow or white eye ring",
+    "A bird with white or yellowish belly",
+    "A bird with short, pointed tail"
+  ],
+  "Lazuli Bunting": [
+    "A bird with bright blue head, wings, and tail",
+    "A bird with white throat and belly",
+    "A bird with brown back and wings",
+    "A bird with black and white striped face",
+    "A bird with white eye ring",
+    "A bird with long, pointed bill"
+  ],
+  "Painted Bunting": [
+    "A bird with bright blue head and wings",
+    "A bird with yellow chest and belly",
+    "A bird with black and white striped back",
+    "A bird with long, pointed tail",
+    "A bird with black beak",
+    "A bird with white eye ring"
+  ],
+  "Cardinal": [
+    "A bird with bright red feathers",
+    "A bird with black face mask",
+    "A bird with pointed crest on the head",
+    "A bird with stout, conical bill",
+    "A bird with yellow bill base",
+    "A bird with white wing bars",
+    "A bird with short, rounded tail",
+    "A bird with long legs and feet"
+  ],
+  "Spotted Catbird": [
+    "A bird with small, gray-brown bird",
+    "A bird with black head with white spots",
+    "A bird with white throat and breast",
+    "A bird with yellow eyes",
+    "A bird with long, black tail with white spots",
+    "A bird with black bill",
+    "A bird with white wing bars",
+    "A bird with long legs and feet"
+  ],
+  "Gray Catbird": [
+    "A bird with gray body with black wings and tail",
+    "A bird with white eye ring",
+    "A bird with black cap on head",
+    "A bird with yellow bill",
+    "A bird with white undertail coverts",
+    "A bird with long tail",
+    "A bird with white wing bars",
+    "A bird with white spots on wings and tail"
+  ],
+  "Yellow-breasted Chat": [
+    "A bird with yellow breast and throat",
+    "A bird with white belly",
+    "A bird with black head and back",
+    "A bird with white eye-ring",
+    "A bird with long tail",
+    "A bird with white wing bars",
+    "A bird with black bill"
+  ],
+  "Eastern Towhee": [
+    "A bird with black head, wings, and tail",
+    "A bird with white throat and belly",
+    "A bird with reddish-brown back",
+    "A bird with white eye-ring",
+    "A bird with long, white-tipped tail",
+    "A bird with yellow-orange legs and feet",
+    "A bird with loud, whistled song"
+  ],
+  "Chuck-will Widow": [
+    "A bird with white throat and breast",
+    "A bird with white spots on wings and tail",
+    "A bird with yellow eyes",
+    "A bird with long, pointed wings",
+    "A bird with short, rounded tail",
+    "A bird with long, thin bill",
+    "A bird with loud, distinctive call"
+  ],
+  "Brandt Cormorant": [
+    "A bird with black and white plumage",
+    "A bird with long, hooked bill",
+    "A bird with yellow facial skin",
+    "A bird with webbed feet",
+    "A bird with long neck",
+    "A bird with long tail",
+    "A bird with pointed wings",
+    "A bird with white patch on the back of the neck"
+  ],
+  "Red-faced Cormorant": [
+    "A bird with black and white seabird",
+    "A bird with long, hooked bill",
+    "A bird with red face and throat",
+    "A bird with yellow eyes",
+    "A bird with long, slender neck",
+    "A bird with long, pointed wings",
+    "A bird with webbed feet",
+    "A bird with long tail feathers"
+  ],
+  "Pelagic Cormorant": [
+    "A bird with black and white seabird",
+    "A bird with long, hooked bill",
+    "A bird with webbed feet",
+    "A bird with long neck",
+    "A bird with pointed tail",
+    "A bird with white face and throat",
+    "A bird with black back and wings",
+    "A bird with yellow-orange legs and feet"
+  ],
+  "Bronzed Cowbird": [
+    "A bird with small black bird",
+    "A bird with bronze-colored head and neck",
+    "A bird with white eye-ring",
+    "A bird with black bill",
+    "A bird with white throat",
+    "A bird with brown back and wings",
+    "A bird with white belly",
+    "A bird with long tail with white tips"
+  ],
+  "Shiny Cowbird": [
+    "A bird with black and glossy plumage",
+    "A bird with yellow eyes",
+    "A bird with long, curved beak",
+    "A bird with short tail",
+    "A bird with white patch on the wings",
+    "A bird with white patch on the throat",
+    "A bird with white patch on the belly"
+  ],
+  "Brown Creeper": [
+    "A bird with white belly",
+    "A bird with long, thin bill",
+    "A bird with white stripe above the eye",
+    "A bird with long tail",
+    "A bird with white wing bars",
+    "A bird with brown back with black streaks",
+    "A bird with white undertail coverts"
+  ],
+  "American Crow": [
+    "A bird with glossy black feathers",
+    "A bird with long, thick bill",
+    "A bird with white eyes",
+    "A bird with long, fan-shaped tail",
+    "A bird with short, rounded wings",
+    "A bird with loud, harsh cawing call"
+  ],
+  "Fish Crow": [
+    "A bird with black or dark grey feathers",
+    "A bird with a long, slender bill",
+    "A bird with a white eye-ring",
+    "A bird with a loud, nasal call",
+    "A bird with a short, squared tail",
+    "A bird with a white patch on the wings",
+    "A bird with a white patch on the back of the neck"
+  ],
+  "Black-billed Cuckoo": [
+    "A bird with medium-sized bird",
+    "A bird with grayish-brown body",
+    "A bird with black bill",
+    "A bird with white eye-ring",
+    "A bird with white throat",
+    "A bird with barred wings and tail",
+    "A bird with yellowish legs and feet"
+  ],
+  "Mangrove Cuckoo": [
+    "A bird with small, slender bird",
+    "A bird with grayish-brown upperparts",
+    "A bird with white underparts",
+    "A bird with yellow eyes",
+    "A bird with black bill",
+    "A bird with white throat",
+    "A bird with white-tipped tail",
+    "A bird with long wings with white patches",
+    "A bird with long legs and toes"
+  ],
+  "Yellow-billed Cuckoo": [
+    "A bird with yellow bill",
+    "A bird with grayish-brown upperparts",
+    "A bird with white underparts",
+    "A bird with white eye-ring",
+    "A bird with long tail with white tips",
+    "A bird with white wing bars",
+    "A bird with black and white barred wings",
+    "A bird with yellow legs and feet"
+  ],
+  "Gray-crowned-Rosy Finch": [
+    "A bird with gray head with a black crown",
+    "A bird with white throat and breast",
+    "A bird with pinkish-brown back and wings",
+    "A bird with white belly",
+    "A bird with black tail with white outer feathers",
+    "A bird with yellow bill and legs"
+  ],
+  "Purple Finch": [
+    "A bird with brownish-purple head, back, and wings",
+    "A bird with white belly and throat",
+    "A bird with black wings with white wing bars",
+    "A bird with black tail with white outer feathers",
+    "A bird with yellow bill",
+    "A bird with white eyebrow stripe"
+  ],
+  "Northern Flicker": [
+    "A bird with black and white barred wings",
+    "A bird with white rump",
+    "A bird with black tail with white outer feathers",
+    "A bird with red patch on the back of the head",
+    "A bird with yellow underparts",
+    "A bird with white throat",
+    "A bird with black mustache stripe"
+  ],
+  "Acadian Flycatcher": [
+    "A bird with grayish-olive upperparts",
+    "A bird with yellowish-white underparts",
+    "A bird with two white wing bars",
+    "A bird with white eye ring",
+    "A bird with black bill",
+    "A bird with white throat",
+    "A bird with long, forked tail"
+  ],
+  "Great-Crested Flycatcher": [
+    "A bird with small, sparrow-sized bird",
+    "A bird with grayish-brown upperparts",
+    "A bird with yellowish-white underparts",
+    "A bird with two white wing bars",
+    "A bird with a crest of feathers on its head",
+    "A bird with a black eye mask",
+    "A bird with a long, black tail with white edges",
+    "A bird with a black bill with a yellow base"
+  ],
+  "Least Flycatcher": [
+    "A bird with yellowish-olive upperparts",
+    "A bird with white underparts",
+    "A bird with dark eye line",
+    "A bird with white wing bars",
+    "A bird with short, dark bill",
+    "A bird with white tail with dark edges"
+  ],
+  "Olive-sided Flycatcher": [
+    "A bird with small, stocky bird",
+    "A bird with black and white plumage",
+    "A bird with white throat and breast",
+    "A bird with black crown and back",
+    "A bird with white wing bars",
+    "A bird with yellowish-olive sides",
+    "A bird with long, pointed wings",
+    "A bird with long, forked tail",
+    "A bird with yellowish-olive legs and feet"
+  ],
+  "Scissor-tailed Flycatcher": [
+    "A bird with slender, long-tailed bird",
+    "A bird with grayish-brown upperparts",
+    "A bird with white underparts",
+    "A bird with black wings with white patches",
+    "A bird with long, forked tail",
+    "A bird with black bill",
+    "A bird with white eye-ring",
+    "A bird with pink legs and feet"
+  ],
+  "Vermilion Flycatcher": [
+    "A bird with bright red head, breast, and belly",
+    "A bird with black wings and tail",
+    "A bird with white wing bars",
+    "A bird with yellowish-orange bill",
+    "A bird with white eye ring",
+    "A bird with long, forked tail"
+  ],
+  "Yellow-bellied Flycatcher": [
+    "A bird with yellowish-olive upperparts",
+    "A bird with yellowish-white underparts",
+    "A bird with white throat",
+    "A bird with dark eye line",
+    "A bird with white wing bars",
+    "A bird with dark tail with white edges",
+    "A bird with long, pointed bill"
+  ],
+  "Frigatebird": [
+    "A bird with long, forked tail",
+    "A bird with black or dark brown feathers",
+    "A bird with white or light-colored head and neck",
+    "A bird with long, hooked bill",
+    "A bird with long legs",
+    "A bird with webbed feet",
+    "A bird with bright red throat pouch"
+  ],
+  "Northern Fulmar": [
+    "A bird with seabird",
+    "A bird with white body with grey wings and tail",
+    "A bird with black beak",
+    "A bird with yellow eyes",
+    "A bird with long, pointed wings",
+    "A bird with short, forked tail",
+    "A bird with webbed feet"
+  ],
+  "Gadwall": [
+    "A bird with medium-sized dabbling duck",
+    "A bird with grey body with black and white markings",
+    "A bird with white belly",
+    "A bird with black head with white cheek patches",
+    "A bird with yellow bill",
+    "A bird with long, pointed tail",
+    "A bird with long, thin neck",
+    "A bird with long, pointed wings"
+  ],
+  "American Goldfinch": [
+    "A bird with black wings with white bars",
+    "A bird with black tail with white edges",
+    "A bird with black cap on head",
+    "A bird with yellow face and underparts",
+    "A bird with white rump",
+    "A bird with short, conical bill",
+    "A bird with long, pointed wings",
+    "A bird with short, notched tail"
+  ],
+  "European Goldfinch": [
+    "A bird with bright yellow body with black wings and tail",
+    "A bird with white wing bars",
+    "A bird with red face and forehead",
+    "A bird with black and white striped head",
+    "A bird with black bill",
+    "A bird with short, forked tail"
+  ],
+  "Boat-tailed Grackle": [
+    "A bird with long, keel-shaped tail",
+    "A bird with glossy black feathers",
+    "A bird with yellow eyes",
+    "A bird with yellow bill",
+    "A bird with white patch on the wings",
+    "A bird with white patch on the throat",
+    "A bird with white patch on the belly"
+  ],
+  "Eared Grebe": [
+    "A bird with small, stocky waterbird",
+    "A bird with black and white plumage",
+    "A bird with yellow eyes",
+    "A bird with long, pointed bill",
+    "A bird with long neck",
+    "A bird with long, pointed tail",
+    "A bird with yellowish-orange legs",
+    "A bird with black ear tufts on either side of the head"
+  ],
+  "Horned Grebe": [
+    "A bird with small waterbird",
+    "A bird with black and white plumage",
+    "A bird with yellow eyes",
+    "A bird with long, thin neck",
+    "A bird with pointed bill",
+    "A bird with black and white striped head",
+    "A bird with black and white striped back",
+    "A bird with yellowish-orange throat patch",
+    "A bird with black and white striped wings",
+    "A bird with yellowish-orange legs and feet"
+  ],
+  "Pied-billed Grebe": [
+    "A bird with small, stocky waterbird",
+    "A bird with black and white plumage",
+    "A bird with yellow bill with a black band near the tip",
+    "A bird with short, pointed tail",
+    "A bird with short, thick neck",
+    "A bird with webbed feet",
+    "A bird with red eyes"
+  ],
+  "Western Grebe": [
+    "A bird with long, slender neck",
+    "A bird with black head with white cheeks",
+    "A bird with black and white striped neck",
+    "A bird with black and white striped back",
+    "A bird with black and white striped wings",
+    "A bird with yellow eyes",
+    "A bird with long, pointed bill",
+    "A bird with webbed feet"
+  ],
+  "Blue Grosbeak": [
+    "A bird with bright blue head, wings, and tail",
+    "A bird with black wings with white patches",
+    "A bird with yellow breast and belly",
+    "A bird with long, pointed bill",
+    "A bird with white eye ring",
+    "A bird with long, forked tail"
+  ],
+  "Evening Grosbeak": [
+    "A bird with yellow forehead and crown",
+    "A bird with black wings and tail",
+    "A bird with white wing bars",
+    "A bird with yellowish-white underparts",
+    "A bird with black bill",
+    "A bird with white eye ring",
+    "A bird with brownish-gray back and sides"
+  ],
+  "Pine Grosbeak": [
+    "A bird with black, white, and pinkish-red plumage",
+    "A bird with white wing bars",
+    "A bird with yellow bill",
+    "A bird with white eye ring",
+    "A bird with long, pointed tail",
+    "A bird with white undertail coverts",
+    "A bird with black legs and feet"
+  ],
+  "Rose-breasted Grosbeak": [
+    "A bird with black head and neck with white cheeks",
+    "A bird with bright red breast",
+    "A bird with white belly",
+    "A bird with black wings with white patches",
+    "A bird with long, pointed bill",
+    "A bird with yellow eyes",
+    "A bird with long tail with white edges"
+  ],
+  "Pigeon Guillemot": [
+    "A bird with black and white plumage",
+    "A bird with a white patch on the side of the neck",
+    "A bird with a red bill with a yellow tip",
+    "A bird with webbed feet",
+    "A bird with a short tail",
+    "A bird with a long, pointed wingspan",
+    "A bird with a white line on the wings",
+    "A bird with a white patch on the back of the head"
+  ],
+  "California Gull": [
+    "A bird with yellow bill with a red spot near the tip",
+    "A bird with gray wings with black tips",
+    "A bird with white body with gray back",
+    "A bird with yellow legs and feet",
+    "A bird with black wingtips",
+    "A bird with white tail with black band near the tip"
+  ],
+  "Glaucous-winged Gull": [
+    "A bird with black head and bill",
+    "A bird with white body with grey wings",
+    "A bird with yellow legs and feet",
+    "A bird with yellow eyes with red orbital ring",
+    "A bird with black wingtips with white spots",
+    "A bird with white tail with black band"
+  ],
+  "Heermann Gull": [
+    "A bird with black head and bill",
+    "A bird with black wingtips",
+    "A bird with yellow legs and feet",
+    "A bird with red spot near the bill",
+    "A bird with white underparts",
+    "A bird with gray back and wings"
+  ],
+  "Herring Gull": [
+    "A bird with black wingtips",
+    "A bird with yellow bill with a red spot near the tip",
+    "A bird with webbed feet",
+    "A bird with white head with a black eye-stripe",
+    "A bird with gray back and wings",
+    "A bird with yellow legs"
+  ],
+  "Ivory Gull": [
+    "A bird with black wingtips",
+    "A bird with yellow bill",
+    "A bird with yellow legs",
+    "A bird with yellow eyes",
+    "A bird with black tail",
+    "A bird with black feet",
+    "A bird with long wings"
+  ],
+  "Ring-billed Gull": [
+    "A bird with medium-sized seabird",
+    "A bird with white head and neck",
+    "A bird with grey back and wings",
+    "A bird with black wingtips",
+    "A bird with yellow bill with a black ring near the tip",
+    "A bird with yellow legs and feet",
+    "A bird with webbed feet",
+    "A bird with red spot near the eye"
+  ],
+  "Slaty-backed Gull": [
+    "A bird with black head and back",
+    "A bird with white underparts",
+    "A bird with yellow bill with red spot near the tip",
+    "A bird with yellow legs and feet",
+    "A bird with dark eyes",
+    "A bird with long, pointed wings with white tips"
+  ],
+  "Western Gull": [
+    "A bird with black head and bill",
+    "A bird with yellow legs and feet",
+    "A bird with grey wings with black tips",
+    "A bird with white underparts",
+    "A bird with red spot near the bill",
+    "A bird with yellow eyes"
+  ],
+  "Anna Hummingbird": [
+    "A bird with green back and crown",
+    "A bird with white throat and belly",
+    "A bird with red forehead and throat patch",
+    "A bird with long, curved beak",
+    "A bird with short, rounded wings",
+    "A bird with long, forked tail",
+    "A bird with fast, erratic flight pattern"
+  ],
+  "Ruby-throated Hummingbird": [
+    "A bird with green and white feathers",
+    "A bird with red throat patch",
+    "A bird with long, thin beak",
+    "A bird with wings that beat rapidly",
+    "A bird with hovering flight",
+    "A bird with rapid, high-pitched chirping sound"
+  ],
+  "Rufous Hummingbird": [
+    "A bird with reddish-brown body",
+    "A bird with white throat and breast",
+    "A bird with green back and wings",
+    "A bird with long, thin bill",
+    "A bird with white tips on the tail feathers",
+    "A bird with rapid wing beats",
+    "A bird with hovering flight"
+  ],
+  "Green Violetear": [
+    "A bird with bright green body",
+    "A bird with white throat",
+    "A bird with black mask around the eyes",
+    "A bird with violet ear patch",
+    "A bird with long, forked tail",
+    "A bird with long, thin bill",
+    "A bird with white tips on the tail feathers"
+  ],
+  "Long-tailed Jaeger": [
+    "A bird with medium-sized seabird",
+    "A bird with black and white plumage",
+    "A bird with long, forked tail",
+    "A bird with pointed wings",
+    "A bird with white head and neck",
+    "A bird with black back and wings",
+    "A bird with white underparts",
+    "A bird with yellow bill and legs"
+  ],
+  "Pomarine Jaeger": [
+    "A bird with black and white plumage",
+    "A bird with long, pointed wings",
+    "A bird with forked tail",
+    "A bird with long, hooked bill",
+    "A bird with white patch on the back of the neck",
+    "A bird with white rump",
+    "A bird with white underparts"
+  ],
+  "Blue Jay": [
+    "A bird with medium-sized bird",
+    "A bird with blue, black, and white feathers",
+    "A bird with crest on the head",
+    "A bird with black neck and head",
+    "A bird with white chest and belly",
+    "A bird with black and white wings",
+    "A bird with black tail with white edges",
+    "A bird with black bill and feet"
+  ],
+  "Florida Jay": [
+    "A bird with small, blue-gray bird",
+    "A bird with white throat and forehead",
+    "A bird with black crown and nape",
+    "A bird with white wing bars",
+    "A bird with black bill",
+    "A bird with white-tipped tail",
+    "A bird with yellow legs and feet"
+  ],
+  "Green Jay": [
+    "A bird with medium-sized bird",
+    "A bird with bright green body",
+    "A bird with black head and neck",
+    "A bird with white throat and belly",
+    "A bird with blue wings and tail",
+    "A bird with long, black bill",
+    "A bird with white eye-ring",
+    "A bird with yellow legs and feet"
+  ],
+  "Dark-eyed Junco": [
+    "A bird with gray or brown body",
+    "A bird with white belly",
+    "A bird with black head and neck",
+    "A bird with white outer tail feathers",
+    "A bird with dark eyes",
+    "A bird with short, conical bill",
+    "A bird with white wing bars"
+  ],
+  "Tropical Kingbird": [
+    "A bird with medium-sized songbird",
+    "A bird with gray head and back",
+    "A bird with yellow throat and breast",
+    "A bird with white belly",
+    "A bird with long, pointed bill",
+    "A bird with black tail with white edges",
+    "A bird with white wing bars",
+    "A bird with yellow eye ring"
+  ],
+  "Gray Kingbird": [
+    "A bird with white throat and belly",
+    "A bird with black mask around eyes",
+    "A bird with yellow bill",
+    "A bird with white wing bars",
+    "A bird with long tail with white tips",
+    "A bird with black legs and feet"
+  ],
+  "Belted Kingfisher": [
+    "A bird with blue-grey upperparts and white underparts",
+    "A bird with black and white striped head",
+    "A bird with long, pointed bill",
+    "A bird with white collar",
+    "A bird with black belt across the breast",
+    "A bird with long, pointed wings",
+    "A bird with short, square tail",
+    "A bird with yellow legs and feet"
+  ],
+  "Green Kingfisher": [
+    "A bird with small, brightly colored bird",
+    "A bird with bright green upperparts",
+    "A bird with white underparts",
+    "A bird with black head and neck",
+    "A bird with orange bill",
+    "A bird with long, pointed wings",
+    "A bird with short tail",
+    "A bird with white eye-ring"
+  ],
+  "Pied Kingfisher": [
+    "A bird with black and white plumage",
+    "A bird with long, pointed bill",
+    "A bird with red legs and feet",
+    "A bird with white head with black crown and nape",
+    "A bird with white breast and belly",
+    "A bird with black wings and back",
+    "A bird with white tail with black tip"
+  ],
+  "Ringed Kingfisher": [
+    "A bird with medium-sized bird",
+    "A bird with bright blue and orange plumage",
+    "A bird with white ring around the neck",
+    "A bird with long, pointed bill",
+    "A bird with short, rounded wings",
+    "A bird with long, barred tail",
+    "A bird with white underparts with black spots"
+  ],
+  "White-breasted Kingfisher": [
+    "A bird with small, brightly colored bird",
+    "A bird with white breast and belly",
+    "A bird with black head and back",
+    "A bird with long, pointed bill",
+    "A bird with bright blue wings and tail",
+    "A bird with orange legs and feet",
+    "A bird with white eye-ring"
+  ],
+  "Red-legged Kittiwake": [
+    "A bird with medium-sized seabird",
+    "A bird with black and white plumage",
+    "A bird with red legs and feet",
+    "A bird with long, pointed wings",
+    "A bird with forked tail",
+    "A bird with yellow bill",
+    "A bird with white head and neck",
+    "A bird with black eye patch"
+  ],
+  "Horned Lark": [
+    "A bird with brown and white mottled feathers",
+    "A bird with black and white facial markings",
+    "A bird with yellow bill",
+    "A bird with black \"horns\" on the head",
+    "A bird with white outer tail feathers",
+    "A bird with white wing bars"
+  ],
+  "Pacific Loon": [
+    "A bird with black and white plumage",
+    "A bird with long, pointed bill",
+    "A bird with red eyes",
+    "A bird with white neck ring",
+    "A bird with white underparts",
+    "A bird with black back and wings",
+    "A bird with webbed feet",
+    "A bird with long, pointed tail"
+  ],
+  "Mallard": [
+    "A bird with medium-sized duck",
+    "A bird with green head and yellow bill",
+    "A bird with brown body with white chest",
+    "A bird with black and white striped neck",
+    "A bird with white tail feathers",
+    "A bird with webbed feet",
+    "A bird with long, curved neck"
+  ],
+  "Western Meadowlark": [
+    "A bird with small, plump bird",
+    "A bird with yellow breast with black V-shaped pattern",
+    "A bird with white belly",
+    "A bird with brown back and wings",
+    "A bird with white outer tail feathers",
+    "A bird with black tail tip",
+    "A bird with long, curved bill",
+    "A bird with white eye ring"
+  ],
+  "Hooded Merganser": [
+    "A bird with small, duck-like waterfowl",
+    "A bird with black and white body with a greenish-black head",
+    "A bird with white crest on the head",
+    "A bird with red eyes",
+    "A bird with long, thin bill",
+    "A bird with long, thin neck",
+    "A bird with long, pointed tail",
+    "A bird with webbed feet"
+  ],
+  "Red-breasted Merganser": [
+    "A bird with large, long-bodied duck",
+    "A bird with black and white head with a red bill",
+    "A bird with white neck and chest with a black back",
+    "A bird with long, thin tail",
+    "A bird with long, thin wings",
+    "A bird with red eyes",
+    "A bird with webbed feet"
+  ],
+  "Mockingbird": [
+    "A bird with gray or brown feathers",
+    "A bird with white wing patches",
+    "A bird with long tail",
+    "A bird with black bill",
+    "A bird with white eye ring",
+    "A bird with white throat",
+    "A bird with long legs",
+    "A bird with white undertail coverts"
+  ],
+  "Nighthawk": [
+    "A bird with small, stocky bird",
+    "A bird with long, pointed wings",
+    "A bird with short, rounded tail",
+    "A bird with mottled brown, black, and white feathers",
+    "A bird with yellow eyes",
+    "A bird with white throat and breast",
+    "A bird with long, thin beak"
+  ],
+  "Clark Nutcracker": [
+    "A bird with black and white plumage",
+    "A bird with long, pointed bill",
+    "A bird with black head and neck",
+    "A bird with white wings and tail",
+    "A bird with white belly",
+    "A bird with black legs and feet",
+    "A bird with white eye-ring"
+  ],
+  "White-breasted Nuthatch": [
+    "A bird with white breast and belly",
+    "A bird with black cap and back",
+    "A bird with white stripe above the eye",
+    "A bird with short, pointed bill",
+    "A bird with long, stiff tail",
+    "A bird with blue-grey wings and tail",
+    "A bird with white spots on wings and tail"
+  ],
+  "Baltimore Oriole": [
+    "A bird with small, stocky bird",
+    "A bird with black head and back",
+    "A bird with bright orange chest and belly",
+    "A bird with white wing bars",
+    "A bird with black wings and tail",
+    "A bird with yellow bill",
+    "A bird with white eye ring"
+  ],
+  "Hooded Oriole": [
+    "A bird with small, slender bird",
+    "A bird with black head and back",
+    "A bird with bright orange chest and belly",
+    "A bird with white wing bars",
+    "A bird with long, curved bill",
+    "A bird with black tail with white edges",
+    "A bird with yellow legs and feet"
+  ],
+  "Orchard Oriole": [
+    "A bird with small, slim songbird",
+    "A bird with black head, wings, and tail",
+    "A bird with bright orange-red breast and belly",
+    "A bird with white wing bars",
+    "A bird with long, pointed bill",
+    "A bird with white eye ring",
+    "A bird with yellow legs and feet"
+  ],
+  "Scott Oriole": [
+    "A bird with yellow and black plumage",
+    "A bird with black head with white eye-ring",
+    "A bird with white wing bars",
+    "A bird with long, pointed bill",
+    "A bird with white throat and breast",
+    "A bird with yellow belly and rump",
+    "A bird with black tail with white edges"
+  ],
+  "Ovenbird": [
+    "A bird with white eye-ring",
+    "A bird with short, pointed bill",
+    "A bird with white throat",
+    "A bird with dark brown crown",
+    "A bird with white belly",
+    "A bird with long tail with white outer feathers",
+    "A bird with yellow legs and feet"
+  ],
+  "Brown Pelican": [
+    "A bird with long, broad wings",
+    "A bird with long, hooked bill",
+    "A bird with yellow head and neck",
+    "A bird with white underparts",
+    "A bird with brown back and wings",
+    "A bird with webbed feet",
+    "A bird with long, pointed tail"
+  ],
+  "White Pelican": [
+    "A bird with long, curved neck",
+    "A bird with large, yellow bill",
+    "A bird with black wingtips",
+    "A bird with white body",
+    "A bird with long, black legs",
+    "A bird with webbed feet",
+    "A bird with long, pointed tail"
+  ],
+  "Western-Wood Pewee": [
+    "A bird with white throat and breast",
+    "A bird with white wing bars",
+    "A bird with yellowish belly",
+    "A bird with long, pointed bill",
+    "A bird with white eyebrow",
+    "A bird with dark tail with white edges",
+    "A bird with white undertail coverts"
+  ],
+  "Sayornis": [
+    "A bird with brown or grey feathers",
+    "A bird with white throat and breast",
+    "A bird with black or brown crown",
+    "A bird with white or yellowish belly",
+    "A bird with long, pointed bill",
+    "A bird with short, rounded wings",
+    "A bird with long tail with white outer feathers"
+  ],
+  "American Pipit": [
+    "A bird with brown upperparts and white underparts",
+    "A bird with white eyebrow stripe",
+    "A bird with long, thin bill",
+    "A bird with long, pointed wings",
+    "A bird with long, thin tail",
+    "A bird with yellow legs and feet"
+  ],
+  "Whip-poor Will": [
+    "A bird with white throat and breast",
+    "A bird with white-tipped tail",
+    "A bird with long wings",
+    "A bird with short, rounded bill",
+    "A bird with yellow eyes",
+    "A bird with white eyebrow stripe",
+    "A bird with white wing bars"
+  ],
+  "Horned Puffin": [
+    "A bird with black and white plumage",
+    "A bird with bright orange bill with a black tip",
+    "A bird with black and white striped head",
+    "A bird with yellow-orange legs and feet",
+    "A bird with webbed feet",
+    "A bird with long, pointed wings",
+    "A bird with short tail",
+    "A bird with white throat and belly"
+  ],
+  "Common Raven": [
+    "A bird with long, straight bill",
+    "A bird with wedge-shaped tail",
+    "A bird with glossy black feathers",
+    "A bird with white or grey throat feathers",
+    "A bird with white or grey patches on the wings",
+    "A bird with white or grey patches on the tail",
+    "A bird with white or grey patches on the head"
+  ],
+  "White-necked Raven": [
+    "A bird with white neck and throat",
+    "A bird with long, wedge-shaped tail",
+    "A bird with yellow bill",
+    "A bird with yellow eyes",
+    "A bird with long, pointed wings",
+    "A bird with black legs and feet"
+  ],
+  "American Redstart": [
+    "A bird with black and orange plumage",
+    "A bird with white patches on wings and tail",
+    "A bird with black face and throat",
+    "A bird with yellow or orange patches on sides and belly",
+    "A bird with long, pointed wings",
+    "A bird with long, forked tail",
+    "A bird with white eye ring"
+  ],
+  "Geococcyx": [
+    "A bird with small, ground-dwelling bird",
+    "A bird with long, curved beak",
+    "A bird with long legs",
+    "A bird with brown, grey, or black feathers",
+    "A bird with white or yellow eye-ring",
+    "A bird with white or yellow throat patch",
+    "A bird with long tail with white tips"
+  ],
+  "Loggerhead Shrike": [
+    "A bird with small, stocky bird",
+    "A bird with black mask across eyes",
+    "A bird with white throat and breast",
+    "A bird with black wings with white patches",
+    "A bird with long, hooked bill",
+    "A bird with grey back and tail",
+    "A bird with black tail with white tips"
+  ],
+  "Great-Grey Shrike": [
+    "A bird with black mask across the eyes",
+    "A bird with white throat and breast",
+    "A bird with black wings with white patches",
+    "A bird with long, hooked bill",
+    "A bird with black tail with white outer feathers",
+    "A bird with yellow eyes and legs"
+  ],
+  "Baird Sparrow": [
+    "A bird with white throat and eyebrow",
+    "A bird with yellow bill",
+    "A bird with white belly",
+    "A bird with dark brown wings with white wing bars",
+    "A bird with long, notched tail",
+    "A bird with white outer tail feathers",
+    "A bird with pink legs and feet"
+  ],
+  "Black-throated Sparrow": [
+    "A bird with black throat and upper chest",
+    "A bird with white eyebrow and throat stripe",
+    "A bird with yellow-orange face",
+    "A bird with white belly",
+    "A bird with long, pointed bill",
+    "A bird with white outer tail feathers",
+    "A bird with brown wings with white wing bars"
+  ],
+  "Brewer Sparrow": [
+    "A bird with white throat and eyebrow",
+    "A bird with yellow bill",
+    "A bird with dark brown crown",
+    "A bird with white belly",
+    "A bird with white outer tail feathers",
+    "A bird with white wing bars",
+    "A bird with pink legs and feet"
+  ],
+  "Chipping Sparrow": [
+    "A bird with brown and white striped head",
+    "A bird with white eye-ring",
+    "A bird with black bill",
+    "A bird with white throat and breast",
+    "A bird with brown back and wings",
+    "A bird with white outer tail feathers",
+    "A bird with white wing bars"
+  ],
+  "Clay-colored Sparrow": [
+    "A bird with white throat and breast",
+    "A bird with white eye-ring",
+    "A bird with yellowish-brown crown",
+    "A bird with white wing bars",
+    "A bird with dark tail with white outer feathers",
+    "A bird with short, conical bill"
+  ],
+  "House Sparrow": [
+    "A bird with white cheeks and throat",
+    "A bird with black bib and bill",
+    "A bird with grey crown and nape",
+    "A bird with white outer tail feathers",
+    "A bird with brown wings with white bars",
+    "A bird with short, conical bill",
+    "A bird with short legs and feet"
+  ],
+  "Field Sparrow": [
+    "A bird with white throat and eyebrow",
+    "A bird with pink bill",
+    "A bird with grey crown and nape",
+    "A bird with chestnut shoulder patch",
+    "A bird with white belly",
+    "A bird with yellowish legs",
+    "A bird with white outer tail feathers"
+  ],
+  "Fox Sparrow": [
+    "A bird with small, sparrow-like bird",
+    "A bird with brown, grey, and white feathers",
+    "A bird with white belly",
+    "A bird with dark brown streaks on the back",
+    "A bird with white eyebrow",
+    "A bird with white outer tail feathers",
+    "A bird with pink bill",
+    "A bird with yellowish legs"
+  ],
+  "Grasshopper Sparrow": [
+    "A bird with white throat and eyebrow",
+    "A bird with white outer tail feathers",
+    "A bird with yellowish-brown breast",
+    "A bird with dark brown back",
+    "A bird with white wing bars",
+    "A bird with short, rounded wings",
+    "A bird with long, thin bill",
+    "A bird with long legs and toes"
+  ],
+  "Harris Sparrow": [
+    "A bird with white throat and belly",
+    "A bird with black crown and bib",
+    "A bird with pink bill",
+    "A bird with yellow-orange legs",
+    "A bird with white outer tail feathers",
+    "A bird with white wing bars"
+  ],
+  "Henslow Sparrow": [
+    "A bird with white throat and breast",
+    "A bird with dark brown back and wings",
+    "A bird with white eyebrow stripe",
+    "A bird with yellow bill",
+    "A bird with white outer tail feathers",
+    "A bird with short, rounded wings",
+    "A bird with long, thin legs"
+  ],
+  "Le-Conte Sparrow": [
+    "A bird with white throat and breast",
+    "A bird with dark brown back and wings",
+    "A bird with white eyebrow",
+    "A bird with yellow bill",
+    "A bird with white outer tail feathers",
+    "A bird with white wing bars",
+    "A bird with white crescent on the back of the neck"
+  ],
+  "Lincoln Sparrow": [
+    "A bird with white throat and breast",
+    "A bird with black and white striped head",
+    "A bird with white eye ring",
+    "A bird with yellow bill",
+    "A bird with white outer tail feathers",
+    "A bird with white wing bars"
+  ],
+  "Nelson-Sharp-tailed Sparrow": [
+    "A bird with brown and white streaked feathers",
+    "A bird with white throat and breast",
+    "A bird with black and white striped head",
+    "A bird with yellow bill",
+    "A bird with white outer tail feathers",
+    "A bird with white wing bars",
+    "A bird with short, rounded wings"
+  ],
+  "Savannah Sparrow": [
+    "A bird with white belly",
+    "A bird with yellowish-brown crown",
+    "A bird with white eye-ring",
+    "A bird with black bill",
+    "A bird with white outer tail feathers",
+    "A bird with white wing bars",
+    "A bird with yellowish-brown legs and feet"
+  ],
+  "Seaside Sparrow": [
+    "A bird with white stripes on the wings",
+    "A bird with white eyebrow",
+    "A bird with yellow bill",
+    "A bird with white throat",
+    "A bird with dark brown back",
+    "A bird with white belly",
+    "A bird with yellow legs and feet"
+  ],
+  "Song Sparrow": [
+    "A bird with small, brown bird",
+    "A bird with white throat and breast",
+    "A bird with dark streaks on the back and wings",
+    "A bird with white outer tail feathers",
+    "A bird with yellow bill",
+    "A bird with black and white stripes on the head",
+    "A bird with white eye ring"
+  ],
+  "Tree Sparrow": [
+    "A bird with white cheeks and throat",
+    "A bird with black bib on the chest",
+    "A bird with brown crown and nape",
+    "A bird with white outer tail feathers",
+    "A bird with yellow bill",
+    "A bird with short, rounded wings",
+    "A bird with long, thin legs"
+  ],
+  "Vesper Sparrow": [
+    "A bird with white throat and breast",
+    "A bird with dark brown back and wings",
+    "A bird with white outer tail feathers",
+    "A bird with white eyebrow",
+    "A bird with yellow bill",
+    "A bird with white belly",
+    "A bird with dark brown streaks on the breast and sides"
+  ],
+  "White-crowned Sparrow": [
+    "A bird with small, brown-streaked bird",
+    "A bird with white crown with black stripes",
+    "A bird with yellow bill",
+    "A bird with white throat",
+    "A bird with grayish-brown back",
+    "A bird with white belly",
+    "A bird with white outer tail feathers",
+    "A bird with black and white wings with white wing bars"
+  ],
+  "White-throated Sparrow": [
+    "A bird with small, brown-streaked bird",
+    "A bird with white throat and breast",
+    "A bird with yellow lores (the area between the eyes and bill)",
+    "A bird with black and white striped crown",
+    "A bird with white outer tail feathers",
+    "A bird with yellowish-brown wings",
+    "A bird with pinkish-brown legs and feet"
+  ],
+  "Cape-Glossy Starling": [
+    "A bird with glossy black feathers",
+    "A bird with white spots on wings and tail",
+    "A bird with yellow bill and legs",
+    "A bird with white eye-ring",
+    "A bird with long, pointed tail",
+    "A bird with white throat and breast"
+  ],
+  "Bank Swallow": [
+    "A bird with brownish-grey upperparts",
+    "A bird with white underparts",
+    "A bird with forked tail",
+    "A bird with white throat and forehead",
+    "A bird with dark brown cap",
+    "A bird with white eyebrow",
+    "A bird with dark brown wings with white edges",
+    "A bird with short, pointed bill"
+  ],
+  "Barn Swallow": [
+    "A bird with long, pointed wings",
+    "A bird with forked tail",
+    "A bird with glossy blue-black upperparts",
+    "A bird with white underparts",
+    "A bird with red throat and forehead",
+    "A bird with black bill and legs"
+  ],
+  "Cliff Swallow": [
+    "A bird with dark blue-black head, back, and wings",
+    "A bird with white forehead and throat",
+    "A bird with chestnut-colored rump",
+    "A bird with forked tail",
+    "A bird with short, pointed bill",
+    "A bird with white outer tail feathers",
+    "A bird with white patches on the sides of the rump"
+  ],
+  "Tree Swallow": [
+    "A bird with blue-green upperparts and white underparts",
+    "A bird with black cap and chin",
+    "A bird with white throat",
+    "A bird with forked tail",
+    "A bird with pointed wings",
+    "A bird with long, pointed bill",
+    "A bird with yellowish legs and feet"
+  ],
+  "Scarlet Tanager": [
+    "A bird with small, slim bird",
+    "A bird with bright red body",
+    "A bird with black wings and tail",
+    "A bird with yellow bill",
+    "A bird with white eye ring",
+    "A bird with white wing bars",
+    "A bird with white spots on the wings and tail"
+  ],
+  "Summer Tanager": [
+    "A bird with small, stocky songbird",
+    "A bird with bright red head, wings, and tail",
+    "A bird with yellow underparts",
+    "A bird with black bill",
+    "A bird with white eye-ring",
+    "A bird with white wing bars",
+    "A bird with long, pointed wings",
+    "A bird with short, rounded tail"
+  ],
+  "Artic Tern": [
+    "A bird with slender, white body",
+    "A bird with black cap on head",
+    "A bird with long, pointed wings",
+    "A bird with long, forked tail",
+    "A bird with orange-red bill and legs",
+    "A bird with white underparts",
+    "A bird with black wingtips"
+  ],
+  "Black Tern": [
+    "A bird with small, black and white seabird",
+    "A bird with pointed wings",
+    "A bird with long, forked tail",
+    "A bird with black cap on head",
+    "A bird with white underparts",
+    "A bird with yellow bill",
+    "A bird with red legs and feet"
+  ],
+  "Caspian Tern": [
+    "A bird with black cap on head",
+    "A bird with long, pointed wings",
+    "A bird with long, forked tail",
+    "A bird with orange-red bill",
+    "A bird with yellow legs and feet",
+    "A bird with white underparts",
+    "A bird with black upperparts"
+  ],
+  "Common Tern": [
+    "A bird with slender, white-bodied bird",
+    "A bird with black cap on head",
+    "A bird with long, pointed wings",
+    "A bird with forked tail",
+    "A bird with orange-red legs and bill",
+    "A bird with white underparts",
+    "A bird with black markings on wings and tail"
+  ],
+  "Elegant Tern": [
+    "A bird with slender, white-bodied seabird",
+    "A bird with black cap on the head",
+    "A bird with long, pointed wings",
+    "A bird with long, forked tail",
+    "A bird with yellow bill",
+    "A bird with yellow legs and feet",
+    "A bird with white underparts",
+    "A bird with black tips on the wings and tail"
+  ],
+  "Forsters Tern": [
+    "A bird with slender, white-bodied seabird",
+    "A bird with black cap on head",
+    "A bird with long, pointed wings",
+    "A bird with long, forked tail",
+    "A bird with yellow bill",
+    "A bird with yellow legs and feet",
+    "A bird with white underparts",
+    "A bird with black wingtips"
+  ],
+  "Least Tern": [
+    "A bird with black cap on head",
+    "A bird with yellow bill",
+    "A bird with white underparts",
+    "A bird with grey back",
+    "A bird with long, forked tail",
+    "A bird with pointed wings",
+    "A bird with short legs"
+  ],
+  "Green-tailed Towhee": [
+    "A bird with small, sparrow-like bird",
+    "A bird with olive-green upperparts",
+    "A bird with white underparts",
+    "A bird with black wings with white wing bars",
+    "A bird with long, white-tipped tail",
+    "A bird with yellow-orange eye ring",
+    "A bird with pink bill",
+    "A bird with white throat and eyebrow"
+  ],
+  "Brown Thrasher": [
+    "A bird with brown and white mottled feathers",
+    "A bird with long, curved bill",
+    "A bird with long tail with white tips",
+    "A bird with yellow eyes",
+    "A bird with white throat",
+    "A bird with dark brown wings with white spots",
+    "A bird with white belly and undertail coverts"
+  ],
+  "Sage Thrasher": [
+    "A bird with grayish-brown upperparts",
+    "A bird with white underparts",
+    "A bird with long, curved bill",
+    "A bird with white eye-ring",
+    "A bird with white eyebrow",
+    "A bird with white throat",
+    "A bird with brown tail with white edges"
+  ],
+  "Black-capped Vireo": [
+    "A bird with white eyebrow stripe",
+    "A bird with black cap on head",
+    "A bird with yellowish-white underparts",
+    "A bird with white wing bars",
+    "A bird with dark tail with white edges",
+    "A bird with short, pointed bill",
+    "A bird with long, pointed wings"
+  ],
+  "Blue-headed Vireo": [
+    "A bird with blue head and upper back",
+    "A bird with white throat and underparts",
+    "A bird with yellowish-olive upperparts",
+    "A bird with two white wing bars",
+    "A bird with dark eyes",
+    "A bird with short, pointed bill",
+    "A bird with long, forked tail"
+  ],
+  "Philadelphia Vireo": [
+    "A bird with white eyebrow",
+    "A bird with yellowish-white underparts",
+    "A bird with two white wing bars",
+    "A bird with dark bill",
+    "A bird with yellowish-green legs",
+    "A bird with short, rounded wings",
+    "A bird with long, thin tail"
+  ],
+  "Red-eyed Vireo": [
+    "A bird with white or yellowish underparts",
+    "A bird with two white wing bars",
+    "A bird with red eyes",
+    "A bird with blackish crown and eyeline",
+    "A bird with white eyebrow",
+    "A bird with yellowish legs and feet"
+  ],
+  "Warbling Vireo": [
+    "A bird with olive-green upperparts",
+    "A bird with white underparts",
+    "A bird with yellowish wash on the breast",
+    "A bird with white eyebrow",
+    "A bird with dark line through the eye",
+    "A bird with white wing bars",
+    "A bird with dark tail with white edges"
+  ],
+  "White-eyed Vireo": [
+    "A bird with white eye-ring",
+    "A bird with white eyebrow",
+    "A bird with yellowish-white underparts",
+    "A bird with grayish-brown upperparts",
+    "A bird with black wings with white wing bars",
+    "A bird with short, pointed bill",
+    "A bird with long, rounded tail"
+  ],
+  "Yellow-throated Vireo": [
+    "A bird with yellow throat and breast",
+    "A bird with white belly",
+    "A bird with olive-green back",
+    "A bird with white eye-ring",
+    "A bird with black crown",
+    "A bird with white wing bars",
+    "A bird with long, pointed bill"
+  ],
+  "Bay-breasted Warbler": [
+    "A bird with yellowish-green head",
+    "A bird with white throat and breast",
+    "A bird with black and white striped crown",
+    "A bird with black and white striped back",
+    "A bird with white belly",
+    "A bird with yellowish-brown wings with white wing bars",
+    "A bird with yellowish-brown tail with white outer feathers"
+  ],
+  "Black-and-white Warbler": [
+    "A bird with black and white stripes on the head, wings, and tail",
+    "A bird with yellowish-white breast",
+    "A bird with white belly",
+    "A bird with black bill",
+    "A bird with white eye ring",
+    "A bird with yellowish legs and feet"
+  ],
+  "Black-throated-Blue Warbler": [
+    "A bird with black throat and face",
+    "A bird with white eye-ring",
+    "A bird with blue upperparts",
+    "A bird with yellowish-white underparts",
+    "A bird with white wing bars",
+    "A bird with long, thin bill",
+    "A bird with long tail",
+    "A bird with white undertail coverts"
+  ],
+  "Blue-winged Warbler": [
+    "A bird with white throat and breast",
+    "A bird with yellowish-green back and wings",
+    "A bird with two white wing bars",
+    "A bird with blue patch on the wings",
+    "A bird with white eyebrow",
+    "A bird with black lores",
+    "A bird with yellowish-green legs and feet"
+  ],
+  "Canada Warbler": [
+    "A bird with yellow throat and breast",
+    "A bird with white belly",
+    "A bird with black streaks on the sides",
+    "A bird with white eye-ring",
+    "A bird with black crown and eye-line",
+    "A bird with white wing bars",
+    "A bird with long, thin tail with white tips"
+  ],
+  "Cape-May Warbler": [
+    "A bird with yellowish-olive upperparts",
+    "A bird with white underparts with yellowish wash",
+    "A bird with two white wing bars",
+    "A bird with black streaks on the sides of the breast",
+    "A bird with yellowish-green crown",
+    "A bird with white eye ring",
+    "A bird with black bill",
+    "A bird with white tail with black edges"
+  ],
+  "Cerulean Warbler": [
+    "A bird with bright blue upperparts",
+    "A bird with white underparts",
+    "A bird with black throat and face",
+    "A bird with white wing bars",
+    "A bird with yellowish-green rump",
+    "A bird with long, pointed bill",
+    "A bird with long, forked tail"
+  ],
+  "Chestnut-sided Warbler": [
+    "A bird with white throat and breast",
+    "A bird with yellowish-green back",
+    "A bird with two white wing bars",
+    "A bird with black and white striped crown",
+    "A bird with chestnut-colored sides",
+    "A bird with white undertail coverts",
+    "A bird with black bill and legs"
+  ],
+  "Golden-winged Warbler": [
+    "A bird with white throat and breast",
+    "A bird with black mask around eyes",
+    "A bird with yellow crown and wing patch",
+    "A bird with gray back and wings",
+    "A bird with white undertail coverts",
+    "A bird with long, pointed wings",
+    "A bird with thin, pointed bill"
+  ],
+  "Hooded Warbler": [
+    "A bird with black hood on the head",
+    "A bird with white eye-ring",
+    "A bird with yellow throat and breast",
+    "A bird with white belly",
+    "A bird with yellow-green wings and tail",
+    "A bird with dark legs and feet"
+  ],
+  "Kentucky Warbler": [
+    "A bird with yellow throat and breast",
+    "A bird with white belly",
+    "A bird with black line through the eye",
+    "A bird with white wing bars",
+    "A bird with dark tail with white outer feathers",
+    "A bird with short, pointed bill"
+  ],
+  "Magnolia Warbler": [
+    "A bird with white eye-ring",
+    "A bird with yellow throat and breast",
+    "A bird with black streaks on the back and sides",
+    "A bird with white wing bars",
+    "A bird with black tail with white edges",
+    "A bird with yellowish legs and feet"
+  ],
+  "Mourning Warbler": [
+    "A bird with white eye-ring",
+    "A bird with blackish cap",
+    "A bird with yellowish-olive upperparts",
+    "A bird with white underparts",
+    "A bird with white wing bars",
+    "A bird with long, thin, pointed bill",
+    "A bird with long, thin legs",
+    "A bird with white tail with blackish central feathers"
+  ],
+  "Myrtle Warbler": [
+    "A bird with yellow throat and breast",
+    "A bird with white belly",
+    "A bird with black and white striped head",
+    "A bird with white wing bars",
+    "A bird with yellow-green back",
+    "A bird with short, pointed bill",
+    "A bird with long, forked tail"
+  ],
+  "Nashville Warbler": [
+    "A bird with white eye-ring",
+    "A bird with yellow throat and breast",
+    "A bird with olive-green back and wings",
+    "A bird with white wing bars",
+    "A bird with dark tail with white outer feathers",
+    "A bird with dark bill and legs"
+  ],
+  "Orange-crowned Warbler": [
+    "A bird with yellowish-green crown",
+    "A bird with white throat and belly",
+    "A bird with yellowish-green wings and tail",
+    "A bird with white eye-ring",
+    "A bird with thin, pointed bill",
+    "A bird with white undertail coverts",
+    "A bird with white wing bars"
+  ],
+  "Palm Warbler": [
+    "A bird with white belly",
+    "A bird with yellowish-brown upperparts",
+    "A bird with white eyebrow",
+    "A bird with yellowish-white throat",
+    "A bird with dark legs",
+    "A bird with long, thin bill",
+    "A bird with white tail with dark central feathers"
+  ],
+  "Pine Warbler": [
+    "A bird with yellow throat and breast",
+    "A bird with white belly",
+    "A bird with two white wing bars",
+    "A bird with dark brown crown and back",
+    "A bird with yellowish-green rump",
+    "A bird with dark bill",
+    "A bird with white eye ring"
+  ],
+  "Prairie Warbler": [
+    "A bird with yellow throat and breast",
+    "A bird with white belly",
+    "A bird with two white wing bars",
+    "A bird with dark brown streaks on back",
+    "A bird with yellowish-green crown",
+    "A bird with white eye ring",
+    "A bird with short, pointed bill"
+  ],
+  "Prothonotary Warbler": [
+    "A bird with bright yellow head and underparts",
+    "A bird with blue-grey wings and back",
+    "A bird with white throat and eye-ring",
+    "A bird with long, thin bill",
+    "A bird with short tail",
+    "A bird with white undertail coverts"
+  ],
+  "Swainson Warbler": [
+    "A bird with white throat and breast",
+    "A bird with yellowish-green back and wings",
+    "A bird with dark brown crown and eye line",
+    "A bird with white eyebrow",
+    "A bird with white tail with dark central feathers",
+    "A bird with yellowish-green legs and feet"
+  ],
+  "Tennessee Warbler": [
+    "A bird with white eye-ring",
+    "A bird with yellow throat and breast",
+    "A bird with olive-green back and wings",
+    "A bird with white wing bars",
+    "A bird with dark tail with white outer feathers",
+    "A bird with short, pointed bill"
+  ],
+  "Wilson Warbler": [
+    "A bird with white eye-ring",
+    "A bird with yellow throat and breast",
+    "A bird with olive-green back and wings",
+    "A bird with white wing bars",
+    "A bird with black tail with white outer feathers",
+    "A bird with short, pointed bill"
+  ],
+  "Worm-eating Warbler": [
+    "A bird with yellowish-olive upperparts",
+    "A bird with white underparts with dark streaks",
+    "A bird with yellowish-white throat and eyebrow",
+    "A bird with dark line through the eye",
+    "A bird with white wing bars",
+    "A bird with long, thin bill",
+    "A bird with dark legs and feet"
+  ],
+  "Yellow Warbler": [
+    "A bird with yellow throat and breast",
+    "A bird with white belly",
+    "A bird with black streaks on the back and wings",
+    "A bird with black line through the eye",
+    "A bird with white wing bars",
+    "A bird with long, thin bill",
+    "A bird with short tail"
+  ],
+  "Northern Waterthrush": [
+    "A bird with small, sparrow-like bird",
+    "A bird with brown upperparts with white underparts",
+    "A bird with white eyebrow stripe",
+    "A bird with white throat",
+    "A bird with dark brown streaks on the breast",
+    "A bird with long, slightly down-curved bill",
+    "A bird with white undertail coverts",
+    "A bird with yellowish legs"
+  ],
+  "Louisiana Waterthrush": [
+    "A bird with small, sparrow-like bird",
+    "A bird with dark brown upperparts with white underparts",
+    "A bird with white eyebrow stripe",
+    "A bird with white throat",
+    "A bird with white belly",
+    "A bird with long, thin bill",
+    "A bird with yellowish legs",
+    "A bird with white undertail coverts"
+  ],
+  "Bohemian Waxwing": [
+    "A bird with small, stocky bird",
+    "A bird with gray body with black and white wings",
+    "A bird with yellow-tipped tail",
+    "A bird with white eye stripe",
+    "A bird with red waxy tips on the wings",
+    "A bird with black mask around the eyes",
+    "A bird with yellow-tipped bill"
+  ],
+  "Cedar Waxwing": [
+    "A bird with small, brownish-gray bird",
+    "A bird with yellow-tipped tail feathers",
+    "A bird with black mask around eyes",
+    "A bird with yellow-tipped wings",
+    "A bird with white belly",
+    "A bird with red waxy tips on the wings",
+    "A bird with crest on the head",
+    "A bird with long, thin beak"
+  ],
+  "American-Three-toed Woodpecker": [
+    "A bird with red patch on the back of the head",
+    "A bird with white stripes on the wings",
+    "A bird with white spots on the back",
+    "A bird with yellowish-white belly",
+    "A bird with black bill",
+    "A bird with three toes on each foot",
+    "A bird with barred tail with white spots"
+  ],
+  "Pileated Woodpecker": [
+    "A bird with red crest on the head",
+    "A bird with black wings with white stripes",
+    "A bird with white belly",
+    "A bird with long, pointed beak",
+    "A bird with white line down the neck",
+    "A bird with white stripes on the face",
+    "A bird with white spots on the wings"
+  ],
+  "Red-bellied Woodpecker": [
+    "A bird with black and white plumage",
+    "A bird with red patch on the back of the head",
+    "A bird with white stripes on the wings",
+    "A bird with white stripes on the back",
+    "A bird with black and white barred tail",
+    "A bird with black and white barred wings",
+    "A bird with red belly",
+    "A bird with black bill",
+    "A bird with white eye ring"
+  ],
+  "Red-cockaded Woodpecker": [
+    "A bird with black cap and white cheek patch",
+    "A bird with red streak on the side of the head",
+    "A bird with white belly",
+    "A bird with black bill",
+    "A bird with white stripes on the wings",
+    "A bird with barred tail",
+    "A bird with white spots on the wings and tail"
+  ],
+  "Red-headed Woodpecker": [
+    "A bird with black and white body",
+    "A bird with red head and neck",
+    "A bird with white wing patches",
+    "A bird with black wings and tail",
+    "A bird with white belly",
+    "A bird with black bill",
+    "A bird with white stripes on the back",
+    "A bird with white spots on the wings"
+  ],
+  "Downy Woodpecker": [
+    "A bird with black and white feathers",
+    "A bird with white belly",
+    "A bird with black wings with white spots",
+    "A bird with black and white striped head",
+    "A bird with short, stubby bill",
+    "A bird with red patch on the back of the head",
+    "A bird with white outer tail feathers"
+  ],
+  "Bewick Wren": [
+    "A bird with white eyebrow stripe",
+    "A bird with white throat and belly",
+    "A bird with black and white barred wings and tail",
+    "A bird with short, rounded tail",
+    "A bird with long, thin bill",
+    "A bird with short legs",
+    "A bird with white outer tail feathers"
+  ],
+  "Cactus Wren": [
+    "A bird with small, brown-streaked bird",
+    "A bird with white eyebrow stripe",
+    "A bird with white throat",
+    "A bird with long, curved bill",
+    "A bird with short, rounded tail",
+    "A bird with white-tipped outer tail feathers",
+    "A bird with white-tipped wings",
+    "A bird with black and white barring on the back and wings"
+  ],
+  "Carolina Wren": [
+    "A bird with white eyebrow stripe",
+    "A bird with white throat and chest",
+    "A bird with long, thin tail",
+    "A bird with short, rounded wings",
+    "A bird with black bill",
+    "A bird with white spots on wings and tail",
+    "A bird with reddish-brown tail feathers"
+  ],
+  "House Wren": [
+    "A bird with white eyebrow stripe",
+    "A bird with white throat and belly",
+    "A bird with short, rounded tail",
+    "A bird with black bill",
+    "A bird with dark barring on wings and tail",
+    "A bird with white spots on wings",
+    "A bird with long, thin legs"
+  ],
+  "Marsh Wren": [
+    "A bird with short, rounded wings",
+    "A bird with long, thin tail",
+    "A bird with white throat and breast",
+    "A bird with dark brown crown",
+    "A bird with white eyebrow",
+    "A bird with yellowish-brown back",
+    "A bird with white belly",
+    "A bird with long, thin bill"
+  ],
+  "Rock Wren": [
+    "A bird with white eyebrow stripe",
+    "A bird with white throat and breast",
+    "A bird with dark barring on wings and tail",
+    "A bird with short, rounded tail",
+    "A bird with long, thin bill",
+    "A bird with white outer tail feathers",
+    "A bird with white spots on wings and tail"
+  ],
+  "Winter Wren": [
+    "A bird with short, rounded wings",
+    "A bird with short tail",
+    "A bird with white eyebrow stripe",
+    "A bird with white throat",
+    "A bird with dark barring on the back and wings",
+    "A bird with white spots on the wings",
+    "A bird with long, thin bill",
+    "A bird with short legs"
+  ],
+  "Common Yellowthroat": [
+    "A bird with black mask over eyes",
+    "A bird with white throat",
+    "A bird with yellow breast and belly",
+    "A bird with brown wings and back",
+    "A bird with white undertail coverts",
+    "A bird with long, thin bill",
+    "A bird with white eyebrow stripe"
+  ]
+}

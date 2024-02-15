@@ -1,0 +1,25 @@
+MODEL:
+  ARCH: FineTunedAttributeClassifier
+  BACKBONE: None
+  MODEL_SIZE: ViT-L/14
+TRAIN:
+  INPUT_SIZE: 224
+DATA:
+  ROOT_DIR: /shared-data5/guy/data/Dogs120
+#  ANNOTATIONS_FILE: files/annotations/ANET/activity_net_1_3.json
+  PATH_TO_CLASSNAMES: files/classnames/Dogs120/dogs120.txt
+#  SPLIT_OF_FILENAMES: files/filenames/ANET/openset1/    # test.txt
+DATA_LOADER:
+  NUM_WORKERS: 16
+OPENSET:
+  ATTRIBUTES_FILE: files/clip_training_data/Dogs120/complicated_prompts/dogs120_gpt3_text-davinci-003_descriptions_program_base.json
+  DETECTION_THRESHOLD: 0.17
+  MAX_NUM_INTERVALS: 10
+TEST:
+  DATASET: "Dogs120"
+  SUBSET: "test"
+  BATCH_SIZE: 64 #16
+  TASKS: ["mAP"]
+  NUM_DEMO_PLOTS: 30
+OUTPUT_DIR: tmp
+SAVE_RESULTS_EVERY: 100000

@@ -1,0 +1,8 @@
+{
+  "image_file": "/home/guy/code/grounding_samples/horse_wiki.jpg",
+  "0": {
+    "instruction": "Describe the objects in the image in terms of internal parts and attaributes",
+    "input": "/home/guy/code/grounding_samples/horse_wiki.jpg",
+    "output": "The image features a large brown horse standing in a lush green field. The horse has a long mane and tail, and it is wearing a harness, indicating that it may be used for riding or other equestrian activities. The horse is the main subject of the image, occupying a significant portion of the frame."
+  }
+}

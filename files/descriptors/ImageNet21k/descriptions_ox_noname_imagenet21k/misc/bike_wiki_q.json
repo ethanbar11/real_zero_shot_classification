@@ -1,0 +1,8 @@
+{
+  "image_file": "/home/guy/code/grounding_samples/bike_wiki.jpg",
+  "0": {
+    "instruction": "Describe the objects in the image in terms of internal parts and attaributes",
+    "input": "/home/guy/code/grounding_samples/bike_wiki.jpg",
+    "output": "The image features a bicycle parked on a concrete ground. The bicycle has black and silver colors and is equipped with a basket attached to it. Additionally, there is a kickstand present, which supports the bike and allows it to stay upright without the need for someone to hold it. The bicycle is an older model, possibly a ten-speed bike, and appears to be in good condition."
+  }
+}

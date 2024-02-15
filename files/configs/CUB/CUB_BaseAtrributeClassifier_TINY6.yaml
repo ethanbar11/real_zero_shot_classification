@@ -1,0 +1,23 @@
+MODEL:
+  ARCH: BaseAttributeClassifier
+  BACKBONE: /shared-data5/guy/modelzoo/clip/ViT-B-16.pt # "ViT-B/32"
+TRAIN:
+  INPUT_SIZE: 224
+DATA:
+  ROOT_DIR: /shared-data5/guy/data/CUB/CUB_200_2011
+  PATH_TO_CLASSNAMES: files/classnames/CUB/opensets/tiny6/unseen.txt
+  APPLY_NORMALIZE_TRANSFORM: True
+DATA_LOADER:
+  NUM_WORKERS: 16
+OPENSET:
+  ATTRIBUTES_FILE:  files/descriptors/CUB/cub_gpt3_text-davinci-003_descriptions_col.json #files/descriptors/CUB/cub_gpt3_text-davinci-003_descriptions_ox_noname.json
+  DETECTION_THRESHOLD: 0.17
+  MAX_NUM_INTERVALS: 10
+TEST:
+  DATASET: "CUB"
+  SUBSET: "test"
+  BATCH_SIZE: 640
+  TASKS: ["mAP"]
+  NUM_DEMO_PLOTS: 5
+OUTPUT_DIR: tmp #/shared-data5/brian/exps/grounding_logs
+SAVE_RESULTS_EVERY: 5

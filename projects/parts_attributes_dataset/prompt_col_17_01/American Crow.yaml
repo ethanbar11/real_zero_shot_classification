@@ -1,0 +1,20 @@
+American Crow:
+  attributes:
+  - category: Feathers Color
+    attribute_type: color
+    value: A bird with {}
+    valid:
+    - glossy black feathers
+
+  - category: Beak Size
+    attribute_type: size
+    value: The size of the bird's beak is {}
+    valid:
+    - long and thick
+
+  - category: Tail Shape
+    attribute_type: shape
+    value: The shape of the bird's tail is {}
+    valid:
+    - long and fan-shaped
+    - long

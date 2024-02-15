@@ -1,0 +1,43 @@
+MODEL:
+  ARCH: BaseProgramClassifierV2 #BaseAttributeClassifier #BaseProgramClassifier
+  BACKBONE: /shared-data5/guy/modelzoo/clip/ViT-L-14-336px.pt # /shared-data5/guy/modelzoo/clip/ViT-B-16.pt
+TRAIN:
+  INPUT_SIZE: 336 #224
+  EPOCHS: 3
+  BREADTH: 3
+DATA:
+  ROOT_DIR: /shared-data5/guy/data/flowers-102
+  PATH_TO_CLASSNAMES: files/classnames/FLOWERS102/opensets/tiny/unseen.txt
+DATA_LOADER:
+  NUM_WORKERS: 0
+OPENSET:
+  ATTRIBUTES_FILE: files/descriptors/FLOWERS102/flowers102_gpt3_text-davinci-003_descriptions_ox_noname.json
+  PATH_TO_PROGRAMS_FOLDER: files/programs/FLOWERS102/gpt4_ethan_shorter
+  PATH_TO_SYNTHETIC_FOLDER: /shared-data5/guy/exps/grounding_fewshot/FLOWERS102/set1
+  SYNTHETIC_IMAGE_AMOUNT: 5
+  PROGRAM_PROMPT_TYPE: "program_self_improving_with_actions"
+  PROGRAM_PROMPT_FOLDER: "files/prompts/program_self_refinement_debug" #"files/prompts/program_self_refinement_debug" #"files/prompts/program_self_refinement_25_10_23"
+  OPENAI_MODEL: 'gpt-4' #'gpt-4', 'gpt-3.5-turbo'
+  PROGRAM_OPTIMIZER: 'tree_search'
+TEST:
+  DATASET: "FLOWERS"
+  SUBSET: "test"
+  BATCH_SIZE: 3
+  TASKS: [ "mAP" ]
+  NUM_DEMO_PLOTS: 20 #20
+LLM_WRAPPER:
+  ARCH: llama_2_phind #mock_llm #llama_2_phind #openai_wrapper
+  PARAMS:
+    load_in_8bit: True
+    max_new_tokens: 2048 #1024
+    min_new_tokens: 1
+    device: auto
+    model: /shared-data5/guy/modelzoo/llama2/Phind-CodeLlama-34B-v2 # 'gpt-4' # /shared-data5/guy/modelzoo/llama2/Phind-CodeLlama-34B-v2
+    repetition_penalty: 1.2
+    temperature: 1.2
+    top_k: 40
+    top_p: 0.95 #0.14
+    stop: '### END_OF_PROGRAM ###'
+OUTPUT_DIR: /shared-data5/guy/exps/grounding_logs
+
+

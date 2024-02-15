@@ -1,0 +1,183 @@
+- companionway:
+    attributes:
+    - attribute_type: material
+      category: Material
+      valid:
+      - wood
+      - metal
+      - plastic
+      value: The material of the companionway is {}
+    - attribute_type: number
+      category: Number of Steps
+      valid:
+      - any integer
+      value: The number of steps in the companionway is {}
+    - attribute_type: presence
+      category: Handrail Presence
+      valid:
+      - present
+      - absent
+      value: The presence of handrails in the companionway is {}
+    - attribute_type: shape
+      category: Step Shape
+      valid:
+      - square
+      - rectangular
+      - round
+      value: The shape of the steps in the companionway is {}
+  name: companionway
+  path: /shared-data5/guy/data/imagenet21k/imagenet21k_resized/imagenet21k_small_classes/n03079616
+- Scriptorium:
+    attributes:
+    - attribute_type: object
+      category: Furniture
+      valid:
+      - desk
+      - chair
+      - bookshelf
+      value: The type of furniture in the scriptorium is {}
+    - attribute_type: object
+      category: Lighting
+      valid:
+      - natural light
+      - candle light
+      - lamp light
+      value: The type of lighting in the scriptorium is {}
+    - attribute_type: object
+      category: Writing Materials
+      valid:
+      - quill
+      - ink pot
+      - parchment
+      - books
+      value: The type of writing materials in the scriptorium is {}
+  name: scriptorium
+  path: /shared-data5/guy/data/imagenet21k/imagenet21k_resized/imagenet21k_small_classes/n04155889
+- Fraxinus_pennsylvanica_subintegerrima:
+    attributes:
+    - attribute_type: color
+      category: Leaf Color
+      valid:
+      - green
+      - yellow
+      value: The color of the tree's leaves is {}
+    - attribute_type: texture
+      category: Bark Texture
+      valid:
+      - smooth
+      - rough
+      value: The texture of the tree's bark is {}
+    - attribute_type: shape
+      category: Tree Shape
+      valid:
+      - round
+      - oval
+      value: The shape of the tree is {}
+    - attribute_type: shape
+      category: Leaf Shape
+      valid:
+      - lanceolate
+      - elliptical
+      value: The shape of the tree's leaves is {}
+  name: green_ash, Fraxinus_pennsylvanica_subintegerrima
+  path: /shared-data5/guy/data/imagenet21k/imagenet21k_resized/imagenet21k_small_classes/n12305654
+- Giant Pigfish:
+    attributes:
+    - attribute_type: color
+      category: Body Color
+      valid:
+      - green
+      - blue
+      - grey
+      value: The color of the fish's body is {}
+    - attribute_type: shape
+      category: Body Shape
+      valid:
+      - elongated
+      - oval
+      value: The shape of the fish's body is {}
+    - attribute_type: size
+      category: Fin Size
+      valid:
+      - large
+      - medium
+      value: The size of the fish's fins is {}
+    - attribute_type: shape
+      category: Mouth Shape
+      valid:
+      - wide
+      - small
+      value: The shape of the fish's mouth is {}
+  name: pigfish, giant_pigfish, Achoerodus_gouldii
+  path: /shared-data5/guy/data/imagenet21k/imagenet21k_resized/imagenet21k_small_classes/n02608284
+- Drosophyllum_lusitanicum:
+    attributes:
+    - attribute_type: color
+      category: Leaf Color
+      valid:
+      - green
+      - yellow-green
+      value: The color of the plant's leaves is {}
+    - attribute_type: shape
+      category: Leaf Shape
+      valid:
+      - needle-like
+      - thin
+      value: The shape of the plant's leaves is {}
+    - attribute_type: color
+      category: Flower Color
+      valid:
+      - yellow
+      - light yellow
+      value: The color of the plant's flowers is {}
+    - attribute_type: habit
+      category: Growth Habit
+      valid:
+      - upright
+      - spreading
+      value: The growth habit of the plant is {}
+  name: Drosophyllum_lusitanicum
+  path: /shared-data5/guy/data/imagenet21k/imagenet21k_resized/imagenet21k_small_classes/n12783730
+- name: time-delay_measuring_instrument, time-delay_measuring_system
+  path: /shared-data5/guy/data/imagenet21k/imagenet21k_resized/imagenet21k_small_classes/n04437380
+  time-delay_measuring_instrument:
+    attributes:
+    - attribute_type: type
+      category: Display Type
+      valid:
+      - digital
+      - analog
+      value: The type of the instrument's display is {}
+    - attribute_type: size
+      category: Size
+      valid:
+      - small
+      - medium
+      - large
+      value: The size of the instrument is {}
+    - attribute_type: material
+      category: Material
+      valid:
+      - metal
+      - plastic
+      value: The material of the instrument is {}
+  time-delay_measuring_system:
+    attributes:
+    - attribute_type: type
+      category: System Type
+      valid:
+      - electronic
+      - mechanical
+      value: The type of the measuring system is {}
+    - attribute_type: quantity
+      category: Number of Components
+      valid:
+      - single
+      - multiple
+      value: The number of components in the system is {}
+    - attribute_type: size
+      category: System Size
+      valid:
+      - compact
+      - large
+      value: The size of the system is {}

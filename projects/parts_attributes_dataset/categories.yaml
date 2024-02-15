@@ -1,0 +1,110 @@
+color:
+  - red
+  - orange
+  - yellow
+  - chartreuse green
+  - green
+  - spring green
+  - cyan
+  - azure
+  - blue
+  - violet
+  - magenta
+  - rose
+  - brown
+  - black
+  - white
+  - grey
+  - purple
+  - indigo
+  - pink
+  - buff
+  - olive
+  - cream
+
+shape:
+  - hooked
+  - round
+  - long
+  - short
+  - pointed
+  - flat
+  - curved
+  - straight
+  - sharp
+  - blunt
+  - conical
+  - tubular
+  - fan-shaped
+  - oval
+  - diamond
+  - streamlined
+
+size:
+  - large
+  - small
+  - medium
+  - short
+  - tall
+  - wide
+  - narrow
+  - thick
+  - thin
+  - gigantic
+  - tiny
+  - massive
+  - diminutive
+
+pattern:
+  - striped
+  - spotted
+  - speckled
+  - banded
+  - blotched
+  - mottled
+  - checked
+  - paisley
+  - plaid
+  - floral
+  - geometric
+  - abstract
+  - camouflage
+  - solid
+
+texture:
+  - smooth
+  - rough
+  - furry
+  - scaly
+  - feathery
+  - silky
+  - prickly
+  - bumpy
+
+reflectivity:
+  - shiny
+  - glossy
+  - matte
+  - reflective
+  - dull
+  - lustrous
+
+transparency:
+  - transparent
+  - translucent
+  - opaque
+
+consistency:
+  - solid
+  - liquid
+  - gelatinous
+  - powdery
+  - granular
+
+flexibility:
+  - flexible
+  - rigid
+  - elastic
+  - stiff
+  - bendable
+

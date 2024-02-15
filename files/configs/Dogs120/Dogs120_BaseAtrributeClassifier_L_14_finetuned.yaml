@@ -1,0 +1,25 @@
+MODEL:
+  ARCH: FineTunedAttributeClassifier
+  BACKBONE: None
+  MODEL_SIZE: ViT-L/14
+TRAIN:
+  INPUT_SIZE: 224
+DATA:
+  ROOT_DIR: /shared-data5/guy/data/Dogs120
+#  ANNOTATIONS_FILE: files/annotations/ANET/activity_net_1_3.json
+  PATH_TO_CLASSNAMES: files/classnames/Dogs120/dogs120.txt # files/classnames/Dogs120/dogs120.txt # files/classnames/Dogs120/dogs120.txt #
+#  SPLIT_OF_FILENAMES: files/filenames/ANET/openset1/    # test.txt
+DATA_LOADER:
+  NUM_WORKERS: 16
+OPENSET:
+  ATTRIBUTES_FILE: files/clip_training_data/Dogs120/different_class_split_oxford_prompts/descriptions_for_real_zs.json #files/clip_training_data/Dogs120/complicated_prompts/descriptions_for_real_zs.json #files/clip_training_data/Dogs120/different_class_split_ethan_prompts/descriptions_for_real_zs.json #files/clip_training_data/Dogs120/different_class_split_ethan_prompts/descriptions_for_real_zs.json
+  DETECTION_THRESHOLD: 0.17
+  MAX_NUM_INTERVALS: 10
+TEST:
+  DATASET: "Dogs120"
+  SUBSET: "test"
+  BATCH_SIZE: 16 #16, 64
+  TASKS: ["mAP"]
+  NUM_DEMO_PLOTS: 30
+OUTPUT_DIR: tmp # /shared-data5/brian/exps/grounding_logs #/shared-data5/guy/exps/grounding_logs
+SAVE_RESULTS_EVERY: 100000

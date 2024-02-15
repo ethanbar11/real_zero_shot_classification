@@ -1,0 +1,22 @@
+Whippet:
+  attributes:
+  - category: Body Build
+    attribute_type: shape
+    value: The build of the dog's body is {}
+    valid:
+    - slender
+    - muscular
+
+  - category: Coat Texture
+    attribute_type: texture
+    value: The texture of the dog's coat is {}
+    valid:
+    - smooth
+    - short
+
+  - category: Leg Length
+    attribute_type: size
+    value: The length of the dog's legs is {}
+    valid:
+    - long
+    - medium
